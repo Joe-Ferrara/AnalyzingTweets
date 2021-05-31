@@ -1,0 +1,35 @@
+200
+{
+    "data": [
+        {
+            "author_id": "2244994945",
+            "id": "1398361598062854144",
+            "text": "If you've ever used Twitter's publisher tools, we want to hear from YOU. Join the embeds team next week where you can share feedback about your experience working with our publisher tools. \ud83d\udc42 \ud83d\udcdd\n\nFollow @tweetanor to join, and set a reminder: https://t.co/c0XIG3tMc2 https://t.co/nbCSGcS8S7"
+        },
+        {
+            "author_id": "2244994945",
+            "id": "1398330436305121280",
+            "text": "Weekend [code] warriors unite!\n\nStart with Standard. #twitterapi \nhttps://t.co/KQ9OBaXYNj https://t.co/MKJsZxEc0U"
+        },
+        {
+            "author_id": "2244994945",
+            "id": "1397993874254008321",
+            "text": "What happens when devs feel artsy...\ud83c\udfa8 #BuildWhatsNext @andreitr @ItsCodyBraun\nhttps://t.co/AqR96pjQNW https://t.co/morCfphpVb"
+        },
+        {
+            "author_id": "2244994945",
+            "id": "1397568983931392004",
+            "text": "The Twitter Developer Platform. Ooh la la! https://t.co/iGTdPXBfOv https://t.co/Ze8z8EODdg"
+        },
+        {
+            "author_id": "2244994945",
+            "id": "1397253448538607617",
+            "text": "Want a quick and easy reference for writing search queries? This cheat sheet has some really helpful reminders, take a peek \ud83d\udd0d\ud83d\udc40 https://t.co/cutPvsxdUq"
+        }
+    ],
+    "meta": {
+        "newest_id": "1398361598062854144",
+        "oldest_id": "1397253448538607617",
+        "result_count": 5
+    }
+}
