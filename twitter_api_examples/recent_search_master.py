@@ -3,9 +3,6 @@ import os
 import json
 import yaml
 
-# To set your environment variables in your terminal run the following line:
-# export 'BEARER_TOKEN'='<your_bearer_token>'
-
 
 def auth():
     with open('../_config/keys.yaml', 'r') as f:
@@ -15,13 +12,6 @@ def auth():
 
 def create_url():
     query = "from:twitterdev -is:retweet"
-    # Tweet fields are adjustable.
-    # Options include:
-    # attachments, author_id, context_annotations,
-    # conversation_id, created_at, entities, geo, id,
-    # in_reply_to_user_id, lang, non_public_metrics, organic_metrics,
-    # possibly_sensitive, promoted_metrics, public_metrics, referenced_tweets,
-    # source, text, and withheld
     tweet_fields = "tweet.fields=author_id"
     url = "https://api.twitter.com/2/tweets/search/recent?query={}&{}".format(
         query, tweet_fields
