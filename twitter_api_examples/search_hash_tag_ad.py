@@ -29,7 +29,7 @@ def create_query(t_start, t_end):
     # media.fields
     media_fields = "media.fields=public_metrics,duration_ms,preview_image_url"
     # max_results
-    max_results = 'max_results=100'
+    max_results = 'max_results=10'
     # time constraints
     start_time = 'start_time=' + t_start
     end_time = 'end_time=' + t_end
@@ -53,7 +53,6 @@ def create_headers(bearer_token):
 
 def connect_to_endpoint(url, headers):
     response = requests.request("GET", url, headers=headers)
-    print(response.status_code)
     if response.status_code != 200:
         raise Exception(response.status_code, response.text)
     return response.json()
