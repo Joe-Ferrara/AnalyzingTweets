@@ -82,6 +82,3390 @@
                     }
                 }
             ],
+            "conversation_id": "1400499972299276291",
+            "created_at": "2021-06-03T17:09:48.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 141,
+                        "start": 138,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 146,
+                        "start": 142,
+                        "tag": "RTX"
+                    },
+                    {
+                        "end": 151,
+                        "start": 147,
+                        "tag": "AMD"
+                    },
+                    {
+                        "end": 161,
+                        "start": 152,
+                        "tag": "rx6700xt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=z_GodG\u2026",
+                        "end": 105,
+                        "expanded_url": "https://www.youtube.com/watch?v=z_GodGqvc-A",
+                        "start": 82,
+                        "url": "https://t.co/RSfGJL2rf0"
+                    },
+                    {
+                        "display_url": "topachat.com/pages/detail2_\u2026",
+                        "end": 136,
+                        "expanded_url": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20008246.html",
+                        "start": 113,
+                        "url": "https://t.co/ODlgOlh3WB"
+                    }
+                ]
+            },
+            "id": "1400499972299276291",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "\ud83d\ude80\ud83d\udea8 [FR] [gigabyte (rx6700xt)] radeon rx xt :: IN STOCK \ud83d\udea8\ud83d\ude80  for \u20ac919.99\nStreaming: https://t.co/RSfGJL2rf0\n\nLink: https://t.co/ODlgOlh3WB\n\n#ad #RTX #AMD #rx6700xt \u23f1\ufe0fJun 03, 1:09 PM ET"
+        },
+        {
+            "author_id": "1336123093543215104",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597226799105",
+                        "name": "B2B"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783337567798169600",
+                        "name": "Products"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041873034",
+                        "name": "AMD"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10042890463",
+                        "name": "Radeon"
+                    }
+                }
+            ],
+            "conversation_id": "1400499971883995138",
+            "created_at": "2021-06-03T17:09:47.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 139,
+                        "start": 136,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 144,
+                        "start": 140,
+                        "tag": "RTX"
+                    },
+                    {
+                        "end": 149,
+                        "start": 145,
+                        "tag": "AMD"
+                    },
+                    {
+                        "end": 159,
+                        "start": 150,
+                        "tag": "rx6700xt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=z_GodG\u2026",
+                        "end": 103,
+                        "expanded_url": "https://www.youtube.com/watch?v=z_GodGqvc-A",
+                        "start": 80,
+                        "url": "https://t.co/RSfGJL2rf0"
+                    },
+                    {
+                        "display_url": "topachat.com/pages/detail2_\u2026",
+                        "end": 134,
+                        "expanded_url": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20008409.html",
+                        "start": 111,
+                        "url": "https://t.co/VMtfMC8VVG"
+                    }
+                ]
+            },
+            "id": "1400499971883995138",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "\ud83d\ude80\ud83d\udea8 [FR] [asrock (rx6700xt)] radeon rx xt :: IN STOCK \ud83d\udea8\ud83d\ude80  for \u20ac949.99\nStreaming: https://t.co/RSfGJL2rf0\n\nLink: https://t.co/VMtfMC8VVG\n\n#ad #RTX #AMD #rx6700xt \u23f1\ufe0fJun 03, 1:09 PM ET"
+        },
+        {
+            "author_id": "17680050",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Marketing",
+                        "id": "857879016971186177",
+                        "name": "Marketing"
+                    }
+                }
+            ],
+            "conversation_id": "1400499966024601605",
+            "created_at": "2021-06-03T17:09:46.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 68,
+                        "start": 65,
+                        "tag": "AD"
+                    },
+                    {
+                        "end": 93,
+                        "start": 84,
+                        "tag": "business"
+                    },
+                    {
+                        "end": 104,
+                        "start": 94,
+                        "tag": "marketing"
+                    },
+                    {
+                        "end": 114,
+                        "start": 105,
+                        "tag": "strategy"
+                    },
+                    {
+                        "end": 125,
+                        "start": 115,
+                        "tag": "postcovid"
+                    },
+                    {
+                        "end": 137,
+                        "start": 126,
+                        "tag": "reputation"
+                    },
+                    {
+                        "end": 146,
+                        "start": 138,
+                        "tag": "emotion"
+                    },
+                    {
+                        "end": 153,
+                        "start": 147,
+                        "tag": "video"
+                    },
+                    {
+                        "end": 165,
+                        "start": 154,
+                        "tag": "experience"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 83,
+                        "start": 69,
+                        "username": "jpimedialocal"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "trib.al/XVwGv8b",
+                        "end": 189,
+                        "expanded_url": "https://trib.al/XVwGv8b",
+                        "start": 166,
+                        "url": "https://t.co/MfqYqQ1XaP"
+                    }
+                ]
+            },
+            "id": "1400499966024601605",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "SocialFlow",
+            "text": "With the right strategy your business could have a bright future\n#AD @jpimedialocal #business #marketing #strategy #postcovid #reputation #emotion #video #experience\nhttps://t.co/MfqYqQ1XaP"
+        },
+        {
+            "author_id": "814796019833667584",
+            "conversation_id": "1400499951126339586",
+            "created_at": "2021-06-03T17:09:43.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 21,
+                        "tag": "ad"
+                    }
+                ]
+            },
+            "id": "1400499951126339586",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "gambled my life away #ad"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400499930352001026"
+                ]
+            },
+            "author_id": "398182076",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597222535168",
+                        "name": "Online Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10040539173",
+                        "name": "William Hill"
+                    }
+                }
+            ],
+            "conversation_id": "1400499943073329159",
+            "created_at": "2021-06-03T17:09:41.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 86,
+                        "normalized_text": "William Hill",
+                        "probability": 0.5574,
+                        "start": 75,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 121,
+                        "normalized_text": "William Hill",
+                        "probability": 0.6408,
+                        "start": 110,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 11,
+                        "tag": "Epsom"
+                    },
+                    {
+                        "end": 178,
+                        "start": 175,
+                        "tag": "Ad"
+                    },
+                    {
+                        "end": 265,
+                        "start": 257,
+                        "tag": "TheOaks"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ow.ly/7JI350DDvJm",
+                        "end": 173,
+                        "expanded_url": "http://ow.ly/7JI350DDvJm",
+                        "start": 150,
+                        "url": "https://t.co/k6Ae9go0i7"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/21R4wv3szw",
+                        "end": 289,
+                        "expanded_url": "https://twitter.com/bash_the_bookie/status/1400499943073329159/photo/1",
+                        "start": 266,
+                        "url": "https://t.co/21R4wv3szw"
+                    }
+                ]
+            },
+            "id": "1400499943073329159",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "Bet \u00a310 on #Epsom and get \u00a340 in FREE BETS:\n\n\u2705\u00a340 FREE BET!\n\u2705When you Join William Hill on Link Below  \n\nJoin William Hill to claim this offer HERE:\n\ud83d\udcf2https://t.co/k6Ae9go0i7\n\n#Ad | 18+ | T&amp;Cs | New Customers I Always Gamble Responsibly, Via Mobile Only #TheOaks https://t.co/21R4wv3szw"
+        },
+        {
+            "author_id": "1390588471962750976",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048851",
+                        "name": "Xbox"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Business",
+                        "id": "847529762566230016",
+                        "name": "Business and finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cryptocurrency",
+                        "id": "913142676819648512",
+                        "name": "Cryptocurrencies"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1205553794106281985",
+                        "name": "Xbox Series X"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048851",
+                        "name": "Xbox"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048851",
+                        "name": "Xbox"
+                    }
+                }
+            ],
+            "conversation_id": "1400499827977433095",
+            "created_at": "2021-06-03T17:09:13.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "Amazon FR Price",
+                        "probability": 0.5625,
+                        "start": 30,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 115,
+                        "normalized_text": "Xbox Series X | La nouvelle Xbox | Compatible 8K HDR",
+                        "probability": 0.3987,
+                        "start": 64,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 170,
+                        "start": 165,
+                        "tag": "Xbox"
+                    },
+                    {
+                        "end": 183,
+                        "start": 171,
+                        "tag": "XboxSeriesX"
+                    },
+                    {
+                        "end": 205,
+                        "start": 185,
+                        "tag": "BeNeLuxStockChecker"
+                    },
+                    {
+                        "end": 210,
+                        "start": 206,
+                        "tag": "BSC"
+                    },
+                    {
+                        "end": 220,
+                        "start": 211,
+                        "tag": "AmazonFR"
+                    },
+                    {
+                        "end": 224,
+                        "start": 221,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cutt.ly/gnzNany",
+                        "end": 164,
+                        "expanded_url": "https://cutt.ly/gnzNany",
+                        "start": 141,
+                        "url": "https://t.co/c1rKmef79Z"
+                    }
+                ]
+            },
+            "id": "1400499827977433095",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "source": "Twitter",
+            "text": "!! DROP NOTIFICATION !!\nShop: Amazon FR\nPrice: \u20ac416.78\nProduct: Xbox Series X | La nouvelle Xbox | Compatible 8K HDR - Amazon Warehouse\nURL: https://t.co/c1rKmef79Z\n#Xbox #XboxSeriesX\n #BeNeLuxStockChecker #BSC #AmazonFR #ad"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "16_1400499817038680068"
+                ]
+            },
+            "author_id": "1280414079065247744",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "With Jimmy Smith, Byron Saxton, and Corey Graves. \n\nPhoto via @WWE",
+                        "id": "10000504528",
+                        "name": "WWE Monday Night RAW"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "With Michael Cole and Pat McAfee. \n\nPhoto via @WWE",
+                        "id": "10001837063",
+                        "name": "WWE Friday Night SmackDown"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "WWE's next generation of superstars battle to make an impact on their rise to fame.\n\nPhoto via @WWENXT",
+                        "id": "10052063876",
+                        "name": "WWE NXT"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Types of sports, like soccer and basketball",
+                        "id": "11",
+                        "name": "Sport"
+                    },
+                    "entity": {
+                        "id": "839544341584474112",
+                        "name": "Wrestling"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Types of sports, like soccer and basketball",
+                        "id": "11",
+                        "name": "Sport"
+                    },
+                    "entity": {
+                        "description": "Fighting",
+                        "id": "1047520229192912896",
+                        "name": "Combat sports"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "description": "WWE",
+                        "id": "852587148666589184",
+                        "name": "WWE"
+                    }
+                }
+            ],
+            "conversation_id": "1400499823120420869",
+            "created_at": "2021-06-03T17:09:12.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 132,
+                        "start": 128,
+                        "tag": "WWE"
+                    },
+                    {
+                        "end": 140,
+                        "start": 133,
+                        "tag": "WWENXT"
+                    },
+                    {
+                        "end": 164,
+                        "start": 158,
+                        "tag": "NXTUK"
+                    },
+                    {
+                        "end": 173,
+                        "start": 166,
+                        "tag": "WWERAW"
+                    },
+                    {
+                        "end": 184,
+                        "start": 174,
+                        "tag": "SmackDown"
+                    },
+                    {
+                        "end": 204,
+                        "start": 185,
+                        "tag": "WRESTLINGCOMMUNITY"
+                    },
+                    {
+                        "end": 208,
+                        "start": 205,
+                        "tag": "AD"
+                    },
+                    {
+                        "end": 226,
+                        "start": 209,
+                        "tag": "WRESTLINGTWITTER"
+                    },
+                    {
+                        "end": 256,
+                        "start": 230,
+                        "tag": "VIDEOGAMESCONTROLLERHD_YT"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 127,
+                        "start": 123,
+                        "username": "WWE"
+                    },
+                    {
+                        "end": 149,
+                        "start": 142,
+                        "username": "WWENXT"
+                    },
+                    {
+                        "end": 156,
+                        "start": 150,
+                        "username": "NXTUK"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/0fxOg7L71z",
+                        "end": 280,
+                        "expanded_url": "https://twitter.com/DownloadedLink/status/1400499823120420869/photo/1",
+                        "start": 257,
+                        "url": "https://t.co/0fxOg7L71z"
+                    },
+                    {
+                        "display_url": "twitter.com/WWE/status/140\u2026",
+                        "end": 304,
+                        "expanded_url": "https://twitter.com/WWE/status/1400497518262337541",
+                        "start": 281,
+                        "url": "https://t.co/PV9mYplhaG"
+                    }
+                ]
+            },
+            "id": "1400499823120420869",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1400497518262337541",
+                    "type": "quoted"
+                }
+            ],
+            "source": "Twitter for Android",
+            "text": "WRESTLING FAN:\nAll The ABOVE.. it doesn't matter at all  who the hell cares Everyone Is different ... it doesn't matter.   @WWE #WWE #WWENXT  @WWENXT @NXTUK  #NXTUK  #WWERAW #SmackDown #WRESTLINGCOMMUNITY #AD #WRESTLINGTWITTER \n\n-#VIDEOGAMESCONTROLLERHD_YT https://t.co/0fxOg7L71z https://t.co/PV9mYplhaG"
+        },
+        {
+            "author_id": "1336123093543215104",
+            "conversation_id": "1400499822231273475",
+            "created_at": "2021-06-03T17:09:12.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 134,
+                        "start": 131,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 139,
+                        "start": 135,
+                        "tag": "RTX"
+                    },
+                    {
+                        "end": 144,
+                        "start": 140,
+                        "tag": "AMD"
+                    },
+                    {
+                        "end": 154,
+                        "start": 145,
+                        "tag": "rx6700xt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=z_GodG\u2026",
+                        "end": 98,
+                        "expanded_url": "https://www.youtube.com/watch?v=z_GodGqvc-A",
+                        "start": 75,
+                        "url": "https://t.co/RSfGJL2rf0"
+                    },
+                    {
+                        "description": "Achetez votre Carte graphique ASRock Radeon RX 6700 XT Challenger D (RX6700XT CLD 12G) sur Materiel.net ! Paiement en 3X d\u00e8s 100\u20ac, livraison rapide ou retrait en magasin | Radeon RX 6700 XT, PCI-Express 16x 4.0, GDDR6.",
+                        "display_url": "materiel.net/produit/202103\u2026",
+                        "end": 129,
+                        "expanded_url": "https://www.materiel.net/produit/202103160094.html",
+                        "images": [
+                            {
+                                "height": 900,
+                                "url": "https://pbs.twimg.com/news_img/1400298156370370563/vBdeIVyv?format=jpg&name=orig",
+                                "width": 900
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400298156370370563/vBdeIVyv?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 106,
+                        "status": 200,
+                        "title": "ASRock Radeon RX 6700 XT Challenger D - Carte graphique ASRock sur Materiel.net",
+                        "unwound_url": "https://www.materiel.net/produit/202103160094.html",
+                        "url": "https://t.co/ZDmmXgxC9H"
+                    }
+                ]
+            },
+            "id": "1400499822231273475",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "\ud83d\ude80\ud83d\udea8 [EU] [asrock (rx6700xt)] challenger :: IN STOCK \ud83d\udea8\ud83d\ude80  for \u20ac999\nStreaming: https://t.co/RSfGJL2rf0\n\nLink: https://t.co/ZDmmXgxC9H\n\n#ad #RTX #AMD #rx6700xt \u23f1\ufe0fJun 03, 1:09 PM ET"
+        },
+        {
+            "author_id": "1336123093543215104",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1232796998157209600",
+                        "name": "GIGABYTE"
+                    }
+                }
+            ],
+            "conversation_id": "1400499822218645505",
+            "created_at": "2021-06-03T17:09:12.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 135,
+                        "start": 132,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 140,
+                        "start": 136,
+                        "tag": "RTX"
+                    },
+                    {
+                        "end": 145,
+                        "start": 141,
+                        "tag": "AMD"
+                    },
+                    {
+                        "end": 155,
+                        "start": 146,
+                        "tag": "rx6700xt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=z_GodG\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.youtube.com/watch?v=z_GodGqvc-A",
+                        "start": 76,
+                        "url": "https://t.co/RSfGJL2rf0"
+                    },
+                    {
+                        "description": "Achetez votre Carte graphique Gigabyte Radeon RX 6700 XT GAMING OC (GV-R67XTGAMING OC-12GD) sur Materiel.net ! Paiement en 3X d\u00e8s 100\u20ac, livraison rapide ou retrait en magasin | Radeon RX 6700 XT, PCI-Express 16x 4.0, GDDR6.",
+                        "display_url": "materiel.net/produit/202103\u2026",
+                        "end": 130,
+                        "expanded_url": "https://www.materiel.net/produit/202103050052.html",
+                        "images": [
+                            {
+                                "height": 900,
+                                "url": "https://pbs.twimg.com/news_img/1400298155925807105/7RTXN04R?format=jpg&name=orig",
+                                "width": 900
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400298155925807105/7RTXN04R?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 107,
+                        "status": 200,
+                        "title": "Gigabyte Radeon RX 6700 XT GAMING OC - Carte graphique Gigabyte sur Materiel.net",
+                        "unwound_url": "https://www.materiel.net/produit/202103050052.html",
+                        "url": "https://t.co/KbsZvjWH5S"
+                    }
+                ]
+            },
+            "id": "1400499822218645505",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "\ud83d\ude80\ud83d\udea8 [EU] [gigabyte (rx6700xt)] gaming oc :: IN STOCK \ud83d\udea8\ud83d\ude80  for \u20ac939\nStreaming: https://t.co/RSfGJL2rf0\n\nLink: https://t.co/KbsZvjWH5S\n\n#ad #RTX #AMD #rx6700xt \u23f1\ufe0fJun 03, 1:09 PM ET"
+        },
+        {
+            "author_id": "885571814222680068",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597222604800",
+                        "name": "Beauty/Hygiene"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026339603",
+                        "name": "Proactiv"
+                    }
+                }
+            ],
+            "conversation_id": "1400499754606411776",
+            "created_at": "2021-06-03T17:08:56.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 64,
+                        "start": 61,
+                        "tag": "ad"
+                    }
+                ]
+            },
+            "id": "1400499754606411776",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "Do you think prison guards use Proactiv to prevent breakouts #ad"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400499728803041284"
+                ]
+            },
+            "author_id": "4827915752",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1354885514906624003",
+                        "name": "GameStop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Mobile gaming",
+                        "id": "847527946864607232",
+                        "name": "Mobile gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "10027034977",
+                        "name": "Assassin's Creed"
+                    }
+                }
+            ],
+            "conversation_id": "1400499732968050696",
+            "created_at": "2021-06-03T17:08:51.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "Assassin's Creed: The Rebel Collection for Switch",
+                        "probability": 0.6611,
+                        "start": 0,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 82,
+                        "normalized_text": "GameStop",
+                        "probability": 0.7126,
+                        "start": 75,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 88,
+                        "start": 85,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3uSzCud",
+                        "end": 126,
+                        "expanded_url": "https://bit.ly/3uSzCud",
+                        "start": 103,
+                        "url": "https://t.co/AO8mB8r7bv"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/vmHFpYd9kM",
+                        "end": 150,
+                        "expanded_url": "https://twitter.com/WireDeals/status/1400499732968050696/photo/1",
+                        "start": 127,
+                        "url": "https://t.co/vmHFpYd9kM"
+                    }
+                ]
+            },
+            "id": "1400499732968050696",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "source": "TweetDeck",
+            "text": "Assassin's Creed: The Rebel Collection for Switch is on sale for $16.99 at GameStop. #ad You save $23! https://t.co/AO8mB8r7bv https://t.co/vmHFpYd9kM"
+        },
+        {
+            "author_id": "1017753587311693824",
+            "conversation_id": "1400499732724830214",
+            "created_at": "2021-06-03T17:08:50.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 4,
+                        "normalized_text": "Donal",
+                        "probability": 0.7824,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 100,
+                        "normalized_text": "Fionn McCool",
+                        "probability": 0.9509,
+                        "start": 89,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 254,
+                        "start": 247,
+                        "tag": "pitmad"
+                    },
+                    {
+                        "end": 258,
+                        "start": 255,
+                        "tag": "MG"
+                    },
+                    {
+                        "end": 262,
+                        "start": 259,
+                        "tag": "AD"
+                    },
+                    {
+                        "end": 266,
+                        "start": 263,
+                        "tag": "AC"
+                    },
+                    {
+                        "end": 269,
+                        "start": 267,
+                        "tag": "F"
+                    },
+                    {
+                        "end": 273,
+                        "start": 270,
+                        "tag": "HF"
+                    }
+                ]
+            },
+            "id": "1400499732724830214",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "source": "Twitter for Android",
+            "text": "Donal, a spirited orphan foster child, must compete for a place in the training camp for Fionn McCool's Army to escape life as a servant but he is up against his jealous foster brother + a scheming High King's advisor holds a secret to his past. \n#pitmad #MG #AD #AC #F #HF"
+        },
+        {
+            "author_id": "883436749044809728",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597570732032",
+                        "name": "Multi-Purpose Department"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026347212",
+                        "name": "Walmart"
+                    }
+                }
+            ],
+            "conversation_id": "1400499720015990790",
+            "created_at": "2021-06-03T17:08:47.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 72,
+                        "normalized_text": "Walmart:World Rug Gallery Contemporary Modern Floral Flowers Area Rug",
+                        "probability": 0.4093,
+                        "start": 4,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dealingindeals.com/ad-walmartworl\u2026",
+                        "end": 121,
+                        "expanded_url": "https://dealingindeals.com/ad-walmartworld-rug-gallery-contemporary-modern-floral-flowers-area-rugsize2-x-3-for-30-85/",
+                        "start": 98,
+                        "url": "https://t.co/VImEN9WU49"
+                    }
+                ]
+            },
+            "id": "1400499720015990790",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "WordPress.com",
+            "text": "#Ad Walmart:World Rug Gallery Contemporary Modern Floral Flowers Area Rug,Size:2\u2032 x 3\u2032 for\u00a0$30.85 https://t.co/VImEN9WU49"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400499679960436736"
+                ]
+            },
+            "author_id": "1230305153355591681",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+                        "id": "1005930552363384833",
+                        "name": "Dying Light"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                }
+            ],
+            "conversation_id": "1400499681529143298",
+            "created_at": "2021-06-03T17:08:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "Dying Light 2 Stay Human (Collector\u2019s Edition)",
+                        "probability": 0.2299,
+                        "start": 4,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 65,
+                        "normalized_text": "PlayStation 4",
+                        "probability": 0.5709,
+                        "start": 53,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/3wMao2e",
+                        "end": 109,
+                        "expanded_url": "https://amzn.to/3wMao2e",
+                        "start": 86,
+                        "url": "https://t.co/NU6VNHYQmJ"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/OjHtYdnyz5",
+                        "end": 133,
+                        "expanded_url": "https://twitter.com/Sneaky_Steals/status/1400499681529143298/photo/1",
+                        "start": 110,
+                        "url": "https://t.co/OjHtYdnyz5"
+                    }
+                ]
+            },
+            "id": "1400499681529143298",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Hootsuite Inc.",
+            "text": "#ad Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4 up for pre-order!\n\nhttps://t.co/NU6VNHYQmJ https://t.co/OjHtYdnyz5"
+        },
+        {
+            "author_id": "1356684941585772545",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Board Games",
+                        "id": "872578743771963392",
+                        "name": "Tabletop gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "id": "1148209292060741632",
+                        "name": "Trading card games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "id": "1148209341138235392",
+                        "name": "Pok\u00e9mon Trading Card Game"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+                        "id": "130",
+                        "name": "Multimedia Franchise"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+                        "id": "10045599546",
+                        "name": "Pok\u00e9mon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597570732032",
+                        "name": "Multi-Purpose Department"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026325471",
+                        "name": "Best Buy"
+                    }
+                }
+            ],
+            "conversation_id": "1400499619751202817",
+            "created_at": "2021-06-03T17:08:24.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Pok\u00e9mon - Pokemon TCG",
+                        "probability": 0.4432,
+                        "start": 0,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 72,
+                        "start": 59,
+                        "tag": "pokemonCards"
+                    },
+                    {
+                        "end": 178,
+                        "start": 175,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bestbuy.7tiv.net/c/2610111/6142\u2026",
+                        "end": 152,
+                        "expanded_url": "https://bestbuy.7tiv.net/c/2610111/614286/10014?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6457445%2Fcart",
+                        "start": 129,
+                        "status": 200,
+                        "title": "Add to Cart",
+                        "unwound_url": "https://api.bestbuy.com/click/-/6457445/cart?irclickid=&irgwc=1&ref=198&loc=&acampID=0&mpid=2610111",
+                        "url": "https://t.co/38KojpcVT4"
+                    },
+                    {
+                        "display_url": "bestbuy.7tiv.net/c/2610111/6142\u2026",
+                        "end": 203,
+                        "expanded_url": "https://bestbuy.7tiv.net/c/2610111/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpokemon-pokemon-tcg-v-battle-decks-victini-or-gardevoir%2F6457445.p%3FskuId%3D6457445",
+                        "start": 180,
+                        "url": "https://t.co/lABFCFkpeF"
+                    }
+                ]
+            },
+            "id": "1400499619751202817",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "Pok\u00e9mon - Pokemon TCG: V Battle Decks Victini or Gardevoir\n#pokemonCards\nSource: Best Buy checker\nReason: Add to Cart button\n\n\ud83d\uded2: https://t.co/38KojpcVT4\n\n01:08:23.5600 PM EDT #Ad\n\nhttps://t.co/lABFCFkpeF"
+        },
+        {
+            "author_id": "1342919737358110720",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Board Games",
+                        "id": "872578743771963392",
+                        "name": "Tabletop gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "id": "1148209292060741632",
+                        "name": "Trading card games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "id": "1148209341138235392",
+                        "name": "Pok\u00e9mon Trading Card Game"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+                        "id": "130",
+                        "name": "Multimedia Franchise"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+                        "id": "10045599546",
+                        "name": "Pok\u00e9mon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597570732032",
+                        "name": "Multi-Purpose Department"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026325471",
+                        "name": "Best Buy"
+                    }
+                }
+            ],
+            "conversation_id": "1400499619675656196",
+            "created_at": "2021-06-03T17:08:24.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Pok\u00e9mon - Pokemon TCG",
+                        "probability": 0.4432,
+                        "start": 0,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 72,
+                        "start": 59,
+                        "tag": "pokemonCards"
+                    },
+                    {
+                        "end": 178,
+                        "start": 175,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bestbuy.7tiv.net/c/2610111/6142\u2026",
+                        "end": 152,
+                        "expanded_url": "https://bestbuy.7tiv.net/c/2610111/614286/10014?u=https%3A%2F%2Fapi.bestbuy.com%2Fclick%2F-%2F6457445%2Fcart",
+                        "start": 129,
+                        "url": "https://t.co/UHSIybmqxb"
+                    },
+                    {
+                        "display_url": "bestbuy.7tiv.net/c/2610111/6142\u2026",
+                        "end": 203,
+                        "expanded_url": "https://bestbuy.7tiv.net/c/2610111/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpokemon-pokemon-tcg-v-battle-decks-victini-or-gardevoir%2F6457445.p%3FskuId%3D6457445",
+                        "start": 180,
+                        "url": "https://t.co/p6DlhwwjvX"
+                    }
+                ]
+            },
+            "id": "1400499619675656196",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "Pok\u00e9mon - Pokemon TCG: V Battle Decks Victini or Gardevoir\n#pokemonCards\nSource: Best Buy checker\nReason: Add to Cart button\n\n\ud83d\uded2: https://t.co/UHSIybmqxb\n\n01:08:23.5600 PM EDT #Ad\n\nhttps://t.co/p6DlhwwjvX"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400499532639653889"
+                ]
+            },
+            "author_id": "870792786580312064",
+            "conversation_id": "1400499536246808586",
+            "created_at": "2021-06-03T17:08:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "Christy Distler",
+                        "probability": 0.9752,
+                        "start": 35,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 87,
+                        "start": 75,
+                        "tag": "kindledeals"
+                    },
+                    {
+                        "end": 91,
+                        "start": 88,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/3vHDfVh",
+                        "end": 74,
+                        "expanded_url": "https://amzn.to/3vHDfVh",
+                        "start": 51,
+                        "url": "https://t.co/dXKW5woo5i"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/DUIcU3FviD",
+                        "end": 115,
+                        "expanded_url": "https://twitter.com/christianbookde/status/1400499536246808586/photo/1",
+                        "start": 92,
+                        "url": "https://t.co/DUIcU3FviD"
+                    }
+                ]
+            },
+            "id": "1400499536246808586",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "source": "Buffer",
+            "text": "$0.99 | A Cord of Three Strands\nby Christy Distler\nhttps://t.co/dXKW5woo5i\n#kindledeals #ad https://t.co/DUIcU3FviD"
+        },
+        {
+            "author_id": "637372967",
+            "conversation_id": "1400499520316841988",
+            "created_at": "2021-06-03T17:08:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "Dialadeal"
+                    },
+                    {
+                        "end": 18,
+                        "start": 11,
+                        "tag": "Health"
+                    },
+                    {
+                        "end": 78,
+                        "start": 61,
+                        "tag": "MedicalEquipment"
+                    },
+                    {
+                        "end": 221,
+                        "start": 208,
+                        "tag": "disabilities"
+                    },
+                    {
+                        "end": 255,
+                        "start": 242,
+                        "tag": "MobilityAids"
+                    },
+                    {
+                        "end": 265,
+                        "start": 257,
+                        "tag": "Medical"
+                    },
+                    {
+                        "end": 275,
+                        "start": 272,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "planetgoldilocks.com/SeniorsShopping",
+                        "end": 60,
+                        "expanded_url": "https://www.planetgoldilocks.com/SeniorsShopping",
+                        "start": 37,
+                        "url": "https://t.co/OJ91egifJa"
+                    }
+                ]
+            },
+            "id": "1400499520316841988",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "TweetDeck",
+            "text": "#Dialadeal #Health call 855-501-5103 https://t.co/OJ91egifJa #MedicalEquipment Supplier products that help people maintaining good health, making life as comfortable and productive as possible for those with #disabilities, injuries and pain- #MobilityAids, #Medical Alert #ad"
+        },
+        {
+            "author_id": "287757072",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1324816023170682880",
+                        "name": "Sam's Club"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596807368705",
+                        "name": "Credit Cards"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026294986",
+                        "name": "MasterCard"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Business",
+                        "id": "847529762566230016",
+                        "name": "Business and finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Credit, debt and loans",
+                        "id": "847894059859402753",
+                        "name": "Credit, debt and loans"
+                    }
+                }
+            ],
+            "conversation_id": "1400499503036313611",
+            "created_at": "2021-06-03T17:07:56.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 9,
+                        "normalized_text": "Sam's Club",
+                        "probability": 0.4298,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 107,
+                        "normalized_text": "Sam's Club Mastercard",
+                        "probability": 0.4349,
+                        "start": 87,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 122,
+                        "start": 119,
+                        "tag": "ad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 118,
+                        "start": 109,
+                        "username": "SamsClub"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "trib.al/cIaDEyS",
+                        "end": 146,
+                        "expanded_url": "https://trib.al/cIaDEyS",
+                        "start": 123,
+                        "url": "https://t.co/JFkLSAa1mX"
+                    }
+                ]
+            },
+            "id": "1400499503036313611",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "SocialFlow",
+            "text": "Sam's Club members can earn cash back on purchases \u2014 in and out of the club \u2014 with the Sam's Club Mastercard @SamsClub #ad https://t.co/JFkLSAa1mX"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "7_1400499132322693120"
+                ]
+            },
+            "author_id": "1310357833",
+            "conversation_id": "1400499303504879619",
+            "created_at": "2021-06-03T17:07:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "Nitro Nights",
+                        "probability": 0.7714,
+                        "start": 35,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 169,
+                        "start": 158,
+                        "tag": "OverTakeGG"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 64,
+                        "start": 51,
+                        "username": "Chris_HayeSR"
+                    },
+                    {
+                        "end": 182,
+                        "start": 170,
+                        "username": "OverTake_gg"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/0pfj7hduJYs",
+                        "end": 156,
+                        "expanded_url": "http://youtu.be/0pfj7hduJYs",
+                        "start": 133,
+                        "url": "https://t.co/qT8ix5g1e0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/mkpkn4G4MU",
+                        "end": 206,
+                        "expanded_url": "https://twitter.com/tylerfeelin/status/1400499303504879619/video/1",
+                        "start": 183,
+                        "url": "https://t.co/mkpkn4G4MU"
+                    }
+                ]
+            },
+            "id": "1400499303504879619",
+            "public_metrics": {
+                "like_count": 9,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "#ad Checkout the latest episode of Nitro Nights as @Chris_HayeSR joined me to talk about where to stick your money in simracing!\n\n\u25b6\ufe0f https://t.co/qT8ix5g1e0\n\n#OverTakeGG @OverTake_gg https://t.co/mkpkn4G4MU"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400495269964308483"
+                ]
+            },
+            "author_id": "263257931",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1349863060534513665",
+                        "name": "Party Poker"
+                    }
+                }
+            ],
+            "conversation_id": "1400499268369088513",
+            "created_at": "2021-06-03T17:07:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 241,
+                        "start": 238,
+                        "tag": "Ad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 164,
+                        "start": 152,
+                        "username": "TWEnclosure"
+                    },
+                    {
+                        "end": 222,
+                        "start": 211,
+                        "username": "partypoker"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "BeGambleAware.org",
+                        "end": 284,
+                        "expanded_url": "http://BeGambleAware.org",
+                        "start": 261,
+                        "url": "https://t.co/rGiIaLM32t"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/HxD1vPKiBQ",
+                        "end": 308,
+                        "expanded_url": "https://twitter.com/FootyAccums/status/1400499268369088513/photo/1",
+                        "start": 285,
+                        "url": "https://t.co/HxD1vPKiBQ"
+                    }
+                ]
+            },
+            "id": "1400499268369088513",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "source": "TweetDeck",
+            "text": "\u2666\ufe0fOur 2nd Golden Chip Challenge tourney is TONIGHT at 7pm!\n\n\ud83d\udcb0\u00a31,000 Guaranteed\n\u2666\ufe0f\u00a35.50 buy-in\n\nGolden Chips for:\n\ud83d\udd1dTop 20\n\ud83d\udcc8 Last Longer &amp; High Hand\n\ud83c\udfaf@TWEnclosure KO\n\nEach Chip is a $5.50 entry to the $5K GTD @partypoker Community KO!\n\n#Ad 18+ T&amp;Cs Apply https://t.co/rGiIaLM32t https://t.co/HxD1vPKiBQ"
+        },
+        {
+            "author_id": "84047860",
+            "conversation_id": "1400499177105334275",
+            "created_at": "2021-06-03T17:06:38.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 165,
+                        "start": 152,
+                        "tag": "OMFinanceDay"
+                    },
+                    {
+                        "end": 169,
+                        "start": 166,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3vtP0hG",
+                        "end": 150,
+                        "expanded_url": "https://bit.ly/3vtP0hG",
+                        "start": 127,
+                        "url": "https://t.co/hHgUY4jbv4"
+                    }
+                ]
+            },
+            "id": "1400499177105334275",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "Adulting is just a fancy word for bills \ud83e\udd23\ud83d\ude2d I read this the other day and was like, jaaa maaan \ud83e\udd15\ud83e\udd74 so true!\n\nFind out more here: https://t.co/hHgUY4jbv4\n #OMFinanceDay #Ad"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400499126861717513"
+                ]
+            },
+            "author_id": "14877019",
+            "conversation_id": "1400499129084747784",
+            "created_at": "2021-06-03T17:06:27.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Warhammer Skulls Sale",
+                        "probability": 0.59,
+                        "start": 0,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 56,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3caQpCv",
+                        "end": 55,
+                        "expanded_url": "https://bit.ly/3caQpCv",
+                        "start": 32,
+                        "url": "https://t.co/M5u2UBsNJD"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Xlw8gRcugh",
+                        "end": 83,
+                        "expanded_url": "https://twitter.com/Lbabinz/status/1400499129084747784/photo/1",
+                        "start": 60,
+                        "url": "https://t.co/Xlw8gRcugh"
+                    }
+                ]
+            },
+            "id": "1400499129084747784",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Hootsuite Inc.",
+            "text": "Warhammer Skulls Sale at Humble https://t.co/M5u2UBsNJD #ad https://t.co/Xlw8gRcugh"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400499020469055492"
+                ]
+            },
+            "author_id": "2188714462",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+                        "id": "1005930552363384833",
+                        "name": "Dying Light"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                }
+            ],
+            "conversation_id": "1400499091491147778",
+            "created_at": "2021-06-03T17:06:18.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 47,
+                        "normalized_text": "Dying Light 2 Stay Human Collector\u2019s Edition PS4",
+                        "probability": 0.3343,
+                        "start": 0,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 67,
+                        "normalized_text": "Amazon",
+                        "probability": 0.4591,
+                        "start": 62,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 94,
+                        "start": 91,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4",
+                        "display_url": "amzn.to/3wW6aFm",
+                        "end": 90,
+                        "expanded_url": "http://amzn.to/3wW6aFm",
+                        "images": [
+                            {
+                                "height": 350,
+                                "url": "https://pbs.twimg.com/news_img/1400499099623960576/YXAia8c7?format=png&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400499099623960576/YXAia8c7?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 67,
+                        "status": 200,
+                        "title": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4",
+                        "unwound_url": "https://www.amazon.com/dp/B095R1ZP1C?ie=UTF8&smid=ATVPDKIKX0DER&th=1&linkCode=sl1&tag=ps5onlyus-20&linkId=2bc33f198a0e23c53999dd3be0c4325d&language=en_US&ref_=as_li_ss_tl",
+                        "url": "https://t.co/fGesRUiiVl"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/fX9LkhSaSb",
+                        "end": 118,
+                        "expanded_url": "https://twitter.com/PS5only/status/1400499091491147778/photo/1",
+                        "start": 95,
+                        "url": "https://t.co/fX9LkhSaSb"
+                    }
+                ]
+            },
+            "id": "1400499091491147778",
+            "public_metrics": {
+                "like_count": 18,
+                "quote_count": 2,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "source": "TweetDeck",
+            "text": "Dying Light 2 Stay Human Collector\u2019s Edition PS4 $229.99\n\ud83c\uddfa\ud83c\uddf8 Amazon https://t.co/fGesRUiiVl #ad https://t.co/fX9LkhSaSb"
+        },
+        {
+            "author_id": "15638352",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Science",
+                        "id": "854692455005921281",
+                        "name": "Science"
+                    }
+                }
+            ],
+            "conversation_id": "1400498929343418370",
+            "created_at": "2021-06-03T17:05:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 206,
+                        "start": 201,
+                        "tag": "STEM"
+                    },
+                    {
+                        "end": 268,
+                        "start": 261,
+                        "tag": "pitmad"
+                    },
+                    {
+                        "end": 272,
+                        "start": 269,
+                        "tag": "MG"
+                    },
+                    {
+                        "end": 276,
+                        "start": 273,
+                        "tag": "AD"
+                    },
+                    {
+                        "end": 279,
+                        "start": 277,
+                        "tag": "M"
+                    }
+                ]
+            },
+            "id": "1400498929343418370",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "source": "Twitter for iPhone",
+            "text": "WESTING GAMExNATIONAL TREASURE\n12yo Knox, a washed-up spelling champ, must find stolen gold to unlock the secrets of a cryptic puzzleball, stop a global crime spree, and rescue his family.\n\nToss in:\n4 #STEM-savvy friends\nForged photos w/ codes\nA solar eclipse\n\n#pitmad #MG #AD #M"
+        },
+        {
+            "author_id": "838109464809066498",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026713294",
+                        "name": "Nintendo"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A Video Game Publisher like 'Activision'",
+                        "id": "78",
+                        "name": "Video Game Publisher"
+                    },
+                    "entity": {
+                        "id": "10026713294",
+                        "name": "Nintendo"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "description": "Amazon - AI",
+                        "id": "10050907867",
+                        "name": "Amazon - AI"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "description": "Nintendo Switch",
+                        "id": "856739783577554949",
+                        "name": "Nintendo Switch"
+                    }
+                }
+            ],
+            "conversation_id": "1400498928429187074",
+            "created_at": "2021-06-03T17:05:39.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 65,
+                        "normalized_text": "YCCTEAM Switch Charger AC Adapter 15V",
+                        "probability": 0.5848,
+                        "start": 29,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 12,
+                        "tag": "NintendoSwitch"
+                    },
+                    {
+                        "end": 117,
+                        "start": 102,
+                        "tag": "NintendoSwitch"
+                    },
+                    {
+                        "end": 181,
+                        "start": 178,
+                        "tag": "Ad"
+                    },
+                    {
+                        "end": 189,
+                        "start": 182,
+                        "tag": "Amazon"
+                    },
+                    {
+                        "end": 203,
+                        "start": 190,
+                        "tag": "UnitedStates"
+                    },
+                    {
+                        "end": 213,
+                        "start": 204,
+                        "tag": "Nintendo"
+                    },
+                    {
+                        "end": 226,
+                        "start": 214,
+                        "tag": "Ninthusiast"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amazon.com/dp/B07RLZPYK1/\u2026",
+                        "end": 252,
+                        "expanded_url": "https://www.amazon.com/dp/B07RLZPYK1/?tag=tw-nintendo-20&linkCode=ogi&th=1&psc=1",
+                        "start": 229,
+                        "url": "https://t.co/a5wIika7nq"
+                    }
+                ]
+            },
+            "id": "1400498928429187074",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Racing Snail Post Service",
+            "text": "Charger for #NintendoSwitch, YCCTEAM Switch Charger AC Adapter 15V/2.6A Fast Charging Replacement for #NintendoSwitch/Switch Lite with 5FT Type C Cable, Support TV Mode and Dock #Ad #Amazon #UnitedStates #Nintendo #Ninthusiast\n\ud83d\udd17 https://t.co/a5wIika7nq"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498910578327556"
+                ]
+            },
+            "author_id": "1008832405124403200",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041893684",
+                        "name": "Instagram"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Business",
+                        "id": "847529762566230016",
+                        "name": "Business and finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Advertising",
+                        "id": "857878521472888832",
+                        "name": "Advertising"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Marketing",
+                        "id": "857879016971186177",
+                        "name": "Marketing"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Business",
+                        "id": "847529762566230016",
+                        "name": "Business and finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Technology",
+                        "id": "857879456773357569",
+                        "name": "Technology"
+                    }
+                }
+            ],
+            "conversation_id": "1400498911861686274",
+            "created_at": "2021-06-03T17:05:35.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 97,
+                        "normalized_text": "Seth Godin",
+                        "probability": 0.9941,
+                        "start": 88,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 119,
+                        "start": 107,
+                        "tag": "Advertising"
+                    },
+                    {
+                        "end": 127,
+                        "start": 120,
+                        "tag": "Online"
+                    },
+                    {
+                        "end": 146,
+                        "start": 128,
+                        "tag": "InternetMarketing"
+                    },
+                    {
+                        "end": 164,
+                        "start": 147,
+                        "tag": "DigitalMarketing"
+                    },
+                    {
+                        "end": 174,
+                        "start": 165,
+                        "tag": "Internet"
+                    },
+                    {
+                        "end": 187,
+                        "start": 175,
+                        "tag": "SocialMedia"
+                    },
+                    {
+                        "end": 191,
+                        "start": 188,
+                        "tag": "Ad"
+                    },
+                    {
+                        "end": 200,
+                        "start": 192,
+                        "tag": "Website"
+                    },
+                    {
+                        "end": 212,
+                        "start": 201,
+                        "tag": "Technology"
+                    },
+                    {
+                        "end": 222,
+                        "start": 213,
+                        "tag": "Business"
+                    },
+                    {
+                        "end": 238,
+                        "start": 223,
+                        "tag": "BusinessGrowth"
+                    },
+                    {
+                        "end": 248,
+                        "start": 239,
+                        "tag": "Facebook"
+                    },
+                    {
+                        "end": 259,
+                        "start": 249,
+                        "tag": "Instagram"
+                    },
+                    {
+                        "end": 268,
+                        "start": 260,
+                        "tag": "Twitter"
+                    },
+                    {
+                        "end": 276,
+                        "start": 269,
+                        "tag": "conten"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/zaYYZkNu43",
+                        "end": 303,
+                        "expanded_url": "https://twitter.com/digibrandstudio/status/1400498911861686274/photo/1",
+                        "start": 280,
+                        "url": "https://t.co/zaYYZkNu43"
+                    }
+                ]
+            },
+            "id": "1400498911861686274",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Cloud Campaign",
+            "text": "Marketing is no longer about the stuff that you make, but about the stories you tell.\u201d \u2013Seth Godin\n\n .\n.\n.\n#Advertising #Online #InternetMarketing #DigitalMarketing #Internet #SocialMedia #Ad #Website #Technology #Business #BusinessGrowth #Facebook #Instagram #Twitter #conten... https://t.co/zaYYZkNu43"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498895852027905"
+                ]
+            },
+            "author_id": "1284715483",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+                        "id": "1005930552363384833",
+                        "name": "Dying Light"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                }
+            ],
+            "conversation_id": "1400498897865281541",
+            "created_at": "2021-06-03T17:05:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 61,
+                        "start": 49,
+                        "tag": "PlayStation"
+                    },
+                    {
+                        "end": 69,
+                        "start": 66,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 75,
+                        "start": 70,
+                        "tag": "Deal"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amazon.com/dp/B095R1ZP1C?\u2026",
+                        "end": 101,
+                        "expanded_url": "https://www.amazon.com/dp/B095R1ZP1C?tag=judgment-20",
+                        "start": 78,
+                        "url": "https://t.co/Me9ZjyUl2K"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/cJNXUSaiLx",
+                        "end": 125,
+                        "expanded_url": "https://twitter.com/CoolDealCA/status/1400498897865281541/photo/1",
+                        "start": 102,
+                        "url": "https://t.co/cJNXUSaiLx"
+                    }
+                ]
+            },
+            "id": "1400498897865281541",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "scal.club",
+            "text": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 #PlayStation 4 \n\n#ad #Deal\n\n https://t.co/Me9ZjyUl2K https://t.co/cJNXUSaiLx"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498675785244679"
+                ]
+            },
+            "author_id": "1087959850917740546",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+                        "id": "1005930552363384833",
+                        "name": "Dying Light"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                }
+            ],
+            "conversation_id": "1400498872695201794",
+            "created_at": "2021-06-03T17:05:25.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 61,
+                        "normalized_text": "PlayStation 4",
+                        "probability": 0.63,
+                        "start": 49,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 91,
+                        "start": 88,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/3uIYOmV",
+                        "end": 86,
+                        "expanded_url": "https://amzn.to/3uIYOmV",
+                        "start": 63,
+                        "url": "https://t.co/R05HEJILJ5"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/4PBd88X4LY",
+                        "end": 115,
+                        "expanded_url": "https://twitter.com/spieltimes/status/1400498872695201794/photo/1",
+                        "start": 92,
+                        "url": "https://t.co/4PBd88X4LY"
+                    }
+                ]
+            },
+            "id": "1400498872695201794",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "source": "TweetDeck",
+            "text": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4 https://t.co/R05HEJILJ5\n\n#ad https://t.co/4PBd88X4LY"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498796119875584"
+                ]
+            },
+            "author_id": "268270621",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "@Vikkstar123",
+                        "id": "1126912968694779904",
+                        "name": "Vikkstar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Influencers who create content on digital platforms",
+                        "id": "120",
+                        "name": "Digital Creator"
+                    },
+                    "entity": {
+                        "description": "@Vikkstar123",
+                        "id": "1126912968694779904",
+                        "name": "Vikkstar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "136",
+                        "name": "Video Game Personality "
+                    },
+                    "entity": {
+                        "description": "@Vikkstar123",
+                        "id": "1126912968694779904",
+                        "name": "Vikkstar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026364234",
+                        "name": "Samsung "
+                    }
+                }
+            ],
+            "conversation_id": "1400498799370551299",
+            "created_at": "2021-06-03T17:05:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 107,
+                        "normalized_text": "Neo QLED QN900A TV \ud83d\udc4c Object Tracking Sound Pro",
+                        "probability": 0.5027,
+                        "start": 61,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 191,
+                        "normalized_text": "The Motion Xcelerator Turbo Plus",
+                        "probability": 0.5901,
+                        "start": 160,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 237,
+                        "start": 222,
+                        "tag": "SamsungNeoQLED"
+                    },
+                    {
+                        "end": 252,
+                        "start": 238,
+                        "tag": "TeamSamsungUK"
+                    },
+                    {
+                        "end": 256,
+                        "start": 253,
+                        "tag": "Ad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 60,
+                        "start": 50,
+                        "username": "SamsungUK"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/bdXuMMdYhr",
+                        "end": 280,
+                        "expanded_url": "https://twitter.com/Vikkstar123/status/1400498799370551299/photo/1",
+                        "start": 257,
+                        "url": "https://t.co/bdXuMMdYhr"
+                    }
+                ]
+            },
+            "id": "1400498799370551299",
+            "public_metrics": {
+                "like_count": 2844,
+                "quote_count": 5,
+                "reply_count": 33,
+                "retweet_count": 21
+            },
+            "source": "Twitter for iPhone",
+            "text": "AD | Long weekend spent chilling and gaming on my @SamsungUK Neo QLED QN900A TV \ud83d\udc4c Object Tracking Sound Pro is taking gaming to whole new immersive level, and The Motion Xcelerator Turbo Plus keeping things super smooth \ud83d\ude0e #SamsungNeoQLED #TeamSamsungUK #Ad https://t.co/bdXuMMdYhr"
+        },
+        {
+            "author_id": "119932874",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Food",
+                        "id": "824777229892661248",
+                        "name": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Pizza",
+                        "id": "825048935626469376",
+                        "name": "Pizza"
+                    }
+                }
+            ],
+            "conversation_id": "1400498765719560196",
+            "created_at": "2021-06-03T17:05:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Dionara",
+                        "probability": 0.4317,
+                        "start": 30,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 264,
+                        "start": 257,
+                        "tag": "PitMad"
+                    },
+                    {
+                        "end": 268,
+                        "start": 265,
+                        "tag": "MG"
+                    },
+                    {
+                        "end": 272,
+                        "start": 269,
+                        "tag": "AC"
+                    },
+                    {
+                        "end": 275,
+                        "start": 273,
+                        "tag": "F"
+                    },
+                    {
+                        "end": 279,
+                        "start": 276,
+                        "tag": "AD"
+                    }
+                ]
+            },
+            "id": "1400498765719560196",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "source": "TweetDeck",
+            "text": "DRAGONS AND PIZZA 12-year-old Dionara delivers pizzas... flying on the back of her dragon Zorax. But when a giant corporation threatens to take Zorax away forever, they have to enter the world of dragon-fighting tournaments to \"deliver\" some butt-whooping! #PitMad #MG #AC #F #AD"
+        },
+        {
+            "author_id": "816171751",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1349863060534513665",
+                        "name": "Party Poker"
+                    }
+                }
+            ],
+            "conversation_id": "1400498765333778440",
+            "created_at": "2021-06-03T17:05:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 259,
+                        "start": 256,
+                        "tag": "Ad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 34,
+                        "start": 22,
+                        "username": "FootyAccums"
+                    },
+                    {
+                        "end": 78,
+                        "start": 67,
+                        "username": "partypoker"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "footy.ac/PokerFA",
+                        "end": 107,
+                        "expanded_url": "http://footy.ac/PokerFA",
+                        "start": 84,
+                        "url": "https://t.co/uH770xW5As"
+                    },
+                    {
+                        "display_url": "BeGambleAware.org",
+                        "end": 287,
+                        "expanded_url": "http://BeGambleAware.org",
+                        "start": 264,
+                        "url": "https://t.co/tIrF821Kgd"
+                    }
+                ]
+            },
+            "id": "1400498765333778440",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "How to enter tonights @FootyAccums Golden Chip Challenge\n\n1\ufe0f\u20e3 Join @partypoker &gt; https://t.co/uH770xW5As\n2\ufe0f\u20e3 Tourneys\n3\ufe0f\u20e3 Filters\n4\ufe0f\u20e3 Select 'restricted' only\n5\ufe0f\u20e3 Scroll to FootyAccums Golden Chip Challenge\n6\ufe0f\u20e3 Password: FAPOKER\n\n\u2666\ufe0fJust \u00a35.50 to play!\n\n#Ad 18+ https://t.co/tIrF821Kgd"
+        },
+        {
+            "author_id": "1336123093543215104",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1232796998157209600",
+                        "name": "GIGABYTE"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597226799105",
+                        "name": "B2B"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783337567798169600",
+                        "name": "Products"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041873034",
+                        "name": "AMD"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10042890463",
+                        "name": "Radeon"
+                    }
+                }
+            ],
             "conversation_id": "1400498699617374214",
             "created_at": "2021-06-03T17:04:44.000Z",
             "entities": {
@@ -859,6 +4243,7 @@
                         "end": 95,
                         "expanded_url": "https://buff.ly/2Bt3ebC",
                         "start": 72,
+                        "unwound_url": "https://www.glossier.com/products?g_ref=d985b8db0abb14&redirected=1",
                         "url": "https://t.co/SfMMoS4CB7"
                     },
                     {
@@ -995,49 +4380,17 @@
                 ],
                 "urls": [
                     {
-                        "description": "Be the first to try and discover new products, content and offers from all\u00ae free clear. Join the all free clear connection to share your thoughts with friends to earn points, badges and exclusive opportunities from all free clear!",
                         "display_url": "h3.sml360.com/-/46bbj",
                         "end": 23,
                         "expanded_url": "http://h3.sml360.com/-/46bbj",
-                        "images": [
-                            {
-                                "height": 360,
-                                "url": "https://pbs.twimg.com/news_img/1400482206062100485/bPUX8YXs?format=png&name=orig",
-                                "width": 360
-                            },
-                            {
-                                "height": 150,
-                                "url": "https://pbs.twimg.com/news_img/1400482206062100485/bPUX8YXs?format=png&name=150x150",
-                                "width": 150
-                            }
-                        ],
                         "start": 0,
-                        "status": 200,
-                        "title": "Welcome to the all free clear connection!",
-                        "unwound_url": "https://all-free-clear.socialmedialink.com/members/sign_in",
                         "url": "https://t.co/ag0wBxasnv"
                     },
                     {
-                        "description": "Be the first to try and discover new products, content and offers from all\u00ae free clear. Join the all free clear connection to share your thoughts with friends to earn points, badges and exclusive opportunities from all free clear!",
                         "display_url": "h3.sml360.com/-/46bbr",
                         "end": 242,
                         "expanded_url": "http://h3.sml360.com/-/46bbr",
-                        "images": [
-                            {
-                                "height": 360,
-                                "url": "https://pbs.twimg.com/news_img/1400482206062100485/bPUX8YXs?format=png&name=orig",
-                                "width": 360
-                            },
-                            {
-                                "height": 150,
-                                "url": "https://pbs.twimg.com/news_img/1400482206062100485/bPUX8YXs?format=png&name=150x150",
-                                "width": 150
-                            }
-                        ],
                         "start": 219,
-                        "status": 200,
-                        "title": "Welcome to the all free clear connection!",
-                        "unwound_url": "https://all-free-clear.socialmedialink.com/members/sign_in",
                         "url": "https://t.co/kIiUhocSO9"
                     }
                 ]
@@ -1133,6 +4486,7 @@
                         "end": 196,
                         "expanded_url": "https://click.linksynergy.com/deeplink?id=QL631ke*Df8&mid=44583&murl=https%3A%2F%2Fwww.newegg.com%2Feclipse-gray-asus-rog-strix-g17-g713qr-es96-gaming-entertainment%2Fp%2FN82E16834235619R%3FItem%3DN82E16834235619R%26Description%3Drtx%203070%20bundle%26cm_re%3Drtx_3070%20bundle-_-34-235-619R-_-Product",
                         "start": 173,
+                        "unwound_url": "https://click.linksynergy.com/deeplink?id=QL631ke*Df8&mid=44583&murl=https%3A%2F%2Fwww.newegg.com%2Feclipse-gray-asus-rog-strix-g17-g713qr-es96-gaming-entertainment%2Fp%2FN82E16834235619R%3FItem%3DN82E16834235619R%26Description%3Drtx%203070%20bundle%26cm_re%3Drtx_3070%20bundle-_-34-235-619R-_-Product",
                         "url": "https://t.co/nyXhtJJ0D5"
                     }
                 ]
@@ -1561,7 +4915,6 @@
                         "end": 123,
                         "expanded_url": "https://click.linksynergy.com/deeplink?id=6bv1a7ZZOYU&mid=24348&murl=https%3A%2F%2Fwww.gamestop.com%2Fcollection%2Fbounty-hunter-collection%3Fsf145041323%3D1",
                         "start": 100,
-                        "unwound_url": "https://click.linksynergy.com/deeplink?id=6bv1a7ZZOYU&mid=24348&murl=https%3A%2F%2Fwww.gamestop.com%2Fcollection%2Fbounty-hunter-collection%3Fsf145041323%3D1",
                         "url": "https://t.co/hdsRXBmuBR"
                     },
                     {
@@ -1664,7 +5017,7 @@
             },
             "id": "1400498162318647299",
             "public_metrics": {
-                "like_count": 110,
+                "like_count": 111,
                 "quote_count": 0,
                 "reply_count": 4,
                 "retweet_count": 106
@@ -2305,6 +5658,7 @@
                         "end": 101,
                         "expanded_url": "https://dealingindeals.com/ad-walmartwalnew-zero-gravity-chair-camp-reclining-lounge-chairs-for-84-99/",
                         "start": 78,
+                        "unwound_url": "https://dealingindeals.com/ad-walmartwalnew-zero-gravity-chair-camp-reclining-lounge-chairs-for-84-99/",
                         "url": "https://t.co/bJsxY8SMwe"
                     }
                 ]
@@ -3184,10 +6538,14 @@
                 ],
                 "urls": [
                     {
+                        "description": "Bet online on all your favourite sports. Get competitive odds and bet online with SportNation, the sports betting site for soccer, horse racing, tennis, golf and more",
                         "display_url": "bit.ly/3csVM0S",
                         "end": 98,
                         "expanded_url": "http://bit.ly/3csVM0S",
                         "start": 75,
+                        "status": 200,
+                        "title": "Online Sports Betting - Sports Betting Sites UK | SportNation",
+                        "unwound_url": "https://www.sportnation.bet/sports/?",
                         "url": "https://t.co/f6qMouhGcF"
                     },
                     {
@@ -3313,7 +6671,7 @@
             },
             "id": "1400497737490210819",
             "public_metrics": {
-                "like_count": 14,
+                "like_count": 15,
                 "quote_count": 0,
                 "reply_count": 1,
                 "retweet_count": 0
@@ -3602,7 +6960,7 @@
             },
             "id": "1400497704673947650",
             "public_metrics": {
-                "like_count": 264,
+                "like_count": 266,
                 "quote_count": 1,
                 "reply_count": 15,
                 "retweet_count": 6
@@ -3704,26 +7062,10 @@
                 ],
                 "urls": [
                     {
-                        "description": "This vehicle has sat outside for the last six years, was running and driving when it drove to where it still sits.",
                         "display_url": "ebay.co.uk/itm/1648966630\u2026",
                         "end": 56,
                         "expanded_url": "https://www.ebay.co.uk/itm/164896663057?hash=item26649b6611:g:xzEAAOSwOfRguQMN&mkcid=1&mkrid=710-53481-19255-0&siteid=3&campid=5337535757&customid=twitbarnandin&toolid=10001&mkevt=1",
-                        "images": [
-                            {
-                                "height": 400,
-                                "url": "https://pbs.twimg.com/news_img/1400497704229380102/y4d2iwNj?format=jpg&name=orig",
-                                "width": 300
-                            },
-                            {
-                                "height": 150,
-                                "url": "https://pbs.twimg.com/news_img/1400497704229380102/y4d2iwNj?format=jpg&name=150x150",
-                                "width": 150
-                            }
-                        ],
                         "start": 33,
-                        "status": 200,
-                        "title": "Ford Anglia",
-                        "unwound_url": "https://www.ebay.co.uk/itm/164896663057?hash=item26649b6611:g:xzEAAOSwOfRguQMN&mkcid=1&mkrid=710-53481-19255-0&siteid=3&campid=5337535757&customid=twitbarnandin&toolid=10001&mkevt=1",
                         "url": "https://t.co/n9r4tpB8xg"
                     }
                 ]
@@ -3966,29 +7308,15 @@
                         "end": 135,
                         "expanded_url": "http://bit.ly/GYTOValueTip",
                         "start": 112,
+                        "status": 200,
+                        "unwound_url": "https://smart.link/njd3enurs9ym8",
                         "url": "https://t.co/quK4OMw0Pc"
                     },
                     {
-                        "description": "We offer free, confidential help and support to anyone who\u2019s worried about their \u2013 or someone else\u2019s \u2013 gambling. See how others have gained control of their gambling and take our tests to get the tools that are right for you. Find out if you have a g ambling problem and see what others have done to overcome theirs. You can also access useful tools to help you feel in control again. It can be hard to know what to say or do. Learn how to help someone who\u2019s gambling and get support and advice so you can",
                         "display_url": "begambleaware.org",
                         "end": 164,
                         "expanded_url": "http://begambleaware.org",
-                        "images": [
-                            {
-                                "height": 517,
-                                "url": "https://pbs.twimg.com/news_img/1401059929834803200/gElgkz8m?format=png&name=orig",
-                                "width": 517
-                            },
-                            {
-                                "height": 150,
-                                "url": "https://pbs.twimg.com/news_img/1401059929834803200/gElgkz8m?format=png&name=150x150",
-                                "width": 150
-                            }
-                        ],
                         "start": 141,
-                        "status": 200,
-                        "title": "BeGambleAware\u00ae: Gambling Help & Gambling Addiction | BeGambleAware",
-                        "unwound_url": "https://www.begambleaware.org/",
                         "url": "https://t.co/GisfAMgBYD"
                     },
                     {
@@ -5315,8 +8643,6 @@
                         "end": 257,
                         "expanded_url": "http://portsmouthguildhall.org.uk/whats-on/",
                         "start": 234,
-                        "status": 404,
-                        "unwound_url": "http://portsmouthguildhall.org.uk/whats-on/",
                         "url": "https://t.co/pRHyxwRSHu"
                     },
                     {
@@ -5337,107 +8663,6 @@
             },
             "source": "TweetDeck",
             "text": "#Ad \nWe are so happy to see venues like @PortsmouthGhall opening up again! This new normal is starting to feel so normal and we can't wait to book something up, support our local venues and have a great night!\n\nWhat are going to see?\nhttps://t.co/pRHyxwRSHu https://t.co/s19nguJSYz"
-        },
-        {
-            "author_id": "1267668613441388545",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
-                        "id": "46",
-                        "name": "Brand Category"
-                    },
-                    "entity": {
-                        "id": "781974596752842752",
-                        "name": "Services"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Brands and Companies",
-                        "id": "47",
-                        "name": "Brand"
-                    },
-                    "entity": {
-                        "description": "Twitch",
-                        "id": "1054826545758396416",
-                        "name": "Twitch"
-                    }
-                }
-            ],
-            "conversation_id": "1400497509156282372",
-            "created_at": "2021-06-03T17:00:00.000Z",
-            "entities": {
-                "hashtags": [
-                    {
-                        "end": 109,
-                        "start": 101,
-                        "tag": "Warzone"
-                    },
-                    {
-                        "end": 218,
-                        "start": 215,
-                        "tag": "Ad"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "ghostxcell87"
-                    },
-                    {
-                        "end": 226,
-                        "start": 219,
-                        "username": "sme_rt"
-                    },
-                    {
-                        "end": 235,
-                        "start": 227,
-                        "username": "SGH_RTs"
-                    },
-                    {
-                        "end": 249,
-                        "start": 236,
-                        "username": "Streamboosts"
-                    },
-                    {
-                        "end": 260,
-                        "start": 250,
-                        "username": "wwwanpaus"
-                    },
-                    {
-                        "end": 275,
-                        "start": 261,
-                        "username": "promo_streams"
-                    }
-                ],
-                "urls": [
-                    {
-                        "display_url": "twitch.tv/ghostxcell",
-                        "end": 180,
-                        "expanded_url": "https://www.twitch.tv/ghostxcell",
-                        "start": 157,
-                        "url": "https://t.co/BdwuWYabss"
-                    },
-                    {
-                        "display_url": "youtube.com/channel/UCyXLB\u2026",
-                        "end": 213,
-                        "expanded_url": "https://www.youtube.com/channel/UCyXLBs1vK8FZdAWpcyP9hYA",
-                        "start": 190,
-                        "url": "https://t.co/64YRHbL7jR"
-                    }
-                ]
-            },
-            "id": "1400497509156282372",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "source": "Twitter Web App",
-            "text": "@ghostxcell87 is an amazing\ud83d\ude0estreamer who brings the best out of everything he plays! Watch him play\ud83c\udfae #Warzone with great commentary and gameplay!\ud83d\udd25\n\nTwitch - https://t.co/BdwuWYabss\nYoutube -https://t.co/64YRHbL7jR\n\n#Ad @sme_rt @SGH_RTs @Streamboosts @wwwanpaus @promo_streams"
         },
         {
             "author_id": "150912369",
@@ -5742,98 +8967,68 @@
             },
             "source": "Twitter Web App",
             "text": "PEACE FROG. Comp: Girl Saves the World in This One. #YA #AD When student Peace Frog solves world peace, malevolent forces send her crew of athletes on the road trip of their lives. Where fear rules, can they reach the World Summit in time to save humanity? #LGBT #OWN #Pitmad"
-        },
-        {
-            "attachments": {
-                "media_keys": [
-                    "3_1400454665636966412"
-                ]
-            },
-            "author_id": "4895702097",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
-                        "id": "46",
-                        "name": "Brand Category"
-                    },
-                    "entity": {
-                        "id": "781974597176467456",
-                        "name": "Sports/Outdoor"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Brands and Companies",
-                        "id": "47",
-                        "name": "Brand"
-                    },
-                    "entity": {
-                        "id": "10026482869",
-                        "name": "Nike"
-                    }
-                }
-            ],
-            "conversation_id": "1399838162382360576",
-            "created_at": "2021-06-03T17:00:00.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 49,
-                        "normalized_text": "Nike Dunk High",
-                        "probability": 0.3933,
-                        "start": 36,
-                        "type": "Product"
-                    }
-                ],
-                "hashtags": [
-                    {
-                        "end": 20,
-                        "start": 15,
-                        "tag": "Nike"
-                    },
-                    {
-                        "end": 114,
-                        "start": 111,
-                        "tag": "ad"
-                    }
-                ],
-                "urls": [
-                    {
-                        "display_url": "bit.ly/3plsa9Z",
-                        "end": 109,
-                        "expanded_url": "https://bit.ly/3plsa9Z",
-                        "start": 86,
-                        "url": "https://t.co/Swrxgc4WSw"
-                    },
-                    {
-                        "display_url": "pic.twitter.com/rJpleBaTmV",
-                        "end": 138,
-                        "expanded_url": "https://twitter.com/swooshsupply/status/1400497506664996877/photo/1",
-                        "start": 115,
-                        "url": "https://t.co/rJpleBaTmV"
-                    }
-                ]
-            },
-            "id": "1400497506664996877",
-            "public_metrics": {
-                "like_count": 2,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1399838162382360576",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "TweetDeck",
-            "text": "Coming soon on #Nike US.\nFragment x Nike Dunk High.\nReleasing Saturday, June 5.\n\u2014&gt; https://t.co/Swrxgc4WSw  #ad https://t.co/rJpleBaTmV"
         }
     ],
     "includes": {
         "media": [
+            {
+                "media_key": "3_1400499930352001026",
+                "type": "photo"
+            },
+            {
+                "media_key": "16_1400499817038680068",
+                "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/E2-TKdaXEAQn6aA.jpg",
+                "type": "animated_gif"
+            },
+            {
+                "media_key": "3_1400499728803041284",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400499679960436736",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400499532639653889",
+                "type": "photo"
+            },
+            {
+                "duration_ms": 53240,
+                "media_key": "7_1400499132322693120",
+                "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1400499132322693120/pu/img/aVQ0Pak9wLtEwz_w.jpg",
+                "public_metrics": {
+                    "view_count": 89
+                },
+                "type": "video"
+            },
+            {
+                "media_key": "3_1400495269964308483",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400499126861717513",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400499020469055492",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498910578327556",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498895852027905",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498675785244679",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498796119875584",
+                "type": "photo"
+            },
             {
                 "media_key": "3_1400498522286444545",
                 "type": "photo"
@@ -5951,10 +9146,6 @@
             {
                 "media_key": "3_1400220710577094657",
                 "type": "photo"
-            },
-            {
-                "media_key": "3_1400454665636966412",
-                "type": "photo"
             }
         ],
         "users": [
@@ -5968,6 +9159,258 @@
                 "verified": false
             },
             {
+                "created_at": "2008-11-27T15:14:44.000Z",
+                "description": "Subscribe to The Scotsman for news, opinion and expert analysis from Scotland\u2019s national newspaper: https://t.co/Raf1e6ZJmQ",
+                "id": "17680050",
+                "name": "The Scotsman",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1327037595507974146/18Bhimx3_normal.png",
+                "username": "TheScotsman",
+                "verified": true
+            },
+            {
+                "created_at": "2016-12-30T11:31:24.000Z",
+                "description": "\ud83c\uddea\ud83c\uddea | @orionisshort | #KomradeKittens | @Team_Pepeja",
+                "id": "814796019833667584",
+                "name": "swoom",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1399806000983687172/5-a6qHMK_normal.jpg",
+                "username": "swoomm",
+                "verified": false
+            },
+            {
+                "created_at": "2011-10-25T18:00:18.000Z",
+                "description": "Here you will find Daily #inplay bets.  #football and all the latest offers from bookies, (18 Yrs + only) Please Gamble Responsibly https://t.co/PqwiyIO9bo",
+                "id": "398182076",
+                "name": "Inplay Challenges",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/754962017895809024/XWwq5DsR_normal.jpg",
+                "username": "bash_the_bookie",
+                "verified": false
+            },
+            {
+                "created_at": "2021-05-07T08:45:18.000Z",
+                "description": "Receive live stock notifications for RTX 3xx, AMD 6xxx, PlayStation 5 & Xbox Series X\nAs an Amazon Associate I earn from qualifying purchases.",
+                "id": "1390588471962750976",
+                "name": "BeNeLux Stock Checker",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1390588586723004416/jVta4nKa_normal.jpg",
+                "username": "BeneluxStock",
+                "verified": false
+            },
+            {
+                "created_at": "2020-07-07T08:11:32.000Z",
+                "description": "gaming youtuber | BackUp Twitter- @RandomTweetsLLC \n #BlackLivesMatter #StopRacism\nsharp tk went & looted every fast food and looted cheeseburgers!   #BLM #AD",
+                "id": "1280414079065247744",
+                "name": ".",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1396509046086139906/mFtIJXCd_normal.jpg",
+                "username": "DownloadedLink",
+                "verified": false
+            },
+            {
+                "created_at": "2017-07-13T18:49:08.000Z",
+                "description": "what brings you by?",
+                "id": "885571814222680068",
+                "name": "Emily\ud83d\ude43",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1381079298199719939/KMzmCHJ5_normal.jpg",
+                "username": "emoly_fries",
+                "verified": false
+            },
+            {
+                "created_at": "2016-01-29T00:26:36.000Z",
+                "description": "Video game deals from the Nintendo Wire and PlayStation Wire team! Wire Deals uses affiliate links that may give us a percentage of the sale price.",
+                "id": "4827915752",
+                "name": "Wire Deals",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/948229654720196608/nraRNYTQ_normal.jpg",
+                "username": "WireDeals",
+                "verified": false
+            },
+            {
+                "created_at": "2018-07-13T12:52:18.000Z",
+                "description": "children's book author",
+                "id": "1017753587311693824",
+                "name": "Helen Broderick Books",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1377690192988012552/kp750_wH_normal.jpg",
+                "username": "HBroderickBooks",
+                "verified": false
+            },
+            {
+                "created_at": "2017-07-07T21:25:09.000Z",
+                "description": "",
+                "id": "883436749044809728",
+                "name": "DealinginDeals",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/903156167878127620/TYN0g7co_normal.jpg",
+                "username": "dealingindeals",
+                "verified": false
+            },
+            {
+                "created_at": "2020-02-20T01:36:26.000Z",
+                "description": "\ud83e\udd11ELITE SHOPPING\ud83d\udd25As an Amazon Associate, I Earn From Qualifying Purchases\u26a1\ufe0f@eBayPartnerNet Member\u2764\ufe0fIf you shop through our links we earn commission",
+                "id": "1230305153355591681",
+                "name": "\ud83d\udcb5 SNEAKY DEALS",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1345028825818796032/I89inDVx_normal.jpg",
+                "username": "Sneaky_Steals",
+                "verified": false
+            },
+            {
+                "created_at": "2021-02-02T19:24:52.000Z",
+                "description": "Part of the @BotInventory family.  Tracking #PokemonCards #TradingCards #FunkoPop #amiibo and more.",
+                "id": "1356684941585772545",
+                "name": "Bot Collectibles (Pokemon, Funko, \u26be\ufe0f cards, etc)",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1364352711869820935/uey5IhJs_normal.png",
+                "username": "BotCollectibles",
+                "verified": false
+            },
+            {
+                "created_at": "2020-12-26T19:47:08.000Z",
+                "description": "Notifications for in demand products. DM me if you're looking for something specific. This account covers everything. Affiliate links #ad",
+                "id": "1342919737358110720",
+                "name": "InventoryBot (PC parts, Ryzen, RTX, console, toys)",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1342920858868842497/gbEaeAiR_normal.png",
+                "username": "BotInventory",
+                "verified": false
+            },
+            {
+                "created_at": "2017-06-03T00:02:33.000Z",
+                "description": "Free & discounted Kindle books. Updated daily! Christian Book Deals is a participant in the Amazon Services LLC Associates Program.",
+                "id": "870792786580312064",
+                "name": "ChristianBookDeals",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1079170509454086145/TRfhgnc7_normal.jpg",
+                "username": "christianbookde",
+                "verified": false
+            },
+            {
+                "created_at": "2012-07-16T23:28:00.000Z",
+                "description": "Planetgoldilocks Shopping Fashions and more \nhttps://t.co/kDFPD6jjmh\nhttps://t.co/s6n8Ma7mIj",
+                "id": "637372967",
+                "name": "Holiday Shopping",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1379459590123757571/t2VhFizH_normal.jpg",
+                "username": "PGSweeps",
+                "verified": false
+            },
+            {
+                "created_at": "2011-04-25T16:33:11.000Z",
+                "description": "What you want to know about life. A section of @thisisinsider. Follow us on Facebook, Instagram, and YouTube. Visit our homepage for the day's top stories.",
+                "id": "287757072",
+                "name": "Insider Life",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1228394348850622470/c8OnhxKT_normal.jpg",
+                "username": "InsiderLife",
+                "verified": true
+            },
+            {
+                "created_at": "2013-03-28T11:56:35.000Z",
+                "description": "Freelance Commentator and Host \u2022 half \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f / half \ud83c\udde9\ud83c\uddea and 3 yrs \ud83c\udde8\ud83c\udde6 \u2022 Business inquiries: DM or at tyler@gough.live",
+                "id": "1310357833",
+                "name": "Tyler Gough",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1381368834322481152/viWIRHIU_normal.jpg",
+                "username": "tylerfeelin",
+                "verified": false
+            },
+            {
+                "created_at": "2011-03-09T18:11:42.000Z",
+                "description": "#1 FREE football betting community bringing you news, previews, recommended bets & bookmakers! 18+ https://t.co/aNvyT221Pr | Please gamble responsibly.",
+                "id": "263257931",
+                "name": "Footy Accumulators",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1219926389249519617/56nK2B0y_normal.jpg",
+                "username": "FootyAccums",
+                "verified": true
+            },
+            {
+                "created_at": "2009-10-21T10:20:02.000Z",
+                "description": "Blogger at https://t.co/zFsjZiQt77; Contributor @GatewayNewsZA & @JStarMag; Worshiper at @WordofFaithSA; Wifey; Mama; Praising the One",
+                "id": "84047860",
+                "name": "Luchae",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/692824773747822592/Tq3n2N8q_normal.jpg",
+                "username": "luchaewilliams",
+                "verified": false
+            },
+            {
+                "created_at": "2008-05-23T03:39:43.000Z",
+                "description": "Video Game deals in Canada \ud83c\udde8\ud83c\udde6, pre-orders, news. Nintendo, PS5, Xbox, PC. Links may be affiliate links. As an Amazon Associate I earn from qualifying purchases.",
+                "id": "14877019",
+                "name": "Lbabinz \ud83c\udde8\ud83c\udde6",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1400171202631540736/bDoG3c7F_normal.png",
+                "username": "Lbabinz",
+                "verified": false
+            },
+            {
+                "created_at": "2013-11-20T11:17:15.000Z",
+                "description": "PS5 & PSVR2 \ud835\udcbd\ud835\udcce\ud835\udcc5\ud835\udc52. Shop PS5 Consoles, PS5 Games, PS5 Accessories & TVs for PS5. As an Amazon Associate I earn from qualifying purchases #PS5 #PlayHasNoLimits",
+                "id": "2188714462",
+                "name": "PS5 Only",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1337758112758034434/R8Q1tMaz_normal.jpg",
+                "username": "PS5only",
+                "verified": false
+            },
+            {
+                "created_at": "2008-07-28T22:03:02.000Z",
+                "description": "Book lover | hiker | art curator | mom | co-author of Path of the Thunderbird (https://t.co/uEwZXY72BJ)",
+                "id": "15638352",
+                "name": "Sara Toole Miller",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/2556975554/9p5467i89ymvqcwrcxhk_normal.jpeg",
+                "username": "samill1",
+                "verified": false
+            },
+            {
+                "created_at": "2017-03-04T19:30:42.000Z",
+                "description": "We love #Nintendo. You too? We help you finding Nintendo games and consoles, and accessories.\n\nNot affiliated with Nintendo. Contains affiliate links.",
+                "id": "838109464809066498",
+                "name": "We \u2764\ufe0f Nintendo",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1324990062904418306/9aqcmbGF_normal.jpg",
+                "username": "Ninthusiast",
+                "verified": false
+            },
+            {
+                "created_at": "2018-06-18T22:02:43.000Z",
+                "description": "We specialize in digital marketing strategies where small businesses can have an impact and where they need to spend their marketing dollars.",
+                "id": "1008832405124403200",
+                "name": "Digi Brand Studios",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1008832709483872256/0T9XVGFm_normal.jpg",
+                "username": "digibrandstudio",
+                "verified": false
+            },
+            {
+                "created_at": "2013-03-21T01:02:43.000Z",
+                "description": "List your product \ud83d\udc49 https://t.co/z7h7twRU42\nTag us in your deal request for an instant reply\nAffiliate links\nhttps://t.co/axQwURYqHi\nhttps://t.co/UOJzmr1u1j",
+                "id": "1284715483",
+                "name": "CoolDeal",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1346208614009032704/l84fywv8_normal.jpg",
+                "username": "CoolDealCA",
+                "verified": false
+            },
+            {
+                "created_at": "2019-01-23T06:26:56.000Z",
+                "description": "Helping people secure the PS5, Xbox, GPUs, and more! As an Amazon Associate, I earn from qualifying purchases.\n\nShop https://t.co/OdkayFECaZ",
+                "id": "1087959850917740546",
+                "name": "Spiel Times (PS5 Restocks, Xbox, GPUs, and More)",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1346374095911358467/RWOgL3Xg_normal.jpg",
+                "username": "spieltimes",
+                "verified": false
+            },
+            {
+                "created_at": "2011-03-18T12:55:19.000Z",
+                "description": "YouTube Content Creator \u2022 Business Contact: vikbarn@gmail.com \u2022 https://t.co/1TPj2dbzod \u2022 @Sidemen @RoyalRavens @Rogue @BoostGaming",
+                "id": "268270621",
+                "name": "Vikkstar \u2605",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1375566549461909507/kaHAlSRZ_normal.jpg",
+                "username": "Vikkstar123",
+                "verified": true
+            },
+            {
+                "created_at": "2010-03-05T00:15:42.000Z",
+                "description": "I\u2019m Abbey and I like hugs. :3",
+                "id": "119932874",
+                "name": "\u30a2\u30d3\u30fc\u2764\ufe0f",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1143742824883507201/QzUqlz3G_normal.jpg",
+                "username": "ohisian319",
+                "verified": false
+            },
+            {
+                "created_at": "2012-09-10T22:37:39.000Z",
+                "description": "The home of @FootyAccums poker \u2666\ufe0f\u2663\ufe0f 18+ | https://t.co/H0vygPeuPj | Please Gamble Responsibly",
+                "id": "816171751",
+                "name": "FootyAccumulators Poker",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1393235891594924036/ztfyplgq_normal.jpg",
+                "username": "FootyAccumsPkr",
+                "verified": false
+            },
+            {
                 "created_at": "2010-03-04T02:11:06.000Z",
                 "description": "Writer near the Jersey Shore. Cat lover. Reader. Parallel Triangles-Evernight Teen 2017/Lost Reputation-Evernight Teen 2016/Triangles-Spencer Hill Press 2013 :)",
                 "id": "119580388",
@@ -5978,20 +9421,11 @@
             },
             {
                 "created_at": "2010-10-29T21:56:46.000Z",
-                "description": "@youtube partner content creator | we track stocks for #PS5 #xbox #rtx |As an Amazon Associate I earn from qualifying purchases. Email: ChitogamingYT1@gmail.com",
+                "description": "@youtube partner content creator | we track stocks for #PS5 #xbox #rtx |As an Amazon Associate I earn from qualifying purchases. Email:ChitogamingYT1@gmail.com",
                 "id": "209766567",
                 "name": "ChitoGamingYT (RESTOCKS TRACKER x YOUTUBER)",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1334659672863862784/JBe2flnH_normal.jpg",
                 "username": "ChitoGaminYT",
-                "verified": false
-            },
-            {
-                "created_at": "2017-07-07T21:25:09.000Z",
-                "description": "",
-                "id": "883436749044809728",
-                "name": "DealinginDeals",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/903156167878127620/TYN0g7co_normal.jpg",
-                "username": "dealingindeals",
                 "verified": false
             },
             {
@@ -6037,15 +9471,6 @@
                 "name": "OutofThisWorld",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/725191668425580544/QglpJqnr_normal.jpg",
                 "username": "OutDeHazaDuniya",
-                "verified": false
-            },
-            {
-                "created_at": "2020-12-26T19:47:08.000Z",
-                "description": "Notifications for in demand products. DM me if you're looking for something specific. This account covers everything. Affiliate links #ad",
-                "id": "1342919737358110720",
-                "name": "InventoryBot (PC parts, Ryzen, RTX, console, toys)",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1342920858868842497/gbEaeAiR_normal.png",
-                "username": "BotInventory",
                 "verified": false
             },
             {
@@ -6292,15 +9717,6 @@
                 "verified": false
             },
             {
-                "created_at": "2020-07-07T08:11:32.000Z",
-                "description": "gaming youtuber | BackUp Twitter- @RandomTweetsLLC \n #BlackLivesMatter #StopRacism\nsharp tk went & looted every fast food and looted cheeseburgers!   #BLM #AD",
-                "id": "1280414079065247744",
-                "name": ".",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1396509046086139906/mFtIJXCd_normal.jpg",
-                "username": "DownloadedLink",
-                "verified": false
-            },
-            {
                 "created_at": "2016-05-08T18:07:30.000Z",
                 "description": "We Find & Share Sign Up Offers From Some Of The Top Bookmakers & casino Sites. We Offer Reviews & Exclusive Offers at https://t.co/HxJUAZLEWi 18+ #bet",
                 "id": "729372168983859201",
@@ -6391,15 +9807,6 @@
                 "verified": false
             },
             {
-                "created_at": "2020-06-02T04:05:35.000Z",
-                "description": "#TwitchTv #Retweet when tagged! Msg me for Promotions! | Supporting Small Streamers.",
-                "id": "1267668613441388545",
-                "name": "Stream Support | 2.7K!",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1329487898333294598/egY-chjo_normal.jpg",
-                "username": "Stream_Support_",
-                "verified": false
-            },
-            {
                 "created_at": "2010-06-02T03:57:44.000Z",
                 "description": "Sponsored by @Asus_ROGNA  @GFUELEnergy MCPH | Creator Code: Lucky | \u2709\ufe0f Lucky@LuckyShots.TV | #Wolfpack",
                 "id": "150912369",
@@ -6425,21 +9832,12 @@
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1382904938003628033/5D1OW-Ef_normal.jpg",
                 "username": "PeaceFrogFFH",
                 "verified": false
-            },
-            {
-                "created_at": "2016-02-10T19:10:47.000Z",
-                "description": "Nike Releases, Restocks, and News by @seventwelveco \u2022 tweets contain affiliate links",
-                "id": "4895702097",
-                "name": "swoosh supply",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1017325598153142275/i_fMtva1_normal.jpg",
-                "username": "swooshsupply",
-                "verified": false
             }
         ]
     },
     "meta": {
-        "newest_id": "1400498699617374214",
-        "oldest_id": "1400497506664996877",
-        "result_count": 63
+        "newest_id": "1400499972299276291",
+        "oldest_id": "1400497506761445386",
+        "result_count": 93
     }
 }

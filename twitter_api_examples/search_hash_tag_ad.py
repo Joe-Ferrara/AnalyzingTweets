@@ -11,7 +11,7 @@ def auth():
 def create_query(t_start, t_end):
     # query
     query = '#ad'
-    query += ' lang:en -is:retweet'
+    query += ' lang:en -is:retweet -is:reply'
     query = requests.utils.quote(query) # http encode
     # tweet.fields
     tweet_fields ='''\
@@ -61,7 +61,7 @@ def connect_to_endpoint(url, headers):
 
 def main():
     start_time = '2021-06-03T17:00:00.00Z'
-    end_time = '2021-06-03T17:05:00.00Z'
+    end_time = '2021-06-03T17:10:00.00Z'
     bearer_token = auth()
     query_url = create_query(start_time, end_time)
     url = create_url(query_url)

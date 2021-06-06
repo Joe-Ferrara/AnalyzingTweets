@@ -11,7 +11,7 @@ def auth():
 def create_query(t_start, t_end):
     # query
     query = 'advertisement'
-    query += ' lang:en -is:retweet'
+    query += ' lang:en -is:retweet -is:reply'
     query = requests.utils.quote(query) # http encode
     # tweet.fields
     tweet_fields ='''\

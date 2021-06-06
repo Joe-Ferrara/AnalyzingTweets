@@ -30,10 +30,10 @@
             },
             "id": "1400512449963606022",
             "public_metrics": {
-                "like_count": 7,
+                "like_count": 8,
                 "quote_count": 0,
                 "reply_count": 0,
-                "retweet_count": 1
+                "retweet_count": 2
             },
             "referenced_tweets": [
                 {
@@ -494,64 +494,6 @@
             "text": "Yonkers Insider Online Newspaper: Yonkers Insider: Business Advertisement: Yonkers R... https://t.co/2BHEJe2pV8"
         },
         {
-            "author_id": "807894428165820419",
-            "conversation_id": "1400348487892492289",
-            "created_at": "2021-06-03T17:56:17.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "flybimbo_"
-                    }
-                ]
-            },
-            "id": "1400511670796132356",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400348487892492289",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@flybimbo_ advertisement! advertisement!! advertisement!!! Thank you for your attention!!!"
-        },
-        {
-            "author_id": "1230923260604235776",
-            "conversation_id": "1400498579190337536",
-            "created_at": "2021-06-03T17:55:15.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 12,
-                        "start": 0,
-                        "username": "watchmeedie"
-                    }
-                ]
-            },
-            "id": "1400511412800163843",
-            "public_metrics": {
-                "like_count": 2,
-                "quote_count": 0,
-                "reply_count": 2,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400498579190337536",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@watchmeedie Big babool, bare kaam ki chiz\ud83e\udd73\ud83e\udd73\nYahi bolte the uske advertisement m..I still remember \ud83e\udd7a\ud83e\udd1d"
-        },
-        {
             "attachments": {
                 "media_keys": [
                     "7_1400511337344630786"
@@ -813,26 +755,10 @@
                 ],
                 "urls": [
                     {
-                        "description": "Eternal light co.",
                         "display_url": "Eternallight.com.co",
                         "end": 46,
                         "expanded_url": "http://Eternallight.com.co",
-                        "images": [
-                            {
-                                "height": 501,
-                                "url": "https://pbs.twimg.com/news_img/1400147685584240642/68x3TZSY?format=jpg&name=orig",
-                                "width": 501
-                            },
-                            {
-                                "height": 150,
-                                "url": "https://pbs.twimg.com/news_img/1400147685584240642/68x3TZSY?format=jpg&name=150x150",
-                                "width": 150
-                            }
-                        ],
                         "start": 23,
-                        "status": 200,
-                        "title": "Eternal light co.",
-                        "unwound_url": "https://eternallight.com.co/",
                         "url": "https://t.co/z1jCnNHRuL"
                     },
                     {
@@ -853,55 +779,6 @@
             },
             "source": "Twitter for iPhone",
             "text": "Adjustable bracelets \u2728\nhttps://t.co/z1jCnNHRuL\n\n#ad #advertisement #advertising #Buisness #SupportSmallBusinesses #RETWEEET #AffiliateMarketing #DigitalMarketing #marketing #Trending #fashion #viral #Accessories #onlinebusiness #MarketingTwitter #smallbusiness #online #follow https://t.co/GNh7twh6IT"
-        },
-        {
-            "author_id": "348672924",
-            "conversation_id": "1400487815037829132",
-            "created_at": "2021-06-03T17:54:13.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "DoubleOhNegatve"
-                    }
-                ]
-            },
-            "id": "1400511153390772224",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400508809131397128",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter Web App",
-            "text": "@DoubleOhNegatve \"Oh, you commented on a post containing the word 'Roadrunner'? Enjoy this very targeted advertisement!\" \n\nThat was.... quick. Quicker than the roadrunner."
-        },
-        {
-            "author_id": "1312636006898769920",
-            "conversation_id": "1400510261451231232",
-            "created_at": "2021-06-03T17:52:31.000Z",
-            "id": "1400510725978791936",
-            "public_metrics": {
-                "like_count": 2,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400510261451231232",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for iPhone",
-            "text": "Cuz when you\u2019re advertising something your suppose to put # sponsored or # advertisement,  and you\u2019re suppose to talk abt the product.\nBut they are just dancing... \nI\u2019m pretty sure that\u2019s illegal"
         },
         {
             "author_id": "795763619694780416",
@@ -1037,35 +914,6 @@
             },
             "source": "Twitter for iPhone",
             "text": "The only way that PlayStation should be supporting ps4 is by allowing third parties to continue to release on it, every @playstation studios game should be an advertisement for why you need a ps5, ps4 didn\u2019t sell almost 120 million units because it had cross gen games with ps3"
-        },
-        {
-            "author_id": "1097573693516120069",
-            "conversation_id": "1400390696553521155",
-            "created_at": "2021-06-03T17:51:17.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "splashchesse"
-                    }
-                ]
-            },
-            "id": "1400510413708709900",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400390696553521155",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter Web App",
-            "text": "@splashchesse An advertisement of interest \u2728"
         },
         {
             "author_id": "1359058648299950080",
@@ -1376,49 +1224,6 @@
             "text": "It's Throwback Thursday!\nFeatured in this advertisement is our Southern Beaver.\n\n#beavervending #beavervendingmachine #beavermachinecorp #gumballmachine #beavermachine #beavergumballmachine #madeincanada #throwbackthursday #candymachine https://t.co/SW9n8vc98W"
         },
         {
-            "author_id": "2389374979",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Brands and Companies",
-                        "id": "47",
-                        "name": "Brand"
-                    },
-                    "entity": {
-                        "description": "TIME Magazine",
-                        "id": "1065660607825817600",
-                        "name": "TIME Magazine"
-                    }
-                }
-            ],
-            "conversation_id": "1400344837556146181",
-            "created_at": "2021-06-03T17:48:30.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "BrawlersJ"
-                    }
-                ]
-            },
-            "id": "1400509715096997892",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400476118000435206",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter Web App",
-            "text": "@BrawlersJ Really, as far as what was going on in that time in music it couldn't shine really so I think the cover story in magazine played a major part in advertisement\n\nThe albums was on the shelves and not in cars and CD players your right"
-        },
-        {
             "author_id": "2883884077",
             "conversation_id": "1400509704615383045",
             "created_at": "2021-06-03T17:48:28.000Z",
@@ -1550,144 +1355,6 @@
             "text": "https://t.co/GiS98GHgCY The Encyclopedia of #collectibles (1978, Hardcover https://t.co/cv5QhgLWkT"
         },
         {
-            "author_id": "928661387425001472",
-            "conversation_id": "1400397693957062656",
-            "created_at": "2021-06-03T17:45:57.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 76,
-                        "normalized_text": "Kingston Pounds",
-                        "probability": 0.2896,
-                        "start": 62,
-                        "type": "Organization"
-                    }
-                ],
-                "hashtags": [
-                    {
-                        "end": 151,
-                        "start": 136,
-                        "tag": "salmonmagazine"
-                    },
-                    {
-                        "end": 172,
-                        "start": 156,
-                        "tag": "ethicalmagazine"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "kingstonpound"
-                    },
-                    {
-                        "end": 26,
-                        "start": 15,
-                        "username": "LvKingston"
-                    },
-                    {
-                        "end": 42,
-                        "start": 27,
-                        "username": "DirectColourUK"
-                    }
-                ]
-            },
-            "id": "1400509072928092163",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400397693957062656",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for iPad",
-            "text": "@kingstonpound @LvKingston @DirectColourUK Why not spend your Kingston Pounds on an advertisement or advertorial in the Summer Issue of #salmonmagazine\ud83d\udc1f\ud83d\udc1f\ud83d\udc1f  #ethicalmagazine"
-        },
-        {
-            "author_id": "15664420",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
-                        "id": "46",
-                        "name": "Brand Category"
-                    },
-                    "entity": {
-                        "id": "781974596752842752",
-                        "name": "Services"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Brands and Companies",
-                        "id": "47",
-                        "name": "Brand"
-                    },
-                    "entity": {
-                        "id": "10045225402",
-                        "name": "Twitter"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Brands and Companies",
-                        "id": "47",
-                        "name": "Brand"
-                    },
-                    "entity": {
-                        "id": "10040666972",
-                        "name": "The New York Times"
-                    }
-                }
-            ],
-            "conversation_id": "1400491046790959106",
-            "created_at": "2021-06-03T17:45:29.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 138,
-                        "normalized_text": "Twitter",
-                        "probability": 0.5904,
-                        "start": 132,
-                        "type": "Product"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 8,
-                        "start": 0,
-                        "username": "HVagues"
-                    },
-                    {
-                        "end": 17,
-                        "start": 9,
-                        "username": "nytimes"
-                    }
-                ]
-            },
-            "id": "1400508952060829707",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400505963128500227",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for iPhone",
-            "text": "@HVagues @nytimes In my country many newspapers are free for readers online. Even those who make payed content, share their news in Twitter for free. Otherwise it\u2019s only a ad of the newspaper. They should mention \u201dadvertisement\u201d with the content."
-        },
-        {
             "author_id": "1352183786381975552",
             "context_annotations": [
                 {
@@ -1726,35 +1393,6 @@
             },
             "source": "Cheap Bots, Done Quick!",
             "text": "An adventurous advertisement brightly overbuilt an attractive oyster"
-        },
-        {
-            "author_id": "1130168410808016896",
-            "conversation_id": "1400506800919646209",
-            "created_at": "2021-06-03T17:45:16.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "acupoftea111"
-                    }
-                ]
-            },
-            "id": "1400508898096779265",
-            "public_metrics": {
-                "like_count": 2,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400506800919646209",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@acupoftea111 Lmao ikr, I don't even know any of these people until this SP thing happened. It's like free advertisement"
         },
         {
             "attachments": {
@@ -2097,29 +1735,6 @@
             "text": "Do you need google ads banner or web banner design for your product or service advertisement?\n\nHire me:  https://t.co/kLTM9tZiHM\n\n25% Off on my premium package for the first 5 clients.\n\n#adwords #PitMad\n#Amazon  #webdesign \n#googleads #graphicdesign #nike https://t.co/3pMSeCp6K7"
         },
         {
-            "author_id": "1279321903",
-            "conversation_id": "1400508569347411972",
-            "created_at": "2021-06-03T17:43:57.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "ssslivesocial"
-                    }
-                ]
-            },
-            "id": "1400508569347411972",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "source": "Twitter for iPhone",
-            "text": "@ssslivesocial you are the worse service i have ever seen i need my refund for your false advertisement and i need a complaint about your poor people, really a dissatisfaction experience pss me through anyone from management stop let me talk to ur poor people"
-        },
-        {
             "attachments": {
                 "media_keys": [
                     "3_1400508408751591427"
@@ -2150,194 +1765,6 @@
             "text": "SPONSOR SPACE AVAILABLE!! \nI\u2019m back training planning on being back in the ring very soon, and I\u2019ll be fighting more often, with losing my last fight a few sponsor spaces opened up, so get intouch, it\u2019s a great advertisement, with everyday social media advertising https://t.co/mqE013YDVu"
         },
         {
-            "author_id": "1230924991727886339",
-            "conversation_id": "1400473103742951427",
-            "created_at": "2021-06-03T17:42:46.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 5,
-                        "start": 0,
-                        "username": "NCSC"
-                    }
-                ]
-            },
-            "id": "1400508271186874368",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400473103742951427",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for iPhone",
-            "text": "@NCSC I just love how the tweet offers to provide, serve and give out for protection. It really warms my heart (tired of commercial advertisement, too much money-minded). I wish more and more individuals will recognise and follow NCSC so they can stay safe online. Thank you \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"
-        },
-        {
-            "author_id": "977086849",
-            "conversation_id": "1400419360418709506",
-            "created_at": "2021-06-03T17:42:38.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 15,
-                        "start": 0,
-                        "username": "TopherMarshall"
-                    },
-                    {
-                        "end": 28,
-                        "start": 16,
-                        "username": "tonypaulway"
-                    }
-                ]
-            },
-            "id": "1400508238190333962",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400423673262227463",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for iPhone",
-            "text": "@TopherMarshall @tonypaulway Tasting like a whopper isn\u2019t exactly a good advertisement."
-        },
-        {
-            "author_id": "171793128",
-            "conversation_id": "1400240329610117120",
-            "created_at": "2021-06-03T17:42:01.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 12,
-                        "start": 0,
-                        "username": "Scrawleyart"
-                    }
-                ],
-                "urls": [
-                    {
-                        "description": "Superman & Lois premieres Tuesday, February 23. Stream next day free only on The CW!\u2605Subscribe HERE and NOW \u25bahttps://goo.gl/jp9aW8\u200b\u200bRelease Date: February 23...",
-                        "display_url": "youtube.com/watch?v=wXzo8J\u2026",
-                        "end": 118,
-                        "expanded_url": "https://www.youtube.com/watch?v=wXzo8JzRM0Y&t=102s",
-                        "images": [
-                            {
-                                "height": 720,
-                                "url": "https://pbs.twimg.com/news_img/1400508080887152642/QOE_BNTg?format=jpg&name=orig",
-                                "width": 1280
-                            },
-                            {
-                                "height": 150,
-                                "url": "https://pbs.twimg.com/news_img/1400508080887152642/QOE_BNTg?format=jpg&name=150x150",
-                                "width": 150
-                            }
-                        ],
-                        "start": 95,
-                        "status": 200,
-                        "title": "SUPERMAN & LOIS 1x01 Opening Scene [HD]",
-                        "unwound_url": "https://www.youtube.com/watch?v=wXzo8JzRM0Y&t=102s",
-                        "url": "https://t.co/hl4DUsurJ4"
-                    }
-                ]
-            },
-            "id": "1400508080069222404",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400507658134822913",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter Web App",
-            "text": "@Scrawleyart If you haven't seen this, it's the best advertisement for the show you can find.\n\nhttps://t.co/hl4DUsurJ4"
-        },
-        {
-            "author_id": "581239336",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Named people in the world like Nelson Mandela",
-                        "id": "10",
-                        "name": "Person"
-                    },
-                    "entity": {
-                        "id": "1161294453560098822",
-                        "name": "Andy Ngo"
-                    }
-                }
-            ],
-            "conversation_id": "1400266501601513475",
-            "created_at": "2021-06-03T17:40:41.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "MrAndyNgo"
-                    }
-                ]
-            },
-            "id": "1400507745799974912",
-            "public_metrics": {
-                "like_count": 2,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400266503065382915",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for iPhone",
-            "text": "@MrAndyNgo \"I was attacked! Btw now that I have your attention, here's my book!\"\n\nThe right is so shameless about their advertisement lmao"
-        },
-        {
-            "author_id": "1269508019798151169",
-            "conversation_id": "1400474847222792194",
-            "created_at": "2021-06-03T17:39:15.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "yan__iiii"
-                    }
-                ]
-            },
-            "id": "1400507384892592129",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400474847222792194",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for iPhone",
-            "text": "@yan__iiii pls this is so funny to me \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d but no literally false advertisement asf"
-        },
-        {
             "author_id": "845633814449696769",
             "conversation_id": "1400507337983488003",
             "created_at": "2021-06-03T17:39:04.000Z",
@@ -2354,96 +1781,13 @@
             },
             "id": "1400507337983488003",
             "public_metrics": {
-                "like_count": 227,
+                "like_count": 229,
                 "quote_count": 5,
                 "reply_count": 2,
                 "retweet_count": 28
             },
             "source": "Twitter for iPhone",
             "text": "The \u201cYuna doesnt care about figure skating\u201d narrative is getting real tiring here.. still occasionally visits the rink to mentor &amp; get advertisement deals for the national team juniors and even pays for the cost of rink heatings among so many other things"
-        },
-        {
-            "attachments": {
-                "media_keys": [
-                    "3_1400507238389719041"
-                ]
-            },
-            "author_id": "2968568328",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Top level interests and hobbies groupings, like Food or Travel",
-                        "id": "65",
-                        "name": "Interests and Hobbies Vertical"
-                    },
-                    "entity": {
-                        "description": "Science",
-                        "id": "854692455005921281",
-                        "name": "Science"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
-                        "id": "66",
-                        "name": "Interests and Hobbies Category"
-                    },
-                    "entity": {
-                        "description": "Science News",
-                        "id": "857083797409378304",
-                        "name": "Science News"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
-                        "id": "67",
-                        "name": "Interests and Hobbies"
-                    },
-                    "entity": {
-                        "description": "Science News",
-                        "id": "857085656631095296",
-                        "name": "Science News"
-                    }
-                }
-            ],
-            "conversation_id": "1400506641095684096",
-            "created_at": "2021-06-03T17:38:42.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 122,
-                        "normalized_text": "Yeo Jin-goo",
-                        "probability": 0.8463,
-                        "start": 112,
-                        "type": "Person"
-                    }
-                ],
-                "urls": [
-                    {
-                        "display_url": "pic.twitter.com/ORuixKPMte",
-                        "end": 260,
-                        "expanded_url": "https://twitter.com/kinboma/status/1400507247772389377/photo/1",
-                        "start": 237,
-                        "url": "https://t.co/ORuixKPMte"
-                    }
-                ]
-            },
-            "id": "1400507247772389377",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400506641095684096",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "In the advertisement that aired along with the news of the model selection, I showed great chemistry with actor Yeo Jin-goo under the theme of '\uadf8\ub9b0\uce74\ub85c \uadf8\ub9ac\ub294 \uc77c\uc0c1 \ucf58\ud150\uce20'. Also, I'm so happy to get a chance to work with a great actor like him! \ud83e\udd29\ud83d\udc93 https://t.co/ORuixKPMte"
         },
         {
             "author_id": "1398188427712081921",
@@ -2542,343 +1886,6 @@
             ],
             "source": "Twitter for iPhone",
             "text": "YUP!! uhh slight advertisement but https://t.co/wUattETILf https://t.co/mEu5gotBFH"
-        },
-        {
-            "author_id": "1219301860080676866",
-            "conversation_id": "1400483595903549447",
-            "created_at": "2021-06-03T17:34:35.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "anonymous1gi"
-                    },
-                    {
-                        "end": 29,
-                        "start": 14,
-                        "username": "KaushalJoshi15"
-                    }
-                ]
-            },
-            "id": "1400506210177093639",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400484501004898307",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@anonymous1gi @KaushalJoshi15 I said ye outfit usne pap interaction ke liye phna tha because she couldn't reveal the shoot outfit, hina also shot for that advertisement and she too wear something else for paparazzi."
-        },
-        {
-            "author_id": "801867994880045056",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Top level entities that describe a Brands industry",
-                        "id": "45",
-                        "name": "Brand Vertical"
-                    },
-                    "entity": {
-                        "id": "781974597310615553",
-                        "name": "Entertainment"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
-                        "id": "46",
-                        "name": "Brand Category"
-                    },
-                    "entity": {
-                        "id": "781974597218340864",
-                        "name": "Video Games"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Brands and Companies",
-                        "id": "47",
-                        "name": "Brand"
-                    },
-                    "entity": {
-                        "id": "10026784917",
-                        "name": "Activision"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "A video game like Overwatch",
-                        "id": "71",
-                        "name": "Video Game"
-                    },
-                    "entity": {
-                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
-                        "id": "10027933222",
-                        "name": "Call of Duty"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "A Video Game Publisher like 'Activision'",
-                        "id": "78",
-                        "name": "Video Game Publisher"
-                    },
-                    "entity": {
-                        "id": "10026784917",
-                        "name": "Activision"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Brands and Companies",
-                        "id": "47",
-                        "name": "Brand"
-                    },
-                    "entity": {
-                        "id": "10026332285",
-                        "name": "Intel"
-                    }
-                }
-            ],
-            "conversation_id": "1400475498082455555",
-            "created_at": "2021-06-03T17:33:50.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 49,
-                        "normalized_text": "Charlie intel",
-                        "probability": 0.25,
-                        "start": 37,
-                        "type": "Product"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "FinFan813"
-                    },
-                    {
-                        "end": 24,
-                        "start": 11,
-                        "username": "charlieINTEL"
-                    },
-                    {
-                        "end": 36,
-                        "start": 25,
-                        "username": "Activision"
-                    }
-                ]
-            },
-            "id": "1400506021580218371",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400476185356914689",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@FinFan813 @charlieINTEL @Activision Charlie intel is just more advertisement for activision, a bunch of sell outs but atleast they have reliable information about cod"
-        },
-        {
-            "author_id": "808452070869258242",
-            "conversation_id": "1400448433094160386",
-            "created_at": "2021-06-03T17:33:36.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 45,
-                        "normalized_text": "KCRG",
-                        "probability": 0.3829,
-                        "start": 42,
-                        "type": "Organization"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 12,
-                        "start": 0,
-                        "username": "BethMalicki"
-                    },
-                    {
-                        "end": 18,
-                        "start": 13,
-                        "username": "KCRG"
-                    },
-                    {
-                        "end": 30,
-                        "start": 19,
-                        "username": "NicoleAgee"
-                    }
-                ]
-            },
-            "id": "1400505961777930240",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 2,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400490050413076491",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for iPhone",
-            "text": "@BethMalicki @KCRG @NicoleAgee I saw, but KCRG still aired it. And you guys are a respected local news channel. Maybe you could make a mention of correcting it? I mean he is getting free advertisement while servers who get a little over $4/hour are getting tipped a little less."
-        },
-        {
-            "author_id": "1365317628990873601",
-            "conversation_id": "1400451747504529411",
-            "created_at": "2021-06-03T17:33:29.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "Sabbandkardo"
-                    },
-                    {
-                        "end": 26,
-                        "start": 14,
-                        "username": "gulraizkhan"
-                    }
-                ]
-            },
-            "id": "1400505934980423680",
-            "public_metrics": {
-                "like_count": 3,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400494716475514881",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter Web App",
-            "text": "@Sabbandkardo @gulraizkhan Bhai most Indian metros are made by taking low interest loans, 20% cost by central government, 20% cost payed by provincial and &amp; 60% via loan on favourable terms by ADB or JICA\nafter metro is constructed they allow system advertisement  for recovering money\nNo use of Forex \ud83d\ude05"
-        },
-        {
-            "author_id": "977392403995742208",
-            "conversation_id": "1400399350417608712",
-            "created_at": "2021-06-03T17:33:12.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 100,
-                        "normalized_text": "Prashanth Kishore",
-                        "probability": 0.8651,
-                        "start": 84,
-                        "type": "Person"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "RangarajPandeyR"
-                    }
-                ]
-            },
-            "id": "1400505861173219334",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400399350417608712",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@RangarajPandeyR What silly health minister? OMG. I think they have not come out of Prashanth Kishore advertisement mode yet..seriously pukish the way they are parading for cameras with dead bodies strewn all around."
-        },
-        {
-            "author_id": "1206723303970226176",
-            "conversation_id": "1400505647376990209",
-            "created_at": "2021-06-03T17:32:21.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 42,
-                        "normalized_text": "Jio TV",
-                        "probability": 0.6394,
-                        "start": 37,
-                        "type": "Product"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 12,
-                        "start": 0,
-                        "username": "reliancejio"
-                    }
-                ]
-            },
-            "id": "1400505647376990209",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "source": "Twitter for Android",
-            "text": "@reliancejio the repetitive advts on Jio TV by you on channel change, even during programs are very irritating. Please check and stop these loud, noisy, advertisement."
-        },
-        {
-            "author_id": "1317801326450003970",
-            "conversation_id": "1400496715216609282",
-            "created_at": "2021-06-03T17:31:03.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "fennethianell"
-                    },
-                    {
-                        "end": 24,
-                        "start": 15,
-                        "username": "hicusick"
-                    }
-                ]
-            },
-            "id": "1400505322293403651",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400504495495331840",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter Web App",
-            "text": "@fennethianell @hicusick Paper from a pharmaceutical laboratory's advertisement pad \ud83d\ude04"
         },
         {
             "attachments": {
@@ -3109,187 +2116,6 @@
             "text": "Did #Clorox think this advertisement through? \n\nhttps://t.co/3aNxOFu0wx"
         },
         {
-            "author_id": "893759190",
-            "conversation_id": "1400408542608334850",
-            "created_at": "2021-06-03T17:29:48.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 15,
-                        "start": 0,
-                        "username": "Celtic1967_com"
-                    }
-                ]
-            },
-            "id": "1400505008144142342",
-            "public_metrics": {
-                "like_count": 70,
-                "quote_count": 0,
-                "reply_count": 10,
-                "retweet_count": 5
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400408542608334850",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter Web App",
-            "text": "@Celtic1967_com I hate jerseys that help promote betting. It is a very troublesome and dangerous practice which should never be normalised or promoted by sporting heroes. Without the advertisement the jersey is a cracker. With it the ethos of the club is undermined \ud83c\udf40"
-        },
-        {
-            "author_id": "768150177895112704",
-            "conversation_id": "1400504996907474945",
-            "created_at": "2021-06-03T17:29:46.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "DisneyplusHSVIP"
-                    }
-                ]
-            },
-            "id": "1400504996907474945",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "source": "Twitter for Android",
-            "text": "@DisneyplusHSVIP if I subscribe subscription with handsome amount keep by your esteem management then also we require to watch advertisement ? Then keep at free 8f you wish to show us advertisement ? Every 5 to 7 minutes, there is 34 seconds advertisement. Very pathetic service!"
-        },
-        {
-            "author_id": "2912900904",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Named people in the world like Nelson Mandela",
-                        "id": "10",
-                        "name": "Person"
-                    },
-                    "entity": {
-                        "description": "Yogi Adityanath",
-                        "id": "1111321212645310464",
-                        "name": "Yogi Adityanath"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Politicians in the world, like Joe Biden",
-                        "id": "35",
-                        "name": "Politician"
-                    },
-                    "entity": {
-                        "description": "Yogi Adityanath",
-                        "id": "1111321212645310464",
-                        "name": "Yogi Adityanath"
-                    }
-                }
-            ],
-            "conversation_id": "1400339023420280832",
-            "created_at": "2021-06-03T17:29:22.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 15,
-                        "start": 0,
-                        "username": "iAmritapandey_"
-                    },
-                    {
-                        "end": 32,
-                        "start": 16,
-                        "username": "myogiadityanath"
-                    }
-                ]
-            },
-            "id": "1400504897036963849",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400339023420280832",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@iAmritapandey_ @myogiadityanath Yes correct , we appreciate. What is the plan for employment? Pl make advertisement for this ..."
-        },
-        {
-            "author_id": "3311687832",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Top level interests and hobbies groupings, like Food or Travel",
-                        "id": "65",
-                        "name": "Interests and Hobbies Vertical"
-                    },
-                    "entity": {
-                        "description": "Food",
-                        "id": "825047692124442624",
-                        "name": "Food"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
-                        "id": "66",
-                        "name": "Interests and Hobbies Category"
-                    },
-                    "entity": {
-                        "description": "Meals",
-                        "id": "1034860760093024257",
-                        "name": "Meals"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
-                        "id": "67",
-                        "name": "Interests and Hobbies"
-                    },
-                    "entity": {
-                        "description": "Conversation about eating",
-                        "id": "1006277774384828416",
-                        "name": "Food experience"
-                    }
-                }
-            ],
-            "conversation_id": "1400503033704767493",
-            "created_at": "2021-06-03T17:28:16.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 111,
-                        "normalized_text": "Meat Lovers Association",
-                        "probability": 0.7112,
-                        "start": 89,
-                        "type": "Organization"
-                    }
-                ]
-            },
-            "id": "1400504622704336898",
-            "public_metrics": {
-                "like_count": 35,
-                "quote_count": 0,
-                "reply_count": 2,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400503033704767493",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "Imagine eating something sweet on a savory meal.\n\n- The advertisement is paid for by the Meat Lovers Association."
-        },
-        {
             "attachments": {
                 "media_keys": [
                     "7_1400504595256909824"
@@ -3311,94 +2137,13 @@
             },
             "id": "1400504620594651140",
             "public_metrics": {
-                "like_count": 539,
-                "quote_count": 41,
-                "reply_count": 45,
-                "retweet_count": 93
+                "like_count": 552,
+                "quote_count": 44,
+                "reply_count": 46,
+                "retweet_count": 98
             },
             "source": "Twitter for iPhone",
             "text": "The perfect advertisement to not go to college doesn\u2019t exis- https://t.co/rqL4O4rDRH"
-        },
-        {
-            "attachments": {
-                "media_keys": [
-                    "3_1400504136957710339"
-                ]
-            },
-            "author_id": "145315533",
-            "conversation_id": "1215143782984765440",
-            "created_at": "2021-06-03T17:26:22.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 261,
-                        "normalized_text": "India",
-                        "probability": 0.9928,
-                        "start": 257,
-                        "type": "Place"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "Airtel_Presence"
-                    }
-                ],
-                "urls": [
-                    {
-                        "display_url": "pic.twitter.com/s0OtSF5pAc",
-                        "end": 310,
-                        "expanded_url": "https://twitter.com/Babeesh143/status/1400504143681228800/photo/1",
-                        "start": 287,
-                        "url": "https://t.co/s0OtSF5pAc"
-                    }
-                ]
-            },
-            "id": "1400504143681228800",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1215157395837468673",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for iPhone",
-            "text": "@Airtel_Presence Expreincing a very poor network connection for the last two week in our locality. Some times its showing edge(E) signal in the network bar. How pathetic to use internet in such KB speed. Your advertisement always showing fastest network in India \ud83d\ude02 don\u2019t be try fool us. https://t.co/s0OtSF5pAc"
-        },
-        {
-            "author_id": "66579076",
-            "conversation_id": "1400354874559062019",
-            "created_at": "2021-06-03T17:24:55.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "VyletPony"
-                    }
-                ]
-            },
-            "id": "1400503778332221440",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400354874559062019",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "TweetDeck",
-            "text": "@VyletPony It's good advertisement."
         },
         {
             "author_id": "702213913643855873",
@@ -3465,35 +2210,6 @@
             },
             "source": "Twitter Web App",
             "text": "LOONEY TUNES X I WANT MY HAT BACK\nWhen an overcrowded fly spots an advertisement for a vacation getaway, he is so excited for dead quiet that he doesn\u2019t realize that he\u2019s checked into a hungry spider\u2019s web. #pb #pitmad"
-        },
-        {
-            "author_id": "1002858610932711425",
-            "conversation_id": "1400502742863343618",
-            "created_at": "2021-06-03T17:24:50.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 11,
-                        "start": 0,
-                        "username": "Vidhuvyala"
-                    }
-                ]
-            },
-            "id": "1400503756479991813",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400503295836229635",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter Web App",
-            "text": "@Vidhuvyala I thought this was an advertisement (i.e. the video).\n\nMy larger point was that driving skills are not gender based and it's a harmful stereotype that could easily be done for men if selective videos were picked in the same way."
         },
         {
             "attachments": {
@@ -3611,415 +2327,6 @@
             },
             "source": "IFTTT",
             "text": "Layyah Session Court Jobs 2021 Advertisement &amp; Application Form Download https://t.co/ue97gNMy1A"
-        },
-        {
-            "attachments": {
-                "media_keys": [
-                    "3_1400503503726911490"
-                ]
-            },
-            "author_id": "1274536616892096513",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Television shows from around the world",
-                        "id": "3",
-                        "name": "TV Shows"
-                    },
-                    "entity": {
-                        "description": "Soccer action from the German Bundesliga.",
-                        "id": "10039036407",
-                        "name": "Bundesliga Soccer"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Television shows from around the world",
-                        "id": "3",
-                        "name": "TV Shows"
-                    },
-                    "entity": {
-                        "id": "10039215494",
-                        "name": "Bundesliga Soccer"
-                    }
-                }
-            ],
-            "conversation_id": "1400483019257892865",
-            "created_at": "2021-06-03T17:23:51.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 32,
-                        "normalized_text": "Bayern",
-                        "probability": 0.4632,
-                        "start": 27,
-                        "type": "Organization"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "afaafhariri19"
-                    }
-                ],
-                "urls": [
-                    {
-                        "display_url": "pic.twitter.com/8LiVjTxDOk",
-                        "end": 97,
-                        "expanded_url": "https://twitter.com/susano370/status/1400503511083716610/photo/1",
-                        "start": 74,
-                        "url": "https://t.co/8LiVjTxDOk"
-                    }
-                ]
-            },
-            "id": "1400503511083716610",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400502850342379520",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@afaafhariri19 Ok. But how Bayern? May be he is doing some advertisement. https://t.co/8LiVjTxDOk"
-        },
-        {
-            "author_id": "79391230",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Top level entities that describe a Brands industry",
-                        "id": "45",
-                        "name": "Brand Vertical"
-                    },
-                    "entity": {
-                        "id": "781974596161376261",
-                        "name": "Dining"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
-                        "id": "46",
-                        "name": "Brand Category"
-                    },
-                    "entity": {
-                        "id": "781974597017083904",
-                        "name": "QSR"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Brands and Companies",
-                        "id": "47",
-                        "name": "Brand"
-                    },
-                    "entity": {
-                        "id": "10026414829",
-                        "name": "KFC"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Top level interests and hobbies groupings, like Food or Travel",
-                        "id": "65",
-                        "name": "Interests and Hobbies Vertical"
-                    },
-                    "entity": {
-                        "description": "Food",
-                        "id": "825047692124442624",
-                        "name": "Food"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Top level interests and hobbies groupings, like Food or Travel",
-                        "id": "65",
-                        "name": "Interests and Hobbies Vertical"
-                    },
-                    "entity": {
-                        "description": "Drinks",
-                        "id": "834828264786898945",
-                        "name": "Drinks"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
-                        "id": "66",
-                        "name": "Interests and Hobbies Category"
-                    },
-                    "entity": {
-                        "description": "Generic Drinks",
-                        "id": "834828445238431744",
-                        "name": "Generic Drinks"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
-                        "id": "66",
-                        "name": "Interests and Hobbies Category"
-                    },
-                    "entity": {
-                        "description": "Cuisines",
-                        "id": "860133563332648963",
-                        "name": "Cuisines"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
-                        "id": "67",
-                        "name": "Interests and Hobbies"
-                    },
-                    "entity": {
-                        "description": "Fast food",
-                        "id": "847865239886417922",
-                        "name": "Fast food"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
-                        "id": "67",
-                        "name": "Interests and Hobbies"
-                    },
-                    "entity": {
-                        "description": "Milk",
-                        "id": "850419241790472192",
-                        "name": "Milk"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "A section of a government, like The Supreme Court",
-                        "id": "88",
-                        "name": "Political Body"
-                    },
-                    "entity": {
-                        "id": "1137025566706561027",
-                        "name": "PMO India"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Named people in the world like Nelson Mandela",
-                        "id": "10",
-                        "name": "Person"
-                    },
-                    "entity": {
-                        "description": "Prime Minister of India Narendra Modi",
-                        "id": "806566669166350336",
-                        "name": "Narendra Modi"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Politicians in the world, like Joe Biden",
-                        "id": "35",
-                        "name": "Politician"
-                    },
-                    "entity": {
-                        "description": "Prime Minister of India Narendra Modi",
-                        "id": "806566669166350336",
-                        "name": "Narendra Modi"
-                    }
-                }
-            ],
-            "conversation_id": "1400503436626436096",
-            "created_at": "2021-06-03T17:23:34.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "PetaIndia"
-                    },
-                    {
-                        "end": 16,
-                        "start": 11,
-                        "username": "peta"
-                    },
-                    {
-                        "end": 27,
-                        "start": 17,
-                        "username": "Amul_Coop"
-                    },
-                    {
-                        "end": 38,
-                        "start": 28,
-                        "username": "amulcares"
-                    },
-                    {
-                        "end": 48,
-                        "start": 39,
-                        "username": "PMOIndia"
-                    }
-                ]
-            },
-            "id": "1400503436626436096",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "source": "Twitter for Android",
-            "text": "@PetaIndia @peta @Amul_Coop @amulcares @PMOIndia \n\nPeta who d hell are u to teach vegetarians that cow milk is good or not ?\nWhy your eyes not see the advertisement of KFC, lucious ?\n\nThe only reason is if no one drink cow milk so you can easily eat beaf."
-        },
-        {
-            "author_id": "2393055440",
-            "conversation_id": "1400503183139610627",
-            "created_at": "2021-06-03T17:22:33.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 83,
-                        "normalized_text": "Palliative Medicine",
-                        "probability": 0.3444,
-                        "start": 65,
-                        "type": "Other"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "DalMedSchool"
-                    },
-                    {
-                        "end": 217,
-                        "start": 206,
-                        "username": "FamPhysCan"
-                    },
-                    {
-                        "end": 248,
-                        "start": 234,
-                        "username": "Royal_College"
-                    }
-                ],
-                "urls": [
-                    {
-                        "display_url": "cspcp.ca/wp-content/upl\u2026",
-                        "end": 279,
-                        "expanded_url": "https://www.cspcp.ca/wp-content/uploads/2021/04/Advertisement-Palliative-Research-Chair-2021.pdf",
-                        "start": 256,
-                        "url": "https://t.co/2Zlo3Gr8HF"
-                    }
-                ]
-            },
-            "id": "1400503183139610627",
-            "public_metrics": {
-                "like_count": 3,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 3
-            },
-            "source": "Twitter Web App",
-            "text": "@DalMedSchool this is awesome!  An endowed Chair in Research for Palliative Medicine, which sits inside the Division of PM in the Department of Medicine.  The Division provides leadership as well as trains @FamPhysCan CACs as well as @Royal_College grads\n\nhttps://t.co/2Zlo3Gr8HF"
-        },
-        {
-            "author_id": "213238372",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
-                        "id": "46",
-                        "name": "Brand Category"
-                    },
-                    "entity": {
-                        "id": "781974596752842752",
-                        "name": "Services"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Brands and Companies",
-                        "id": "47",
-                        "name": "Brand"
-                    },
-                    "entity": {
-                        "id": "10029382357",
-                        "name": "YouTube"
-                    }
-                }
-            ],
-            "conversation_id": "1400499762953084934",
-            "created_at": "2021-06-03T17:22:26.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 139,
-                        "normalized_text": "youtube",
-                        "probability": 0.677,
-                        "start": 133,
-                        "type": "Product"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 8,
-                        "start": 0,
-                        "username": "ourmoas"
-                    },
-                    {
-                        "end": 20,
-                        "start": 9,
-                        "username": "beomiekkyu"
-                    }
-                ]
-            },
-            "id": "1400503153791967233",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400499762953084934",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter Web App",
-            "text": "@ourmoas @beomiekkyu i only listen to txt after becoming moa, i only know new songs from those inorganic advertisement popping up on youtube"
-        },
-        {
-            "author_id": "1060653353867321345",
-            "conversation_id": "1400501244590972931",
-            "created_at": "2021-06-03T17:22:17.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "DreadsLeftNappy"
-                    }
-                ]
-            },
-            "id": "1400503114223046663",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400502627222364160",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for iPhone",
-            "text": "@DreadsLeftNappy Wow super trash. False advertisement &amp; deadly"
         },
         {
             "author_id": "203238478",
@@ -4163,66 +2470,6 @@
             "text": "Saw an advertisement for something at Browns chicken and decided to come try it. I pray I don't regret this"
         },
         {
-            "author_id": "1319660445150728193",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Named people in the world like Nelson Mandela",
-                        "id": "10",
-                        "name": "Person"
-                    },
-                    "entity": {
-                        "description": "Dana Loesch",
-                        "id": "1053450989200523264",
-                        "name": "Dana Loesch"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "A journalist like 'Anderson Cooper'",
-                        "id": "94",
-                        "name": "Journalist"
-                    },
-                    "entity": {
-                        "description": "Dana Loesch",
-                        "id": "1053450989200523264",
-                        "name": "Dana Loesch"
-                    }
-                }
-            ],
-            "conversation_id": "1400108569664671744",
-            "created_at": "2021-06-03T17:18:45.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "TheFirstonTV"
-                    },
-                    {
-                        "end": 22,
-                        "start": 14,
-                        "username": "DLoesch"
-                    }
-                ]
-            },
-            "id": "1400502228121686016",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400108569664671744",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for iPhone",
-            "text": "@TheFirstonTV @DLoesch How are you clowns being \u201ccensored\u201d when I can see your remedial advertisement here without even asking for it? Again, stop complaining about \u201ccancel culture\u201d when your side is the original creators of constantly attempting to cancel others. The lack of awareness \ud83e\udd23"
-        },
-        {
             "author_id": "1400253180861202435",
             "conversation_id": "1400501845433389065",
             "created_at": "2021-06-03T17:17:14.000Z",
@@ -4255,131 +2502,6 @@
             },
             "source": "FS Poster",
             "text": "The free classified advertisement in the USA in 2021\nhttps://t.co/epGYu1EXvf"
-        },
-        {
-            "author_id": "1113869525030776832",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
-                        "id": "46",
-                        "name": "Brand Category"
-                    },
-                    "entity": {
-                        "id": "781974596752842752",
-                        "name": "Services"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Brands and Companies",
-                        "id": "47",
-                        "name": "Brand"
-                    },
-                    "entity": {
-                        "id": "10029382357",
-                        "name": "YouTube"
-                    }
-                }
-            ],
-            "conversation_id": "1398837018298183681",
-            "created_at": "2021-06-03T17:15:46.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 25,
-                        "normalized_text": "Youtube",
-                        "probability": 0.5795,
-                        "start": 19,
-                        "type": "Organization"
-                    },
-                    {
-                        "end": 78,
-                        "normalized_text": "Youtube",
-                        "probability": 0.5712,
-                        "start": 72,
-                        "type": "Product"
-                    },
-                    {
-                        "end": 104,
-                        "normalized_text": "Rehmat Tech Tips",
-                        "probability": 0.3711,
-                        "start": 89,
-                        "type": "Other"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 12,
-                        "start": 0,
-                        "username": "TeamYouTube"
-                    },
-                    {
-                        "end": 240,
-                        "start": 232,
-                        "username": "YouTube"
-                    },
-                    {
-                        "end": 254,
-                        "start": 242,
-                        "username": "TeamYouTube"
-                    },
-                    {
-                        "end": 272,
-                        "start": 256,
-                        "username": "YouTubeCreators"
-                    }
-                ]
-            },
-            "id": "1400501475831255041",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1398837018298183681",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@TeamYouTube Hello Youtube Team, I just want to say that a week ago  my Youtube Channel \"Rehmat Tech Tips\" was monetized and I am so happy with this but there is no advertisement showing on my videos while my channel is monetized. \n@YouTube \n@TeamYouTube \n@YouTubeCreators"
-        },
-        {
-            "author_id": "2893653197",
-            "conversation_id": "1400498930559991808",
-            "created_at": "2021-06-03T17:14:42.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "MichaelBucwa"
-                    },
-                    {
-                        "end": 30,
-                        "start": 14,
-                        "username": "smegsouthafrica"
-                    }
-                ]
-            },
-            "id": "1400501209023324172",
-            "public_metrics": {
-                "like_count": 233,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 2
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400498930559991808",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@MichaelBucwa @smegsouthafrica You deserve it. You been giving them free advertisement."
         },
         {
             "author_id": "1375792362",
@@ -4474,46 +2596,6 @@
             "text": "Cincinnatis first concert billboard advertisement i see would be Kings of Leon"
         },
         {
-            "author_id": "1251541641980022784",
-            "conversation_id": "1400500904436985857",
-            "created_at": "2021-06-03T17:13:38.000Z",
-            "id": "1400500938322812933",
-            "public_metrics": {
-                "like_count": 2,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400500936271831042",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "Dont believe in news...\nDon't believe in advertisement..\nDon't believe in panic...\nDon't believe in banks..\nDon't trust governments..\nBelieve in yourself..\nDo some yoga , pranayama etc.. u don't need 30 tablets to recover .."
-        },
-        {
-            "author_id": "1251541641980022784",
-            "conversation_id": "1400500904436985857",
-            "created_at": "2021-06-03T17:13:33.000Z",
-            "id": "1400500915770073088",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400500913916186627",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "Why does a food product need advertisement \ud83e\udd23"
-        },
-        {
             "author_id": "1391317480891731971",
             "conversation_id": "1400500853379932168",
             "created_at": "2021-06-03T17:13:18.000Z",
@@ -4526,69 +2608,6 @@
             },
             "source": "Twitter for Android",
             "text": "Every worker deepthroating the lucky spoon in every yoghurt advertisement"
-        },
-        {
-            "author_id": "22226680",
-            "conversation_id": "1400475234948550661",
-            "created_at": "2021-06-03T17:13:17.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 9,
-                        "start": 0,
-                        "username": "SizeChad"
-                    }
-                ]
-            },
-            "id": "1400500851937058818",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400475234948550661",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for iPhone",
-            "text": "@SizeChad Is this a Him\u2019s\u2122\ufe0f advertisement?"
-        },
-        {
-            "author_id": "1389696885988990985",
-            "conversation_id": "1400432568483319811",
-            "created_at": "2021-06-03T17:13:09.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 13,
-                        "start": 0,
-                        "username": "JamesKakeeto"
-                    },
-                    {
-                        "end": 24,
-                        "start": 14,
-                        "username": "ntvuganda"
-                    }
-                ]
-            },
-            "id": "1400500818898407437",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400454444735557646",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@JamesKakeeto @ntvuganda He's making an advertisement. He has to say so."
         },
         {
             "author_id": "960414581830160389",
@@ -4858,42 +2877,6 @@
             "text": "Some advertisement and I saw Lee know\ud83d\ude36 https://t.co/JGXM5JgH1z"
         },
         {
-            "author_id": "1263870794142060551",
-            "conversation_id": "1400139236288786434",
-            "created_at": "2021-06-03T17:12:23.000Z",
-            "entities": {
-                "hashtags": [
-                    {
-                        "end": 78,
-                        "start": 73,
-                        "tag": "rekt"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 14,
-                        "start": 0,
-                        "username": "aryan_kochhar"
-                    }
-                ]
-            },
-            "id": "1400500625478066177",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400139236288786434",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@aryan_kochhar That's radio mirchi advertisement ruined sharda forever.\n\n#rekt"
-        },
-        {
             "attachments": {
                 "media_keys": [
                     "3_1400500551310266368"
@@ -5127,118 +3110,6 @@
             "text": "The best part of following E3 is realizing it's a big days-long advertisement and letting other people follow it, then going back and cherry picking only the bits you're interested in after it's over."
         },
         {
-            "author_id": "799084165",
-            "conversation_id": "1400500072333209600",
-            "created_at": "2021-06-03T17:10:11.000Z",
-            "id": "1400500072333209600",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 1,
-                "reply_count": 0,
-                "retweet_count": 1
-            },
-            "source": "Twitter Web App",
-            "text": "company: (puts a conventionally attractive female character in an advertisement)\nthe internet: oh they're HORNY horny!!!!"
-        },
-        {
-            "author_id": "1001222731520589824",
-            "context_annotations": [
-                {
-                    "domain": {
-                        "description": "Named people in the world like Nelson Mandela",
-                        "id": "10",
-                        "name": "Person"
-                    },
-                    "entity": {
-                        "description": "US Senator Kamala Harris (CA)",
-                        "id": "875006493984149509",
-                        "name": "Kamala Harris"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Politicians in the world, like Joe Biden",
-                        "id": "35",
-                        "name": "Politician"
-                    },
-                    "entity": {
-                        "description": "US Senator Kamala Harris (CA)",
-                        "id": "875006493984149509",
-                        "name": "Kamala Harris"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Named people in the world like Nelson Mandela",
-                        "id": "10",
-                        "name": "Person"
-                    },
-                    "entity": {
-                        "description": "Prime Minister of India Narendra Modi",
-                        "id": "806566669166350336",
-                        "name": "Narendra Modi"
-                    }
-                },
-                {
-                    "domain": {
-                        "description": "Politicians in the world, like Joe Biden",
-                        "id": "35",
-                        "name": "Politician"
-                    },
-                    "entity": {
-                        "description": "Prime Minister of India Narendra Modi",
-                        "id": "806566669166350336",
-                        "name": "Narendra Modi"
-                    }
-                }
-            ],
-            "conversation_id": "1400482638876405764",
-            "created_at": "2021-06-03T17:10:10.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 16,
-                        "start": 0,
-                        "username": "Roflrajanikant1"
-                    },
-                    {
-                        "end": 30,
-                        "start": 17,
-                        "username": "narendramodi"
-                    },
-                    {
-                        "end": 34,
-                        "start": 31,
-                        "username": "VP"
-                    }
-                ],
-                "urls": [
-                    {
-                        "display_url": "youtu.be/KjWXluzdHjg",
-                        "end": 156,
-                        "expanded_url": "https://youtu.be/KjWXluzdHjg",
-                        "start": 133,
-                        "url": "https://t.co/LTEukZLxJt"
-                    }
-                ]
-            },
-            "id": "1400500066851332096",
-            "public_metrics": {
-                "like_count": 1,
-                "quote_count": 0,
-                "reply_count": 1,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400483423462969347",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter Web App",
-            "text": "@Roflrajanikant1 @narendramodi @VP Don't say that.\nHave you not seen the advertisement where his scheme is giving home to the poor.\n\nhttps://t.co/LTEukZLxJt"
-        },
-        {
             "attachments": {
                 "media_keys": [
                     "3_1400499994054909952"
@@ -5292,35 +3163,6 @@
             ],
             "source": "Twitter for Android",
             "text": "The same again &amp; again daily no improvement in network speed feel shame to say as fastest network #airtelthanks #shamelessairtel \nInstead of making advertisement give good network quality and speed https://t.co/uI5ghU7Wt8 https://t.co/LZi1878flW"
-        },
-        {
-            "author_id": "1395402934519795715",
-            "conversation_id": "1399601014295175169",
-            "created_at": "2021-06-03T17:06:02.000Z",
-            "entities": {
-                "mentions": [
-                    {
-                        "end": 12,
-                        "start": 0,
-                        "username": "Konekolewds"
-                    }
-                ]
-            },
-            "id": "1400499024625651713",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1399601014295175169",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter Web App",
-            "text": "@Konekolewds this gif, is an advertisement for please savagely orally milk me !!!!"
         },
         {
             "attachments": {
@@ -5508,61 +3350,6 @@
             "text": "#ThrowBackThursday Looking back at an advertisement announcing our First Sale of 1977 in this week's #TBT as we celebrate 100 years of Serving New York. https://t.co/h0OtjuUdLS"
         },
         {
-            "author_id": "14347902",
-            "conversation_id": "1400196792189218817",
-            "created_at": "2021-06-03T17:02:38.000Z",
-            "entities": {
-                "annotations": [
-                    {
-                        "end": 158,
-                        "normalized_text": "Torchlight 3",
-                        "probability": 0.4634,
-                        "start": 147,
-                        "type": "Product"
-                    },
-                    {
-                        "end": 185,
-                        "normalized_text": "Perfect World",
-                        "probability": 0.5493,
-                        "start": 173,
-                        "type": "Other"
-                    }
-                ],
-                "mentions": [
-                    {
-                        "end": 10,
-                        "start": 0,
-                        "username": "silvaliya"
-                    },
-                    {
-                        "end": 24,
-                        "start": 11,
-                        "username": "Splashem_Aid"
-                    },
-                    {
-                        "end": 40,
-                        "start": 25,
-                        "username": "PlayTorchlight"
-                    }
-                ]
-            },
-            "id": "1400498171772555266",
-            "public_metrics": {
-                "like_count": 0,
-                "quote_count": 0,
-                "reply_count": 0,
-                "retweet_count": 0
-            },
-            "referenced_tweets": [
-                {
-                    "id": "1400383279962988546",
-                    "type": "replied_to"
-                }
-            ],
-            "source": "Twitter for Android",
-            "text": "@silvaliya @Splashem_Aid @PlayTorchlight And if doesn't say the game is closed and we are shutting down \ud83d\ude02 it says that they have been sold so the Torchlight 3 goes back to Perfect World and they'll put a new dev on it would be stupid to keep putting advertisement money and what not into it and it was just released too"
-        },
-        {
             "author_id": "320096707",
             "conversation_id": "1400497681139597312",
             "created_at": "2021-06-03T17:00:41.000Z",
@@ -5725,10 +3512,6 @@
                 "type": "photo"
             },
             {
-                "media_key": "3_1400507238389719041",
-                "type": "photo"
-            },
-            {
                 "media_key": "3_1400505072199647239",
                 "type": "photo"
             },
@@ -5741,20 +3524,12 @@
                 "media_key": "7_1400504595256909824",
                 "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1400504595256909824/pu/img/JvgF26zYSix6pEju.jpg",
                 "public_metrics": {
-                    "view_count": 15309
+                    "view_count": 16734
                 },
                 "type": "video"
             },
             {
-                "media_key": "3_1400504136957710339",
-                "type": "photo"
-            },
-            {
                 "media_key": "3_1400503555908268040",
-                "type": "photo"
-            },
-            {
-                "media_key": "3_1400503503726911490",
                 "type": "photo"
             },
             {
@@ -5848,48 +3623,12 @@
                 "verified": false
             },
             {
-                "created_at": "2016-12-11T10:26:56.000Z",
-                "description": "Legal Practitioner. Managing Solicitor #Magnum Law Firm. Democrat. Lover of God, law & due process. Husband. Father. Defender of democracy & less privilege.",
-                "id": "807894428165820419",
-                "name": "M. C. Okoye",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1106752406728130560/2cNJSYM5_normal.jpg",
-                "username": "magnumlegal",
-                "verified": false
-            },
-            {
-                "created_at": "2020-02-21T18:32:37.000Z",
-                "description": "who cares?\nhttps://t.co/ywopFgko2I",
-                "id": "1230923260604235776",
-                "name": "P R E E\ud83d\udc3e|Stan Zooon \ud83c\udf1b|",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1400172618200719370/PF92nWMM_normal.jpg",
-                "username": "____prerna",
-                "verified": false
-            },
-            {
                 "created_at": "2021-06-02T19:36:36.000Z",
                 "description": "Hair accessories, jewellery and bags \ud83e\udd0e",
                 "id": "1400174479628640261",
                 "name": "Eternal light",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1400174671815872514/Ff_7kv8H_normal.jpg",
                 "username": "Eternallight_co",
-                "verified": false
-            },
-            {
-                "created_at": "2011-08-04T20:24:46.000Z",
-                "description": "I post a ton of #Cannabis pictures and cannabis related design. \n\nNothing is for sale.",
-                "id": "348672924",
-                "name": "Tick",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1253890565000892417/J8SmxWKI_normal.jpg",
-                "username": "TiCkTiCkBoOm_tv",
-                "verified": false
-            },
-            {
-                "created_at": "2020-10-04T06:10:02.000Z",
-                "description": "#RANBOO : \"anyway lets get back to b1ackma1ling\u201d \u2022 I\u2019m tall btw\u2014\u2014\u2014\u2014\u2014 just ur average gender fluid person",
-                "id": "1312636006898769920",
-                "name": "||\ud83d\udc1d\u2022Pancake - castaways, we are castaways \u2022\ud83d\udc1d||",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1399923048568877059/OYxZkXFA_normal.png",
-                "username": "NoseBleed404",
                 "verified": false
             },
             {
@@ -5903,20 +3642,11 @@
             },
             {
                 "created_at": "2021-04-06T13:21:31.000Z",
-                "description": "I post about hockey and video games a lot",
+                "description": "um I\u2019m a mailman and  I post about PlayStation and the islanders a lot",
                 "id": "1379423841651412997",
                 "name": "StartAInfection",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1393412256138936321/A4-0d9W1_normal.jpg",
                 "username": "josephm41804215",
-                "verified": false
-            },
-            {
-                "created_at": "2019-02-18T19:08:55.000Z",
-                "description": "Internet stranger",
-                "id": "1097573693516120069",
-                "name": "~ \u2661",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1383198180192452611/9uwp31m3_normal.jpg",
-                "username": "delicatetype",
                 "verified": false
             },
             {
@@ -5956,15 +3686,6 @@
                 "verified": false
             },
             {
-                "created_at": "2014-03-14T16:01:04.000Z",
-                "description": "President of @SupplyTheWork\n\nDigital dope we supply the work\n\nPulling something nostalgic from the Vault daily\n\nAll Praise to the most high \ud83e\udd32\ud83c\udffe\ud83c\udf19",
-                "id": "2389374979",
-                "name": "Victor Sweats",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1366404921751437314/z6Dibq6H_normal.jpg",
-                "username": "PresidentOfOTG",
-                "verified": false
-            },
-            {
                 "created_at": "2014-10-30T21:04:54.000Z",
                 "description": "Bringing the World Together..",
                 "id": "2883884077",
@@ -5992,39 +3713,12 @@
                 "verified": false
             },
             {
-                "created_at": "2017-11-09T16:31:43.000Z",
-                "description": "Magazine for an #ethical & informed #Kingston Like a small business or charity, salmon are affected by their environment. @Kingstonpound Editor: @KarenPowell28",
-                "id": "928661387425001472",
-                "name": "Salmon Magazine Kingston",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/974337289940807680/W071DzbG_normal.jpg",
-                "username": "Salmonmagazine",
-                "verified": false
-            },
-            {
-                "created_at": "2008-07-30T19:06:45.000Z",
-                "description": "Provosoiva uusliberalisti, filosofian rakastaja, rehellisyyden mets\u00e4st\u00e4j\u00e4, is\u00e4, yritt\u00e4j\u00e4 ja ironian sanansaattaja.",
-                "id": "15664420",
-                "name": "samif",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1392221513793871874/vB0_oQEW_normal.jpg",
-                "username": "samifian",
-                "verified": false
-            },
-            {
                 "created_at": "2021-01-21T09:19:33.000Z",
                 "description": "a bot that assembles a collection of words using the Exquisite Corpse method",
                 "id": "1352183786381975552",
                 "name": "ExquisiteBot",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1352212389949820929/Wqcp_cOy_normal.jpg",
                 "username": "ExquisiteBot",
-                "verified": false
-            },
-            {
-                "created_at": "2019-05-19T17:48:41.000Z",
-                "description": "A prospective Electronic Engineer turned interim protestor. Major cat lover and God of Typos. Come join the dark side, we have catnip. PERSONAL ACCOUNT",
-                "id": "1130168410808016896",
-                "name": "Darth MicHaeL \u2620\ufe0f",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1391622607858921483/QIPutMLz_normal.jpg",
-                "username": "MHLAPEX",
                 "verified": false
             },
             {
@@ -6037,15 +3731,6 @@
                 "verified": false
             },
             {
-                "created_at": "2013-03-19T02:17:43.000Z",
-                "description": "",
-                "id": "1279321903",
-                "name": "Fady Amany",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1256224723027050497/vfoC4POn_normal.jpg",
-                "username": "FadyAmany",
-                "verified": false
-            },
-            {
                 "created_at": "2013-03-27T08:32:53.000Z",
                 "description": "former Professional bantamweight boxer, former english flyweight champion , British title challenger, going to be the best I can be when I\u2019m back",
                 "id": "1306918177",
@@ -6055,66 +3740,12 @@
                 "verified": false
             },
             {
-                "created_at": "2020-02-21T18:40:34.000Z",
-                "description": "Crime\u2022Law\u2022Feminist | Photo\u2022Music | Translate\u2022Volunteer | Blue Team | Ambidexterity \ud83c\uddec\ud83c\udde7\ud83c\uddef\ud83c\uddf5\ud83c\uddec\ud83c\udde7",
-                "id": "1230924991727886339",
-                "name": "\u2727\u204e\u208a \u2133\u208a\u204e\u2727",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1388574346063527936/Hr-iv00c_normal.jpg",
-                "username": "1nf0seekerM",
-                "verified": false
-            },
-            {
-                "created_at": "2012-11-28T22:13:03.000Z",
-                "description": "",
-                "id": "977086849",
-                "name": "Michael Walters",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/722672234742071296/JMvAkJXH_normal.jpg",
-                "username": "MikeJohnWalters",
-                "verified": false
-            },
-            {
-                "created_at": "2010-07-28T05:05:50.000Z",
-                "description": "Producer @RoosterTeeth Animation - #RWBY, #RWBYChibi/#NeonKonbini and #RedVsBlue. \"East\" in #RVBZero. Catholic born and raised. (She/Her)",
-                "id": "171793128",
-                "name": "Jenn K. Tidwell",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1348473961584189440/MaVfog4j_normal.jpg",
-                "username": "jk_tidwell",
-                "verified": false
-            },
-            {
-                "created_at": "2012-05-15T20:48:53.000Z",
-                "description": "\"Do, be, and say whatever you want. In general, never apologize.\"",
-                "id": "581239336",
-                "name": "Tote Real",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1131823417697722370/Mq-XR_AQ_normal.jpg",
-                "username": "nreal182",
-                "verified": false
-            },
-            {
-                "created_at": "2020-06-07T05:54:41.000Z",
-                "description": "",
-                "id": "1269508019798151169",
-                "name": "ur gf \ud83e\udddd\ud83c\udffd\u200d\u2640\ufe0f",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1400920289064620034/O-KGYewc_normal.jpg",
-                "username": "jaidatatyana",
-                "verified": false
-            },
-            {
                 "created_at": "2017-03-25T13:49:47.000Z",
                 "description": "Eunsoo Lim\ud83d\udc22 \u2022 Team Korea \u2022 rts alot",
                 "id": "845633814449696769",
                 "name": "El",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1372138631947644930/ejLpdW3Y_normal.jpg",
                 "username": "e_loloi",
-                "verified": false
-            },
-            {
-                "created_at": "2015-01-09T08:22:54.000Z",
-                "description": "Written by a fan \u2571 \u22c6 An empress, goddess of the universe; her petals blooms and blows. @WJSN_Cosmic's visual queen, Bona-the-Kim.",
-                "id": "2968568328",
-                "name": "BONA.",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1400023925497614338/APJby-0v_normal.jpg",
-                "username": "kinboma",
                 "verified": false
             },
             {
@@ -6133,69 +3764,6 @@
                 "name": "jazzy",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1399504092288884736/TMlMKWNJ_normal.jpg",
                 "username": "quackjazzy",
-                "verified": false
-            },
-            {
-                "created_at": "2020-01-20T16:53:22.000Z",
-                "description": "",
-                "id": "1219301860080676866",
-                "name": "Kenali",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1354080850313437184/ign890Ph_normal.jpg",
-                "username": "Kenali98270770",
-                "verified": false
-            },
-            {
-                "created_at": "2016-11-24T19:20:02.000Z",
-                "description": "",
-                "id": "801867994880045056",
-                "name": "Enorma Scok",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1235793749223116800/vEw-qfX5_normal.jpg",
-                "username": "CallsignCrash",
-                "verified": false
-            },
-            {
-                "created_at": "2016-12-12T23:22:48.000Z",
-                "description": "I\u2019m here for politics and a few drag queens.",
-                "id": "808452070869258242",
-                "name": "DaniRu",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1324476220973719560/x6wDbywH_normal.jpg",
-                "username": "pigbandit",
-                "verified": false
-            },
-            {
-                "created_at": "2021-02-26T15:07:56.000Z",
-                "description": "Dolan is love",
-                "id": "1365317628990873601",
-                "name": "OMESH SINGH",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1380821682386919428/AfE3VVGO_normal.jpg",
-                "username": "Billaixxx",
-                "verified": false
-            },
-            {
-                "created_at": "2018-03-24T03:51:22.000Z",
-                "description": "Farmer, IT Professional, Abhyasi, Student of Astrology, Thalaiva fan, Indian",
-                "id": "977392403995742208",
-                "name": "Seeker",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1246483037044391937/GTPjQNxY_normal.jpg",
-                "username": "yogi203ce",
-                "verified": false
-            },
-            {
-                "created_at": "2019-12-16T23:50:43.000Z",
-                "description": "Congress. Supporter of Shri @sanjaynirupam, Member : AIPC. \n#Trader, #Intraday, Jai Maa Shakambri.\ud83d\udc63",
-                "id": "1206723303970226176",
-                "name": "Pradeep Bhageria \ud83d\ude37",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1393854891643203586/LOmvtDl7_normal.jpg",
-                "username": "Pradeepb69",
-                "verified": false
-            },
-            {
-                "created_at": "2020-10-18T12:15:08.000Z",
-                "description": "Ilustradora. Libros infantiles, demonios medievales, dibujo muchas chorradas y le grito a la tv. Ella/she",
-                "id": "1317801326450003970",
-                "name": "Mar\u00eda Corredera",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1317805161247625223/kEOMFOAM_normal.jpg",
-                "username": "EmeCorredera",
                 "verified": false
             },
             {
@@ -6226,42 +3794,6 @@
                 "verified": false
             },
             {
-                "created_at": "2012-10-20T18:23:24.000Z",
-                "description": "Proud father, proud socialist and former member of Scottish Parliament.Married to a wonderful woman and son to the best parents anyone could hope for #StillYES",
-                "id": "893759190",
-                "name": "Tommy Sheridan",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1395646653273677824/7SYOoY1n_normal.jpg",
-                "username": "citizentommy",
-                "verified": false
-            },
-            {
-                "created_at": "2016-08-23T18:17:28.000Z",
-                "description": "",
-                "id": "768150177895112704",
-                "name": "Chintan Parekh",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1227440767293018112/67r5AYb9_normal.jpg",
-                "username": "Chintan0890",
-                "verified": false
-            },
-            {
-                "created_at": "2014-11-28T16:43:35.000Z",
-                "description": "Engineer in Automobile Sector",
-                "id": "2912900904",
-                "name": "Digpal \ud83c\uddee\ud83c\uddf3",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1109051229211115520/kMo-LQnv_normal.jpg",
-                "username": "digpal_chahar",
-                "verified": false
-            },
-            {
-                "created_at": "2015-08-10T18:56:38.000Z",
-                "description": "\u300eA man who struggles against fate, only knowing his sword.\u300f\nAmateur Writer/Gamer/Amateur VA/Enlightened Nihilist/Notary of the Black Delegation: N-Pass Division",
-                "id": "3311687832",
-                "name": "\u300eMrTHANKYOUMIURAMan\u300f",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1394944722481778695/T94ynIYR_normal.jpg",
-                "username": "TheStrxggler",
-                "verified": false
-            },
-            {
                 "created_at": "2020-11-10T18:26:33.000Z",
                 "description": "Documenting the leftists on Tik Tok. All videos belong to their respective owners. DM submissions",
                 "id": "1326229737551912960",
@@ -6271,39 +3803,12 @@
                 "verified": false
             },
             {
-                "created_at": "2010-05-18T17:21:21.000Z",
-                "description": "To ask nothing..to expect nothing..to depends on nothing. ..!\nDie hard fan of #PrithvirajSukumaran",
-                "id": "145315533",
-                "name": "Babeesh pallikara",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1099758197089292288/5OraDGpr_normal.jpg",
-                "username": "Babeesh143",
-                "verified": false
-            },
-            {
-                "created_at": "2009-08-18T03:08:30.000Z",
-                "description": "Music Archivist and Radio Admin. Worked at @EverfreeNetwork. Music is my passion. Promotion \u2022 Fandom Music PR \u2022 Album Events & more. Profile by @Over9000coffey.",
-                "id": "66579076",
-                "name": "Araxnus \u266b",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1144893466964480000/UZG6mkE0_normal.png",
-                "username": "Araxnus",
-                "verified": false
-            },
-            {
                 "created_at": "2016-02-23T19:30:18.000Z",
                 "description": "#Kidlit author. Member of #SCBWI, #12x12PB, #StoryStorm, @childrensbookac, @picturebkbunch. Pianist. #psoriasis warrior *She/Her*",
                 "id": "702213913643855873",
                 "name": "Laurie Carmody",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1189529782368854018/Z461mZfG_normal.jpg",
                 "username": "LaurieECarmody",
-                "verified": false
-            },
-            {
-                "created_at": "2018-06-02T10:24:59.000Z",
-                "description": "Indian. Non-LW, non-RW. I follow people from all political spectrums",
-                "id": "1002858610932711425",
-                "name": "Anti-Dentite",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1263428474146115584/_cRP9Tao_normal.jpg",
-                "username": "AntiDentite8",
                 "verified": false
             },
             {
@@ -6325,53 +3830,8 @@
                 "verified": false
             },
             {
-                "created_at": "2020-06-21T02:57:06.000Z",
-                "description": "It is foolish to fear what you have to see & know!",
-                "id": "1274536616892096513",
-                "name": "Mangekyo Sharingan",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1303328370642485249/3NEpBAvS_normal.jpg",
-                "username": "susano370",
-                "verified": false
-            },
-            {
-                "created_at": "2009-10-03T06:13:18.000Z",
-                "description": "",
-                "id": "79391230",
-                "name": "Balance",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1246863566562414592/7MG5zJ0Q_normal.jpg",
-                "username": "ind_balance",
-                "verified": false
-            },
-            {
-                "created_at": "2014-03-16T17:39:32.000Z",
-                "description": "Father, Husband, Brother, Son\nPallMed MD\nRT/\u2764\ufe0f = chat;\nVerified by me \ud83d\udc99;\n\ud83d\ude45\ud83c\udffc\u200d trolls;\n\u2764GIFs\nMy own opinions",
-                "id": "2393055440",
-                "name": "Darren Cargill MD \ud83c\udde8\ud83c\udde6\ud83d\udc99",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1400022228540997632/Bq_hr0XC_normal.jpg",
-                "username": "reasonablewlvrn",
-                "verified": false
-            },
-            {
-                "created_at": "2010-11-08T11:13:21.000Z",
-                "description": "MOA\u201921 OT5",
-                "id": "213238372",
-                "name": "TXT4thGen\u2070\u02e3\u00b9",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1393621174089764866/NoW6z5Bf_normal.jpg",
-                "username": "Youthdreamhope",
-                "verified": false
-            },
-            {
-                "created_at": "2018-11-08T22:00:40.000Z",
-                "description": "I\u2019m only here for jokes #FreeTheWorldBoss \ud83c\uddf5\ud83c\udde6\ud83c\uddf5\ud83c\uddf7",
-                "id": "1060653353867321345",
-                "name": "\ud83c\udf4d\u2649\ufe0f",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1340516173662867456/xIJlCms8_normal.jpg",
-                "username": "UnrulyLuna",
-                "verified": false
-            },
-            {
                 "created_at": "2010-10-15T20:58:41.000Z",
-                "description": "Long Term Investor - When in doubt, zoom out",
+                "description": "Long Term Investor. Brazil, China and Southeast Asia Enthusiast - When in doubt, zoom out",
                 "id": "203238478",
                 "name": "BuyandHold",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1387769747136204805/Nblq1qUb_normal.jpg",
@@ -6406,39 +3866,12 @@
                 "verified": false
             },
             {
-                "created_at": "2020-10-23T15:23:11.000Z",
-                "description": "Always ready and on the prowl \ud83d\ude0e",
-                "id": "1319660445150728193",
-                "name": "Tyler John",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1325469689317879815/7_Xvw8Hm_normal.jpg",
-                "username": "TylerJohn12",
-                "verified": false
-            },
-            {
                 "created_at": "2021-06-03T00:49:21.000Z",
                 "description": "https://t.co/IyVvMEFzV2 allows you to compare prices for products sold by various retailers.",
                 "id": "1400253180861202435",
                 "name": "Priceflavor.com",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1400255023410565126/6SQDHkv__normal.jpg",
                 "username": "PriceFlavor",
-                "verified": false
-            },
-            {
-                "created_at": "2019-04-04T18:22:44.000Z",
-                "description": "My Name Is Rehmat And I am A Student Of TECHNOLOGY\ud83d\ude00",
-                "id": "1113869525030776832",
-                "name": "REHMAT KHAN",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1324952011050246144/z3ODvg8k_normal.jpg",
-                "username": "REHMATK46348531",
-                "verified": false
-            },
-            {
-                "created_at": "2014-11-26T18:35:47.000Z",
-                "description": "KaizerChiefs \u270c\ufe0f\nArsenal FC\nReal Madrid CF.\nMy Tweets are not paid for?.\nMy Tweets are my thoughts and opinions.",
-                "id": "2893653197",
-                "name": "Minister of Small Accounts \ud83d\ude0d\ud83d\udc4f\ud83d\ude4f\ud83d\udd6f\ufe0f\ud83d\udc4a\ud83c\udffd",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1398590554720583685/C2csdTfd_normal.jpg",
-                "username": "Fuze_Elimhlophe",
                 "verified": false
             },
             {
@@ -6451,39 +3884,12 @@
                 "verified": false
             },
             {
-                "created_at": "2020-04-18T16:02:44.000Z",
-                "description": "@masongreenwood \u2b50\u2728\n#bitcoin",
-                "id": "1251541641980022784",
-                "name": ",'",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1393154779161890819/bPvfojSa_normal.jpg",
-                "username": "Boring_Indian",
-                "verified": false
-            },
-            {
                 "created_at": "2021-05-09T09:02:02.000Z",
                 "description": "",
                 "id": "1391317480891731971",
                 "name": "Sir.Shounen",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1391317611871412224/Two2Nh05_normal.jpg",
                 "username": "SirShounen",
-                "verified": false
-            },
-            {
-                "created_at": "2009-02-28T04:06:46.000Z",
-                "description": "hello kitty band-aid club: ENTER HERE",
-                "id": "22226680",
-                "name": "Bisexual Chick-fil-A Employee",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1303824466980540420/e6M7B9cV_normal.jpg",
-                "username": "patsie__",
-                "verified": false
-            },
-            {
-                "created_at": "2021-05-04T21:42:24.000Z",
-                "description": "Everything IT and  Learning the Law...\nJust as Ferran Soriano wrote-'The Ball Doesn't Go In By Chance'",
-                "id": "1389696885988990985",
-                "name": "Atticus Finch",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1393648107171287052/rP2pp-WS_normal.jpg",
-                "username": "wamalad",
                 "verified": false
             },
             {
@@ -6502,15 +3908,6 @@
                 "name": "EA\ud83c\udf3b\u2728",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1397177583532339200/rb3qpFba_normal.jpg",
                 "username": "bbyinniebread",
-                "verified": false
-            },
-            {
-                "created_at": "2020-05-22T16:34:26.000Z",
-                "description": "Software Engineer who loves\nCode \u2665\ufe0f\nLinux \u2764\ufe0f\nCoffee \u2665\ufe0f\nOpen Source \u2665\ufe0f\nFlipping 0s and 1s \u2764\ufe0f\nJava \ud83d\udc68\u200d\ud83d\udcbb \nCloud \u2601\ufe0f",
-                "id": "1263870794142060551",
-                "name": "Siddharth",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1399375312475983873/YzLHRhjS_normal.jpg",
-                "username": "compilethecode",
                 "verified": false
             },
             {
@@ -6541,24 +3938,6 @@
                 "verified": false
             },
             {
-                "created_at": "2012-09-02T21:31:50.000Z",
-                "description": "nb | i would rather die than commit to a pronoun for even a single day",
-                "id": "799084165",
-                "name": "THE SUN THE SUN THE SUN THE SUN",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1324414232981434368/2qrJ2zHH_normal.jpg",
-                "username": "50TurnParty",
-                "verified": false
-            },
-            {
-                "created_at": "2018-05-28T22:04:35.000Z",
-                "description": "Hyderabad",
-                "id": "1001222731520589824",
-                "name": "Adams apple \ud83c\udf4e!!!!",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1005272847223173122/sHs1ohpE_normal.jpg",
-                "username": "anasmohd556",
-                "verified": false
-            },
-            {
                 "created_at": "2020-09-04T15:33:03.000Z",
                 "description": "BJP Madurai Rural Tirupalai Mandal Youth Wing Secretary",
                 "id": "1301906083250806784",
@@ -6568,19 +3947,10 @@
                 "verified": false
             },
             {
-                "created_at": "2021-05-20T15:36:19.000Z",
-                "description": "21 years US Army, retired, now im an elite grill chef!---Daddy job is the best!",
-                "id": "1395402934519795715",
-                "name": "Verde",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1395409836079255555/lFwVV1UB_normal.jpg",
-                "username": "Verde95589996",
-                "verified": false
-            },
-            {
                 "created_at": "2019-03-23T14:13:46.000Z",
                 "description": "#\ud55c\uc9c0\uc131: this user is peter\u2019s legit gf! \u2022 she | they \ud83e\udded",
                 "id": "1109458215660486656",
-                "name": "dimple\u2078 \ud83d\udc3a",
+                "name": "dimple\u2078",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1400809643253792777/JjYCCCri_normal.jpg",
                 "username": "sainthanji",
                 "verified": false
@@ -6610,15 +3980,6 @@
                 "name": "Reymore Chevrolet",
                 "profile_image_url": "https://pbs.twimg.com/profile_images/1055155102359654400/f_kTlm6P_normal.jpg",
                 "username": "ReymoreChevy",
-                "verified": false
-            },
-            {
-                "created_at": "2008-04-10T02:53:03.000Z",
-                "description": "Computer games, Computer hardware and Tech Gadgets, Wireless Technology",
-                "id": "14347902",
-                "name": "Nathan Jones",
-                "profile_image_url": "https://pbs.twimg.com/profile_images/1034852129524129792/aX7S3uu4_normal.jpg",
-                "username": "Natebird",
                 "verified": false
             },
             {
@@ -6653,6 +4014,6 @@
     "meta": {
         "newest_id": "1400512449963606022",
         "oldest_id": "1400497508514766848",
-        "result_count": 97
+        "result_count": 50
     }
 }
