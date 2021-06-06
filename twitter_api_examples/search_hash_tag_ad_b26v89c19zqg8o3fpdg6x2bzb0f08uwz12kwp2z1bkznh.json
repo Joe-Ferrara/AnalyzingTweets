@@ -1,0 +1,964 @@
+{
+    "data": [
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400497531562438659"
+                ]
+            },
+            "author_id": "729372168983859201",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "Coverage from the under-21 competition organised by football's European governing body, UEFA.",
+                        "id": "10029775180",
+                        "name": "Live: UEFA European Championship Under 21 Football"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "6",
+                        "name": "Sports Event"
+                    },
+                    "entity": {
+                        "id": "1275806388367720450",
+                        "name": "2022 FIFA World Cup"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Types of sports, like soccer and basketball",
+                        "id": "11",
+                        "name": "Sport"
+                    },
+                    "entity": {
+                        "id": "733756536430809088",
+                        "name": "Soccer"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "1275806388367720450",
+                        "name": "2022 FIFA World Cup"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "1304474187961044993",
+                        "name": "FIFA Men's World Cup"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+                        "id": "40",
+                        "name": "Sports Series"
+                    },
+                    "entity": {
+                        "id": "1275806388367720450",
+                        "name": "2022 FIFA World Cup"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "847869481888096256",
+                        "name": "Gambling"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Sports Betting",
+                        "id": "1158813612409929728",
+                        "name": "Sports betting"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Types of sports, like soccer and basketball",
+                        "id": "11",
+                        "name": "Sport"
+                    },
+                    "entity": {
+                        "description": "Horse racing",
+                        "id": "847901716024446977",
+                        "name": "Horse racing & equestrian"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597222535168",
+                        "name": "Online Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10040539136",
+                        "name": "Ladbrokes"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "847869481888096256",
+                        "name": "Gambling"
+                    }
+                }
+            ],
+            "conversation_id": "1400497537493180416",
+            "created_at": "2021-06-03T17:00:07.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 235,
+                        "start": 227,
+                        "tag": "WCQ2022"
+                    },
+                    {
+                        "end": 248,
+                        "start": 236,
+                        "tag": "Bettingtips"
+                    },
+                    {
+                        "end": 257,
+                        "start": 249,
+                        "tag": "EUROU21"
+                    },
+                    {
+                        "end": 270,
+                        "start": 258,
+                        "tag": "HorseRacing"
+                    },
+                    {
+                        "end": 274,
+                        "start": 271,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "mediaserver.entainpartners.com/renderBanner.d\u2026",
+                        "end": 195,
+                        "expanded_url": "https://mediaserver.entainpartners.com/renderBanner.do?zoneId=2020778",
+                        "start": 172,
+                        "url": "https://t.co/CtxFZR0Q0k"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/v2NMkOn0da",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/UKBettingoffer/status/1400497537493180416/photo/1",
+                        "start": 277,
+                        "url": "https://t.co/v2NMkOn0da"
+                    }
+                ]
+            },
+            "id": "1400497537493180416",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twittimer",
+            "text": "Ladbrokes Bet \u20ac\u00a35 Get \u20ac\u00a320 Free\nThe U.K Top Sports betting Company\n\nNew Customers Offer\n1. Deposit \u20ac\u00a35\n2. Bet \u00a35 On Any Sports Market\n3. Get 4 x \u00a3\u20ac5 free bets\nDirect Link\n\ud83d\udd38https://t.co/CtxFZR0Q0k\n\n18+T&amp;Cs GambleResponsibly #WCQ2022\n#Bettingtips #EUROU21 #HorseRacing #Ad.9 https://t.co/v2NMkOn0da"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400497151810093056"
+                ]
+            },
+            "author_id": "2719829002",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Cardale Jones",
+                        "id": "872843560042639360",
+                        "name": "Cardale Jones"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+                        "id": "60",
+                        "name": "Athlete"
+                    },
+                    "entity": {
+                        "description": "Cardale Jones",
+                        "id": "872843560042639360",
+                        "name": "Cardale Jones"
+                    }
+                }
+            ],
+            "conversation_id": "1400497533646950409",
+            "created_at": "2021-06-03T17:00:06.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 80,
+                        "start": 77,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 88,
+                        "start": 81,
+                        "tag": "ProLon"
+                    },
+                    {
+                        "end": 105,
+                        "start": 89,
+                        "tag": "FastingWithFood"
+                    },
+                    {
+                        "end": 116,
+                        "start": 106,
+                        "tag": "ProLonFMD"
+                    },
+                    {
+                        "end": 125,
+                        "start": 117,
+                        "tag": "FastBar"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 75,
+                        "start": 65,
+                        "username": "prolonfmd"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dpbolvw.net/click-10038687\u2026",
+                        "end": 64,
+                        "expanded_url": "https://www.dpbolvw.net/click-100386877-14345138",
+                        "start": 41,
+                        "url": "https://t.co/3xFYi8SKrl"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/GLGTsytDfY",
+                        "end": 149,
+                        "expanded_url": "https://twitter.com/CJ1two/status/1400497533646950409/photo/1",
+                        "start": 126,
+                        "url": "https://t.co/GLGTsytDfY"
+                    }
+                ]
+            },
+            "id": "1400497533646950409",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "source": "Twitter for iPhone",
+            "text": "Start your day off fast with a Fast Bar! https://t.co/3xFYi8SKrl @ProlonFMD \n#ad\n#ProLon\n#FastingWithFood\n#ProLonFMD #FastBar https://t.co/GLGTsytDfY"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400497521340960771"
+                ]
+            },
+            "author_id": "1149385697863880705",
+            "conversation_id": "1400497523085697027",
+            "created_at": "2021-06-03T17:00:04.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "Northern Ireland",
+                        "probability": 0.3641,
+                        "start": 0,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 60,
+                        "start": 57,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "classicfootballshirts.co.uk/1990-92-northe\u2026",
+                        "end": 56,
+                        "expanded_url": "https://www.classicfootballshirts.co.uk/1990-92-northern-ireland-home-shirt-excellent-xl.html?ref=footballroulette",
+                        "start": 33,
+                        "url": "https://t.co/6J4ILEX0N8"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/V5XoKgZTvY",
+                        "end": 84,
+                        "expanded_url": "https://twitter.com/roulette_shirt/status/1400497523085697027/photo/1",
+                        "start": 61,
+                        "url": "https://t.co/V5XoKgZTvY"
+                    }
+                ]
+            },
+            "id": "1400497523085697027",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "footballshirtroulette",
+            "text": "Northern Ireland Home Shirt 1990 https://t.co/6J4ILEX0N8 #ad https://t.co/V5XoKgZTvY"
+        },
+        {
+            "author_id": "29424557",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Beauty",
+                        "id": "850395585941086209",
+                        "name": "Beauty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Skin Care",
+                        "id": "855107826351357952",
+                        "name": "Skin care"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Beauty",
+                        "id": "850395585941086209",
+                        "name": "Beauty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Face Care",
+                        "id": "850395727494660096",
+                        "name": "Face Care"
+                    }
+                }
+            ],
+            "conversation_id": "1400497516345380865",
+            "created_at": "2021-06-03T17:00:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 61,
+                        "tag": "melasma"
+                    },
+                    {
+                        "end": 114,
+                        "start": 96,
+                        "tag": "hyperpigmentation"
+                    },
+                    {
+                        "end": 167,
+                        "start": 158,
+                        "tag": "skincare"
+                    },
+                    {
+                        "end": 221,
+                        "start": 210,
+                        "tag": "skinhealth"
+                    },
+                    {
+                        "end": 225,
+                        "start": 222,
+                        "tag": "ad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 239,
+                        "start": 226,
+                        "username": "lyntonlasers"
+                    },
+                    {
+                        "end": 250,
+                        "start": 240,
+                        "username": "CasmaraUK"
+                    }
+                ]
+            },
+            "id": "1400497516345380865",
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter for Advertisers.",
+            "text": "Our \"hyperpigmentation vs melasma\" how-to guide explains how #melasma differs to other forms of #hyperpigmentation, the common symptoms of each, and the best #skincare products to use on clients. Check it out \ud83d\udc47#skinhealth #ad @lyntonlasers @CasmaraUK"
+        },
+        {
+            "author_id": "1046881010",
+            "conversation_id": "1400497515644919809",
+            "created_at": "2021-06-03T17:00:02.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 232,
+                        "start": 229,
+                        "tag": "YA"
+                    },
+                    {
+                        "end": 236,
+                        "start": 233,
+                        "tag": "MR"
+                    },
+                    {
+                        "end": 240,
+                        "start": 237,
+                        "tag": "AD"
+                    },
+                    {
+                        "end": 248,
+                        "start": 241,
+                        "tag": "PitMad"
+                    }
+                ]
+            },
+            "id": "1400497515644919809",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "source": "Twitter Web App",
+            "text": "HOW TO TRAIN YOUR DRAGON x JURASSIC PARK\n\n\ud83d\udc09Hope is the youngest and has no idea her family hunted dragons \u2026 until she bonds with one. \n\n\ud83d\udde1 Estel is the oldest and has no idea how to protect her family\u2026 while dragons still live.  \n#YA #MR #AD #PitMad"
+        },
+        {
+            "author_id": "240420946",
+            "conversation_id": "1400497514051162112",
+            "created_at": "2021-06-03T17:00:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 35,
+                        "tag": "funny"
+                    },
+                    {
+                        "end": 48,
+                        "start": 42,
+                        "tag": "gifts"
+                    },
+                    {
+                        "end": 52,
+                        "start": 49,
+                        "tag": "ad"
+                    }
+                ]
+            },
+            "id": "1400497514051162112",
+            "public_metrics": {
+                "like_count": 57,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "source": "Twitter for Advertisers.",
+            "text": "Man's best friend, indeed. \ud83d\udc36  pets #funny #gifts #ad"
+        },
+        {
+            "author_id": "771187179313782786",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "1384518599562301449",
+                        "name": "UEFA European Championship"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "1384518599562301449",
+                        "name": "UEFA European Championship"
+                    }
+                }
+            ],
+            "conversation_id": "1400497513078067204",
+            "created_at": "2021-06-03T17:00:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 98,
+                        "start": 95,
+                        "tag": "Ad"
+                    },
+                    {
+                        "end": 108,
+                        "start": 99,
+                        "tag": "EURO2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "freetips.com/bookie-special\u2026",
+                        "end": 93,
+                        "expanded_url": "http://freetips.com/bookie-specials/euro-2020-free-bet-20210601-0024/",
+                        "start": 70,
+                        "url": "https://t.co/nt5swPLDRa"
+                    }
+                ]
+            },
+            "id": "1400497513078067204",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "TweetDeck",
+            "text": "\u26bd Euro 2020 Free Bet - Get up to \u00a3/\u20ac50 in welcome bonus at TonyBet\n\n\u25b6 https://t.co/nt5swPLDRa\n\n#Ad #EURO2020 \ud83d\udd1e 18+. BeGambleAware"
+        },
+        {
+            "author_id": "59628414",
+            "conversation_id": "1400497512436273156",
+            "created_at": "2021-06-03T17:00:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Treasure of Sierra Madre",
+                        "probability": 0.3622,
+                        "start": 15,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Detroit",
+                        "probability": 0.9716,
+                        "start": 57,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 250,
+                        "start": 243,
+                        "tag": "PitMad"
+                    },
+                    {
+                        "end": 253,
+                        "start": 251,
+                        "tag": "A"
+                    },
+                    {
+                        "end": 257,
+                        "start": 254,
+                        "tag": "AC"
+                    },
+                    {
+                        "end": 261,
+                        "start": 258,
+                        "tag": "AD"
+                    },
+                    {
+                        "end": 266,
+                        "start": 262,
+                        "tag": "CON"
+                    },
+                    {
+                        "end": 269,
+                        "start": 267,
+                        "tag": "T"
+                    },
+                    {
+                        "end": 274,
+                        "start": 270,
+                        "tag": "BVM"
+                    },
+                    {
+                        "end": 279,
+                        "start": 275,
+                        "tag": "OWN"
+                    }
+                ]
+            },
+            "id": "1400497512436273156",
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "source": "Twitter Web App",
+            "text": "Across 110th + Treasure of Sierra Madre\nA rainy night in Detroit. 3 friends find $100K. 2 cold blooded killers and 2 bumbling teen runners are sent to find the lost cash. Mayhem and chaos follows everyone involved with the missing drug money. #PitMad #A #AC #AD #CON #T #BVM #OWN"
+        },
+        {
+            "author_id": "16402507",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596157181954",
+                        "name": "Hospitality"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783337372406517762",
+                        "name": "Online Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026377926",
+                        "name": "Orbitz"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Travel",
+                        "id": "839159814991167489",
+                        "name": "Travel"
+                    }
+                }
+            ],
+            "conversation_id": "1400497510867554309",
+            "created_at": "2021-06-03T17:00:01.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Leather Museum",
+                        "probability": 0.3408,
+                        "start": 51,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 70,
+                        "start": 67,
+                        "tag": "ad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 78,
+                        "start": 71,
+                        "username": "Orbitz"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thrillist.com/travel/chicago\u2026",
+                        "end": 102,
+                        "expanded_url": "https://www.thrillist.com/travel/chicago/the-best-things-for-lgbtq-visitors-to-do-in-chicago?utm_source=twitter&utm_medium=social&utm_campaign=thrillist",
+                        "start": 79,
+                        "url": "https://t.co/sq3BET3vZB"
+                    }
+                ]
+            },
+            "id": "1400497510867554309",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "Get your culture on, from the Art Institute to the Leather Museum. #ad @orbitz https://t.co/sq3BET3vZB"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1399673364374069249"
+                ]
+            },
+            "author_id": "204337311",
+            "conversation_id": "1400497510821498883",
+            "created_at": "2021-06-03T17:00:01.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "Ad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 56,
+                        "start": 40,
+                        "username": "PortsmouthGhall"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "portsmouthguildhall.org.uk/whats-on/",
+                        "end": 257,
+                        "expanded_url": "http://portsmouthguildhall.org.uk/whats-on/",
+                        "start": 234,
+                        "url": "https://t.co/pRHyxwRSHu"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/s19nguJSYz",
+                        "end": 281,
+                        "expanded_url": "https://twitter.com/LoveSouthseaUK/status/1400497510821498883/photo/1",
+                        "start": 258,
+                        "url": "https://t.co/s19nguJSYz"
+                    }
+                ]
+            },
+            "id": "1400497510821498883",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "TweetDeck",
+            "text": "#Ad \nWe are so happy to see venues like @PortsmouthGhall opening up again! This new normal is starting to feel so normal and we can't wait to book something up, support our local venues and have a great night!\n\nWhat are going to see?\nhttps://t.co/pRHyxwRSHu https://t.co/s19nguJSYz"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "media_key": "3_1400497531562438659",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400497151810093056",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400497521340960771",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1399673364374069249",
+                "type": "photo"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2016-05-08T18:07:30.000Z",
+                "description": "We Find & Share Sign Up Offers From Some Of The Top Bookmakers & casino Sites. We Offer Reviews & Exclusive Offers at https://t.co/HxJUAZLEWi 18+ #bet",
+                "id": "729372168983859201",
+                "name": "UK Bookmakers Offers",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1168262388673581056/QLAPRuDI_normal.jpg",
+                "username": "UKBettingoffer",
+                "verified": false
+            },
+            {
+                "created_at": "2014-07-21T15:34:38.000Z",
+                "description": "Make Em Pay",
+                "id": "2719829002",
+                "name": "Cardale Jones",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1266148441970937857/O4u1uw9b_normal.jpg",
+                "username": "CJ1two",
+                "verified": true
+            },
+            {
+                "created_at": "2019-07-11T18:31:19.000Z",
+                "description": "A bot which tweets a random football shirt every hour.\nPosts contain affiliate links #ad\nUse promo code footballroulette for 10% off at @ClassicShirts",
+                "id": "1149385697863880705",
+                "name": "Football Shirt Roulette",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1276174033248272385/l8e-GOqx_normal.jpg",
+                "username": "roulette_shirt",
+                "verified": false
+            },
+            {
+                "created_at": "2009-04-07T10:49:09.000Z",
+                "description": "Leading trade beauty events, awards & Professional Beauty Magazine and website.",
+                "id": "29424557",
+                "name": "Professional Beauty",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1101105532721659904/9XduzzmH_normal.png",
+                "username": "pro_beauty",
+                "verified": false
+            },
+            {
+                "created_at": "2012-12-30T05:06:38.000Z",
+                "description": "Writer of MG/YA \ud83d\udcda Super Geek \ud83e\udddd\ud83c\udffd\u200d\u2640\ufe0f Dog Person \ud83d\udc36 She/Her \ud83c\udff3\ufe0f\u200d\ud83c\udf08 Loves Dragons \ud83d\udc09",
+                "id": "1046881010",
+                "name": "Allora",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1376556260393431042/FtS3oi0q_normal.jpg",
+                "username": "AlloraCampbell",
+                "verified": false
+            },
+            {
+                "created_at": "2011-01-19T22:07:03.000Z",
+                "description": "Official keeper of The Way of the Takei & the luckiest guy in the world, because my job is to manage the career of the wonderful @GeorgeTakei",
+                "id": "240420946",
+                "name": "Brad Takei",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/593414752270876672/Z3Ci1uv-_normal.png",
+                "username": "BradTakei",
+                "verified": true
+            },
+            {
+                "created_at": "2016-09-01T03:25:26.000Z",
+                "description": "Free betting tips posted here and on our website daily, plus news, insight and more across a range of sports.\n\n\ud83d\udd1e 18+. Begambleaware.",
+                "id": "771187179313782786",
+                "name": "FreeTips - Betting Tips from FreeTips.com",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1224596451923238912/BzH8xg-d_normal.jpg",
+                "username": "freetips",
+                "verified": false
+            },
+            {
+                "created_at": "2009-07-23T23:47:01.000Z",
+                "description": "Chicago raised, Cal educated, ex-teacher, author, reviewer, critic, blogger, thought provocateur, cyclist and half of #2BC podcast on https://t.co/6YmlzZcpqX",
+                "id": "59628414",
+                "name": "Mark T. Sneed",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1393950672660348933/q8TeYMoZ_normal.jpg",
+                "username": "marktsneed",
+                "verified": false
+            },
+            {
+                "created_at": "2008-09-22T12:19:06.000Z",
+                "description": "Taking fun seriously. Missed #TheFasties? Check it out here: https://t.co/0UK1KIK2A8",
+                "id": "16402507",
+                "name": "Thrillist",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1400454128124403712/k8t7Nvv1_normal.jpg",
+                "username": "Thrillist",
+                "verified": true
+            },
+            {
+                "created_at": "2010-10-18T13:41:09.000Z",
+                "description": "Events, PR, & blogging, online clothing & art range. \nContact for marketing and collabs:\nLoveSouthseaAds@gmail.com\n\nShop ~ Blog \ud83d\udd3b",
+                "id": "204337311",
+                "name": "Love Southsea",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/623474380421627904/G3XD8drS_normal.png",
+                "username": "LoveSouthseaUK",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1400497537493180416",
+        "next_token": "b26v89c19zqg8o3fpdg6x2bzb0ey1vgp1wdu60o61a5j1",
+        "oldest_id": "1400497510821498883",
+        "result_count": 10
+    }
+}

@@ -1,0 +1,367 @@
+{
+    "data": [
+        {
+            "author_id": "150912369",
+            "conversation_id": "1400497508414066695",
+            "created_at": "2021-06-03T17:00:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 153,
+                        "start": 150,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 166,
+                        "start": 154,
+                        "tag": "EpicPartner"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "The Epic Games Mega Sale 2021 starts May 20 and ends June 17. We have up to 75% pricing discounts on select game titles and Epic Coupons!",
+                        "display_url": "epicgames.com/store/en-US/sa\u2026",
+                        "end": 108,
+                        "expanded_url": "https://www.epicgames.com/store/en-US/sales-and-specials/mega-sale",
+                        "images": [
+                            {
+                                "height": 1200,
+                                "url": "https://pbs.twimg.com/news_img/1401202773425897476/nddMORt6?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1401202773425897476/nddMORt6?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 85,
+                        "status": 200,
+                        "title": "The Epic Mega Sale May 20 through June 17 2021 \u2013 Epic Games Store",
+                        "unwound_url": "https://www.epicgames.com/store/en-US/sales-and-specials/mega-sale",
+                        "url": "https://t.co/KS8YwcZbco"
+                    }
+                ]
+            },
+            "id": "1400497508414066695",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "Some of the sales in the Epic Mega Sale are pretty nice \ud83d\udc40 \ncheck out the sale here \ud83d\udc47\nhttps://t.co/KS8YwcZbco\n\nand use \nCode: Lucky when you checkout\n\n#ad #EpicPartner"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400220710577094657"
+                ]
+            },
+            "author_id": "814056668",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Fashion",
+                        "id": "844603730221707264",
+                        "name": "Fashion"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "General Fashion",
+                        "id": "844604232737087488",
+                        "name": "General Fashion"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Fashion",
+                        "id": "846810837301932032",
+                        "name": "Shoes"
+                    }
+                }
+            ],
+            "conversation_id": "1400497507533168640",
+            "created_at": "2021-06-03T17:00:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 62,
+                        "normalized_text": "Amazon",
+                        "probability": 0.8003,
+                        "start": 57,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 125,
+                        "start": 122,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 142,
+                        "start": 126,
+                        "tag": "sarahscoopsaves"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3phdCbC",
+                        "end": 172,
+                        "expanded_url": "https://bit.ly/3phdCbC",
+                        "start": 149,
+                        "unwound_url": "https://rstyle.me/+l41IdBhBCKefdkarnX27uQ",
+                        "url": "https://t.co/ITIux34bCQ"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/piPzgO4C6M",
+                        "end": 196,
+                        "expanded_url": "https://twitter.com/SarahScoopSaves/status/1400497507533168640/photo/1",
+                        "start": 173,
+                        "url": "https://t.co/piPzgO4C6M"
+                    }
+                ]
+            },
+            "id": "1400497507533168640",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "These kids' flip flops were $24.00 and are now $18.00 on Amazon! On sale just in time before school lets out for summer\u2600\ufe0f\n#ad #sarahscoopsaves\nShop: https://t.co/ITIux34bCQ https://t.co/piPzgO4C6M"
+        },
+        {
+            "author_id": "1296911133010427904",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Travel",
+                        "id": "839159814991167489",
+                        "name": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "General Travel",
+                        "id": "839160129752686593",
+                        "name": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Adventure travel",
+                        "id": "849076092111536128",
+                        "name": "Adventure travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Travel",
+                        "id": "839159814991167489",
+                        "name": "Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "General Travel",
+                        "id": "839160129752686593",
+                        "name": "General Travel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversations about travel and vacation.",
+                        "id": "839161975712067584",
+                        "name": "Travel Actions"
+                    }
+                }
+            ],
+            "conversation_id": "1400497506761445386",
+            "created_at": "2021-06-03T17:00:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 229,
+                        "normalized_text": "World Summit",
+                        "probability": 0.3731,
+                        "start": 218,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 55,
+                        "start": 52,
+                        "tag": "YA"
+                    },
+                    {
+                        "end": 59,
+                        "start": 56,
+                        "tag": "AD"
+                    },
+                    {
+                        "end": 262,
+                        "start": 257,
+                        "tag": "LGBT"
+                    },
+                    {
+                        "end": 267,
+                        "start": 263,
+                        "tag": "OWN"
+                    },
+                    {
+                        "end": 275,
+                        "start": 268,
+                        "tag": "Pitmad"
+                    }
+                ]
+            },
+            "id": "1400497506761445386",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "source": "Twitter Web App",
+            "text": "PEACE FROG. Comp: Girl Saves the World in This One. #YA #AD When student Peace Frog solves world peace, malevolent forces send her crew of athletes on the road trip of their lives. Where fear rules, can they reach the World Summit in time to save humanity? #LGBT #OWN #Pitmad"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "media_key": "3_1400220710577094657",
+                "type": "photo"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2010-06-02T03:57:44.000Z",
+                "description": "Sponsored by @Asus_ROGNA  @GFUELEnergy MCPH | Creator Code: Lucky | \u2709\ufe0f Lucky@LuckyShots.TV | #Wolfpack",
+                "id": "150912369",
+                "name": "LuckyShots",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1379888696930009098/MnFGa5_j_normal.jpg",
+                "username": "LuckyShotsMIX",
+                "verified": false
+            },
+            {
+                "created_at": "2012-09-09T23:10:12.000Z",
+                "description": "@SarahScoop\n\nTime to go shopping!\n\n#money #deals #coupons #sales #savemoney",
+                "id": "814056668",
+                "name": "Sarah Scoop Saves",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1387463576462446593/CbuTkZw2_normal.png",
+                "username": "SarahScoopSaves",
+                "verified": false
+            },
+            {
+                "created_at": "2020-08-21T20:44:56.000Z",
+                "description": "2 YA books in a series done, time to query! \u2764 LOVE, World Peace, French Fries, Getting & Staying Lost, Helping, #WritingCommunity #writing",
+                "id": "1296911133010427904",
+                "name": "Jen Scott Peace",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1382904938003628033/5D1OW-Ef_normal.jpg",
+                "username": "PeaceFrogFFH",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1400497508414066695",
+        "oldest_id": "1400497506761445386",
+        "result_count": 3
+    }
+}

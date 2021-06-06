@@ -1,0 +1,994 @@
+{
+    "data": [
+        {
+            "author_id": "119932874",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Food",
+                        "id": "824777229892661248",
+                        "name": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Pizza",
+                        "id": "825048935626469376",
+                        "name": "Pizza"
+                    }
+                }
+            ],
+            "conversation_id": "1400498765719560196",
+            "created_at": "2021-06-03T17:05:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Dionara",
+                        "probability": 0.4317,
+                        "start": 30,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 264,
+                        "start": 257,
+                        "tag": "PitMad"
+                    },
+                    {
+                        "end": 268,
+                        "start": 265,
+                        "tag": "MG"
+                    },
+                    {
+                        "end": 272,
+                        "start": 269,
+                        "tag": "AC"
+                    },
+                    {
+                        "end": 275,
+                        "start": 273,
+                        "tag": "F"
+                    },
+                    {
+                        "end": 279,
+                        "start": 276,
+                        "tag": "AD"
+                    }
+                ]
+            },
+            "id": "1400498765719560196",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "source": "TweetDeck",
+            "text": "DRAGONS AND PIZZA 12-year-old Dionara delivers pizzas... flying on the back of her dragon Zorax. But when a giant corporation threatens to take Zorax away forever, they have to enter the world of dragon-fighting tournaments to \"deliver\" some butt-whooping! #PitMad #MG #AC #F #AD"
+        },
+        {
+            "author_id": "816171751",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1349863060534513665",
+                        "name": "Party Poker"
+                    }
+                }
+            ],
+            "conversation_id": "1400498765333778440",
+            "created_at": "2021-06-03T17:05:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 259,
+                        "start": 256,
+                        "tag": "Ad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 34,
+                        "start": 22,
+                        "username": "FootyAccums"
+                    },
+                    {
+                        "end": 78,
+                        "start": 67,
+                        "username": "partypoker"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "footy.ac/PokerFA",
+                        "end": 107,
+                        "expanded_url": "http://footy.ac/PokerFA",
+                        "start": 84,
+                        "url": "https://t.co/uH770xW5As"
+                    },
+                    {
+                        "display_url": "BeGambleAware.org",
+                        "end": 287,
+                        "expanded_url": "http://BeGambleAware.org",
+                        "start": 264,
+                        "url": "https://t.co/tIrF821Kgd"
+                    }
+                ]
+            },
+            "id": "1400498765333778440",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "How to enter tonights @FootyAccums Golden Chip Challenge\n\n1\ufe0f\u20e3 Join @partypoker &gt; https://t.co/uH770xW5As\n2\ufe0f\u20e3 Tourneys\n3\ufe0f\u20e3 Filters\n4\ufe0f\u20e3 Select 'restricted' only\n5\ufe0f\u20e3 Scroll to FootyAccums Golden Chip Challenge\n6\ufe0f\u20e3 Password: FAPOKER\n\n\u2666\ufe0fJust \u00a35.50 to play!\n\n#Ad 18+ https://t.co/tIrF821Kgd"
+        },
+        {
+            "author_id": "1336123093543215104",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1232796998157209600",
+                        "name": "GIGABYTE"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597226799105",
+                        "name": "B2B"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783337567798169600",
+                        "name": "Products"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041873034",
+                        "name": "AMD"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10042890463",
+                        "name": "Radeon"
+                    }
+                }
+            ],
+            "conversation_id": "1400498699617374214",
+            "created_at": "2021-06-03T17:04:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 141,
+                        "start": 138,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 146,
+                        "start": 142,
+                        "tag": "RTX"
+                    },
+                    {
+                        "end": 151,
+                        "start": 147,
+                        "tag": "AMD"
+                    },
+                    {
+                        "end": 161,
+                        "start": 152,
+                        "tag": "rx6700xt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "*** This stream purpose is to increase a chance for everyone get a good deal price from the right vendor, not from scalpers.24/7 live stream stock alert for ...",
+                        "display_url": "youtube.com/watch?v=z_GodG\u2026",
+                        "end": 105,
+                        "expanded_url": "https://www.youtube.com/watch?v=z_GodGqvc-A",
+                        "images": [
+                            {
+                                "height": 720,
+                                "url": "https://pbs.twimg.com/news_img/1400742291824857088/9EfZclFD?format=jpg&name=orig",
+                                "width": 1280
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400742291824857088/9EfZclFD?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 82,
+                        "status": 200,
+                        "title": "CANADA PS5/XBOX X/S RTX 3000 Series AMD 6000 Series GPU/ Ryzen 5 Live stock alert with sound",
+                        "unwound_url": "https://www.youtube.com/watch?v=z_GodGqvc-A",
+                        "url": "https://t.co/RSfGJL2rf0"
+                    },
+                    {
+                        "display_url": "topachat.com/pages/detail2_\u2026",
+                        "end": 136,
+                        "expanded_url": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20008246.html",
+                        "start": 113,
+                        "url": "https://t.co/ODlgOlh3WB"
+                    }
+                ]
+            },
+            "id": "1400498699617374214",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "\ud83d\ude80\ud83d\udea8 [FR] [gigabyte (rx6700xt)] radeon rx xt :: IN STOCK \ud83d\udea8\ud83d\ude80  for \u20ac919.99\nStreaming: https://t.co/RSfGJL2rf0\n\nLink: https://t.co/ODlgOlh3WB\n\n#ad #RTX #AMD #rx6700xt \u23f1\ufe0fJun 03, 1:04 PM ET"
+        },
+        {
+            "author_id": "1336123093543215104",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597226799105",
+                        "name": "B2B"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783337567798169600",
+                        "name": "Products"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041873034",
+                        "name": "AMD"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10042890463",
+                        "name": "Radeon"
+                    }
+                }
+            ],
+            "conversation_id": "1400498699227258894",
+            "created_at": "2021-06-03T17:04:44.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 139,
+                        "start": 136,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 144,
+                        "start": 140,
+                        "tag": "RTX"
+                    },
+                    {
+                        "end": 149,
+                        "start": 145,
+                        "tag": "AMD"
+                    },
+                    {
+                        "end": 159,
+                        "start": 150,
+                        "tag": "rx6700xt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=z_GodG\u2026",
+                        "end": 103,
+                        "expanded_url": "https://www.youtube.com/watch?v=z_GodGqvc-A",
+                        "start": 80,
+                        "url": "https://t.co/RSfGJL2rf0"
+                    },
+                    {
+                        "display_url": "topachat.com/pages/detail2_\u2026",
+                        "end": 134,
+                        "expanded_url": "https://www.topachat.com/pages/detail2_cat_est_micro_puis_rubrique_est_wgfx_pcie_puis_ref_est_in20008409.html",
+                        "start": 111,
+                        "url": "https://t.co/VMtfMC8VVG"
+                    }
+                ]
+            },
+            "id": "1400498699227258894",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "\ud83d\ude80\ud83d\udea8 [FR] [asrock (rx6700xt)] radeon rx xt :: IN STOCK \ud83d\udea8\ud83d\ude80  for \u20ac949.99\nStreaming: https://t.co/RSfGJL2rf0\n\nLink: https://t.co/VMtfMC8VVG\n\n#ad #RTX #AMD #rx6700xt \u23f1\ufe0fJun 03, 1:04 PM ET"
+        },
+        {
+            "author_id": "119580388",
+            "conversation_id": "1400498647410827267",
+            "created_at": "2021-06-03T17:04:32.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "Maya",
+                        "probability": 0.9367,
+                        "start": 45,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Nick",
+                        "probability": 0.9805,
+                        "start": 54,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 254,
+                        "start": 251,
+                        "tag": "MG"
+                    },
+                    {
+                        "end": 258,
+                        "start": 255,
+                        "tag": "AD"
+                    },
+                    {
+                        "end": 266,
+                        "start": 259,
+                        "tag": "Pitmad"
+                    }
+                ]
+            },
+            "id": "1400498647410827267",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "source": "Twitter Web App",
+            "text": "Eleven-year-old Trinity and her best friends Maya and Nick get to do what no other fifth graders ever do\u2014save the world from an alien invasion. And what\u2019s next, now that the world is safe thanks to three kids? An even scarier adventure\u2014middle school! #MG #AD #Pitmad"
+        },
+        {
+            "author_id": "209766567",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+                        "id": "1005930552363384833",
+                        "name": "Dying Light"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                }
+            ],
+            "conversation_id": "1400498621129412608",
+            "created_at": "2021-06-03T17:04:25.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "ps4"
+                    },
+                    {
+                        "end": 17,
+                        "start": 5,
+                        "tag": "dyinglight2"
+                    },
+                    {
+                        "end": 82,
+                        "start": 79,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/3pgu3Vv",
+                        "end": 78,
+                        "expanded_url": "https://amzn.to/3pgu3Vv",
+                        "start": 55,
+                        "url": "https://t.co/3ez2bDNQF8"
+                    }
+                ]
+            },
+            "id": "1400498621129412608",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "#ps4 #dyinglight2 collectors edition up for preorder \n\nhttps://t.co/3ez2bDNQF8 #Ad"
+        },
+        {
+            "author_id": "883436749044809728",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597570732032",
+                        "name": "Multi-Purpose Department"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026347212",
+                        "name": "Walmart"
+                    }
+                }
+            ],
+            "conversation_id": "1400498608529678339",
+            "created_at": "2021-06-03T17:04:22.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Walmart",
+                        "probability": 0.5744,
+                        "start": 4,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dealingindeals.com/ad-walmartszul\u2026",
+                        "end": 113,
+                        "expanded_url": "https://dealingindeals.com/ad-walmartszul-jewelry-1-10-carat-tw-diamond-antique-band-in-10k-white-gold-for-199-00/",
+                        "start": 90,
+                        "url": "https://t.co/cCWurkqNuj"
+                    }
+                ]
+            },
+            "id": "1400498608529678339",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "WordPress.com",
+            "text": "#Ad Walmart:Szul Jewelry 1/10 Carat TW Diamond Antique Band in 10K White Gold for\u00a0$199.00 https://t.co/cCWurkqNuj"
+        },
+        {
+            "author_id": "1187131529299935234",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+                        "id": "1005930552363384833",
+                        "name": "Dying Light"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                }
+            ],
+            "conversation_id": "1400498565919608835",
+            "created_at": "2021-06-03T17:04:12.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 61,
+                        "normalized_text": "PlayStation 4",
+                        "probability": 0.5979,
+                        "start": 49,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 75,
+                        "start": 63,
+                        "tag": "DyingLight2"
+                    },
+                    {
+                        "end": 79,
+                        "start": 76,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4",
+                        "display_url": "amzn.to/3yWv9do",
+                        "end": 104,
+                        "expanded_url": "https://amzn.to/3yWv9do",
+                        "images": [
+                            {
+                                "height": 350,
+                                "url": "https://pbs.twimg.com/news_img/1400498572496314371/_i2na7qw?format=png&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400498572496314371/_i2na7qw?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 81,
+                        "status": 200,
+                        "title": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4",
+                        "unwound_url": "https://www.amazon.com/dp/B095R1ZP1C?ie=UTF8&smid=ATVPDKIKX0DER&th=1&linkCode=sl1&tag=amazondea0163-20&linkId=ae45b32e9efa84bee68320f9bd6da914&language=en_US&ref_=as_li_ss_tl",
+                        "url": "https://t.co/s0QXLkSLOL"
+                    }
+                ]
+            },
+            "id": "1400498565919608835",
+            "public_metrics": {
+                "like_count": 11,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "source": "Twitter for iPhone",
+            "text": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4 #DyingLight2 #ad\n\nhttps://t.co/s0QXLkSLOL"
+        },
+        {
+            "author_id": "1336123093543215104",
+            "conversation_id": "1400498547657744384",
+            "created_at": "2021-06-03T17:04:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 134,
+                        "start": 131,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 139,
+                        "start": 135,
+                        "tag": "RTX"
+                    },
+                    {
+                        "end": 144,
+                        "start": 140,
+                        "tag": "AMD"
+                    },
+                    {
+                        "end": 154,
+                        "start": 145,
+                        "tag": "rx6700xt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=z_GodG\u2026",
+                        "end": 98,
+                        "expanded_url": "https://www.youtube.com/watch?v=z_GodGqvc-A",
+                        "start": 75,
+                        "url": "https://t.co/RSfGJL2rf0"
+                    },
+                    {
+                        "display_url": "materiel.net/produit/202103\u2026",
+                        "end": 129,
+                        "expanded_url": "https://www.materiel.net/produit/202103160094.html",
+                        "start": 106,
+                        "url": "https://t.co/ZDmmXgxC9H"
+                    }
+                ]
+            },
+            "id": "1400498547657744384",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "\ud83d\ude80\ud83d\udea8 [EU] [asrock (rx6700xt)] challenger :: IN STOCK \ud83d\udea8\ud83d\ude80  for \u20ac999\nStreaming: https://t.co/RSfGJL2rf0\n\nLink: https://t.co/ZDmmXgxC9H\n\n#ad #RTX #AMD #rx6700xt \u23f1\ufe0fJun 03, 1:04 PM ET"
+        },
+        {
+            "author_id": "1336123093543215104",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1232796998157209600",
+                        "name": "GIGABYTE"
+                    }
+                }
+            ],
+            "conversation_id": "1400498547653595140",
+            "created_at": "2021-06-03T17:04:08.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 135,
+                        "start": 132,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 140,
+                        "start": 136,
+                        "tag": "RTX"
+                    },
+                    {
+                        "end": 145,
+                        "start": 141,
+                        "tag": "AMD"
+                    },
+                    {
+                        "end": 155,
+                        "start": 146,
+                        "tag": "rx6700xt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=z_GodG\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.youtube.com/watch?v=z_GodGqvc-A",
+                        "start": 76,
+                        "url": "https://t.co/RSfGJL2rf0"
+                    },
+                    {
+                        "description": "Achetez votre Carte graphique Gigabyte Radeon RX 6700 XT GAMING OC (GV-R67XTGAMING OC-12GD) sur Materiel.net ! Paiement en 3X d\u00e8s 100\u20ac, livraison rapide ou retrait en magasin | Radeon RX 6700 XT, PCI-Express 16x 4.0, GDDR6.",
+                        "display_url": "materiel.net/produit/202103\u2026",
+                        "end": 130,
+                        "expanded_url": "https://www.materiel.net/produit/202103050052.html",
+                        "images": [
+                            {
+                                "height": 900,
+                                "url": "https://pbs.twimg.com/news_img/1400298155925807105/7RTXN04R?format=jpg&name=orig",
+                                "width": 900
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400298155925807105/7RTXN04R?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 107,
+                        "status": 200,
+                        "title": "Gigabyte Radeon RX 6700 XT GAMING OC - Carte graphique Gigabyte sur Materiel.net",
+                        "unwound_url": "https://www.materiel.net/produit/202103050052.html",
+                        "url": "https://t.co/KbsZvjWH5S"
+                    }
+                ]
+            },
+            "id": "1400498547653595140",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "\ud83d\ude80\ud83d\udea8 [EU] [gigabyte (rx6700xt)] gaming oc :: IN STOCK \ud83d\udea8\ud83d\ude80  for \u20ac939\nStreaming: https://t.co/RSfGJL2rf0\n\nLink: https://t.co/KbsZvjWH5S\n\n#ad #RTX #AMD #rx6700xt \u23f1\ufe0fJun 03, 1:04 PM ET"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "created_at": "2010-03-05T00:15:42.000Z",
+                "description": "I\u2019m Abbey and I like hugs. :3",
+                "id": "119932874",
+                "name": "\u30a2\u30d3\u30fc\u2764\ufe0f",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1143742824883507201/QzUqlz3G_normal.jpg",
+                "username": "ohisian319",
+                "verified": false
+            },
+            {
+                "created_at": "2012-09-10T22:37:39.000Z",
+                "description": "The home of @FootyAccums poker \u2666\ufe0f\u2663\ufe0f 18+ | https://t.co/H0vygPeuPj | Please Gamble Responsibly",
+                "id": "816171751",
+                "name": "FootyAccumulators Poker",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1393235891594924036/ztfyplgq_normal.jpg",
+                "username": "FootyAccumsPkr",
+                "verified": false
+            },
+            {
+                "created_at": "2020-12-08T01:39:16.000Z",
+                "description": "Tweet drops RTX 30, AMD CPU/GPU, PS5/XBOX link.\nAs an Amazon Associate I earn from qualifying purchases. Product prices and availability are subject to change.",
+                "id": "1336123093543215104",
+                "name": "DataLover",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1336123370384011265/gI8kJEGf_normal.jpg",
+                "username": "DataLoverDrops",
+                "verified": false
+            },
+            {
+                "created_at": "2010-03-04T02:11:06.000Z",
+                "description": "Writer near the Jersey Shore. Cat lover. Reader. Parallel Triangles-Evernight Teen 2017/Lost Reputation-Evernight Teen 2016/Triangles-Spencer Hill Press 2013 :)",
+                "id": "119580388",
+                "name": "Kimberly Ann Miller",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/844720339770839041/cqH-b8tK_normal.jpg",
+                "username": "KimberlyAnnNJ",
+                "verified": false
+            },
+            {
+                "created_at": "2010-10-29T21:56:46.000Z",
+                "description": "@youtube partner content creator | we track stocks for #PS5 #xbox #rtx |As an Amazon Associate I earn from qualifying purchases. Email:ChitogamingYT1@gmail.com",
+                "id": "209766567",
+                "name": "ChitoGamingYT (RESTOCKS TRACKER x YOUTUBER)",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1334659672863862784/JBe2flnH_normal.jpg",
+                "username": "ChitoGaminYT",
+                "verified": false
+            },
+            {
+                "created_at": "2017-07-07T21:25:09.000Z",
+                "description": "",
+                "id": "883436749044809728",
+                "name": "DealinginDeals",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/903156167878127620/TYN0g7co_normal.jpg",
+                "username": "dealingindeals",
+                "verified": false
+            },
+            {
+                "created_at": "2019-10-23T22:20:26.000Z",
+                "description": "\ud83c\udfaePS5, Xbox & GPU Restock Alerts \ud83d\udd14 Gaming, Tech & Deals by @daryl_DSZ For EU Deals @GYXDealsEU \ud83c\uddea\ud83c\uddfa\ud83d\udc48\ud83c\udffb As an Amazon Associate I earn from qualifying purchases",
+                "id": "1187131529299935234",
+                "name": "GYX Deals (PS5, Xbox & GPU Restock Updates)",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1330961349162090497/m0BFfCrD_normal.jpg",
+                "username": "GYXdeals",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1400498765719560196",
+        "next_token": "b26v89c19zqg8o3fpdg6x2bzcj1g5ntn187i5es4oy3y5",
+        "oldest_id": "1400498547653595140",
+        "result_count": 10
+    }
+}

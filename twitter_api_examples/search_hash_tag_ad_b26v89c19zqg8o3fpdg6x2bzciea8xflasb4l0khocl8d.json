@@ -1,0 +1,939 @@
+{
+    "data": [
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498148557078534"
+                ]
+            },
+            "author_id": "1250090987311030277",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Business",
+                        "id": "847529762566230016",
+                        "name": "Business and finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Personal finance",
+                        "id": "847888632711061504",
+                        "name": "Personal finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Tax planning",
+                        "id": "847894937601323008",
+                        "name": "Tax planning"
+                    }
+                }
+            ],
+            "conversation_id": "1400498162318647299",
+            "created_at": "2021-06-03T17:02:36.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 143,
+                        "normalized_text": "South Africa",
+                        "probability": 0.9254,
+                        "start": 132,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 261,
+                        "start": 255,
+                        "tag": "DJSBU"
+                    },
+                    {
+                        "end": 275,
+                        "start": 272,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/VjCUumwgYH",
+                        "end": 299,
+                        "expanded_url": "https://twitter.com/TumieWrld/status/1400498162318647299/photo/1",
+                        "start": 276,
+                        "url": "https://t.co/VjCUumwgYH"
+                    }
+                ]
+            },
+            "id": "1400498162318647299",
+            "public_metrics": {
+                "like_count": 111,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 106
+            },
+            "source": "Twitter for iPhone",
+            "text": "FINANCIAL STATEMENTS PREPARATION\n\nMost businesses opt to have their company's financial year end to ensure that it corresponds with South Africa's fiscal &amp; personal tax year which dates 1 March to 28 February.\n\ninfo@ukuphilakwezwe.co.za\n078 855 7096\n\n#DJSBU Big Xhosa #Ad https://t.co/VjCUumwgYH"
+        },
+        {
+            "author_id": "109024088",
+            "conversation_id": "1400498158392676353",
+            "created_at": "2021-06-03T17:02:35.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 6,
+                        "normalized_text": "Oddbird",
+                        "probability": 0.4497,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 77,
+                        "normalized_text": "Derek Desierto",
+                        "probability": 0.9898,
+                        "start": 64,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 196,
+                        "start": 193,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sot.ag/h7pW7",
+                        "end": 220,
+                        "expanded_url": "http://sot.ag/h7pW7",
+                        "start": 197,
+                        "url": "https://t.co/ietqBcA1io"
+                    }
+                ]
+            },
+            "id": "1400498158392676353",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "Oddbird, the beautiful new picture book by talented illustrator Derek Desierto, celebrates diversity, inclusion, and self-acceptance \u2014 all values we're working hard to instill in our children. #ad https://t.co/ietqBcA1io"
+        },
+        {
+            "author_id": "109024088",
+            "conversation_id": "1400498023537410048",
+            "created_at": "2021-06-03T17:02:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 165,
+                        "start": 154,
+                        "tag": "pedalheads"
+                    },
+                    {
+                        "end": 169,
+                        "start": 166,
+                        "tag": "ad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 78,
+                        "start": 67,
+                        "username": "Pedalheads"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "sot.ag/h7pW3",
+                        "end": 193,
+                        "expanded_url": "http://sot.ag/h7pW3",
+                        "start": 170,
+                        "url": "https://t.co/oVPP4Mj2Qn"
+                    }
+                ]
+            },
+            "id": "1400498023537410048",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "Get your kids riding this summer at a learn-to-ride bike camp with @Pedalheads. Best known for helping kids off training wheels and riding independently. #pedalheads #ad https://t.co/oVPP4Mj2Qn"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400483417549062145",
+                    "3_1400483417746255874"
+                ]
+            },
+            "author_id": "561950741",
+            "conversation_id": "1400498010455347204",
+            "created_at": "2021-06-03T17:02:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 183,
+                        "normalized_text": "Santa Barbara",
+                        "probability": 0.5949,
+                        "start": 171,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 274,
+                        "start": 271,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/GG-AlAasy9",
+                        "end": 153,
+                        "expanded_url": "http://bit.ly/GG-AlAasy9",
+                        "start": 130,
+                        "url": "https://t.co/EAvLiziEUD"
+                    },
+                    {
+                        "display_url": "bit.ly/GG-SantaB18",
+                        "end": 213,
+                        "expanded_url": "http://bit.ly/GG-SantaB18",
+                        "start": 190,
+                        "url": "https://t.co/lkEY0mYaDE"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/HQGUWwnGWP",
+                        "end": 298,
+                        "expanded_url": "https://twitter.com/ggcouk/status/1400498010455347204/photo/1",
+                        "start": 275,
+                        "url": "https://t.co/HQGUWwnGWP"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/HQGUWwnGWP",
+                        "end": 298,
+                        "expanded_url": "https://twitter.com/ggcouk/status/1400498010455347204/photo/1",
+                        "start": 275,
+                        "url": "https://t.co/HQGUWwnGWP"
+                    }
+                ]
+            },
+            "id": "1400498010455347204",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "TweetDeck",
+            "text": "\ud83c\udfc7 888 EPSOM OFFERS \ud83c\udfc7\n\n888Sport have two superb offers to take advantage for tomorrow's racing at Epsom \ud83c\udfc6\n\n\ud83d\ude80 9/1 Al Aasy to win \u27a1\ufe0f https://t.co/EAvLiziEUD\n\nOR\n\n\ud83d\ude80 18/1 Santa Barbara to win \u27a1\ufe0f https://t.co/lkEY0mYaDE\n\n*New Customer Offers*\n\n\ud83d\udd1e T&amp;C's Apply. BeGambleAware #Ad https://t.co/HQGUWwnGWP"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498004910563331",
+                    "3_1400498004914753541",
+                    "3_1400498005028085768",
+                    "3_1400498004747075588"
+                ]
+            },
+            "author_id": "792182745942233089",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597176467456",
+                        "name": "Sports/Outdoor"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597428125696",
+                        "name": "Sports/Outdoor"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026922020",
+                        "name": "Foot Locker"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027577872",
+                        "name": "New Balance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10045036241",
+                        "name": "New Balance USA"
+                    }
+                }
+            ],
+            "conversation_id": "1400498006047211531",
+            "created_at": "2021-06-03T17:01:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 95,
+                        "start": 81,
+                        "tag": "SneakerScouts"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 73,
+                        "start": 62,
+                        "username": "footlocker"
+                    },
+                    {
+                        "end": 107,
+                        "start": 96,
+                        "username": "newbalance"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "footlocker.com/product/~/MS32\u2026",
+                        "end": 131,
+                        "expanded_url": "https://www.footlocker.com/product/~/MS327TA.html?irclickid=R9hRvy2vcxyLWQd07OwzdzZ-UkBxY4zZQxOkxU0&sid=8259&cm_mmc=Affiliate-_-SneakerScouts-_--_-Content-_--_--_-p-_--_--_--_--_--_-ONLINE_TRACKING_LINK-_--_-Online%20Tracking%20Link-_--_-&irgwc=1",
+                        "start": 108,
+                        "url": "https://t.co/lYI05CAXD5"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ytxsMccp95",
+                        "end": 155,
+                        "expanded_url": "https://twitter.com/SneakerScouts/status/1400498006047211531/photo/1",
+                        "start": 132,
+                        "url": "https://t.co/ytxsMccp95"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ytxsMccp95",
+                        "end": 155,
+                        "expanded_url": "https://twitter.com/SneakerScouts/status/1400498006047211531/photo/1",
+                        "start": 132,
+                        "url": "https://t.co/ytxsMccp95"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ytxsMccp95",
+                        "end": 155,
+                        "expanded_url": "https://twitter.com/SneakerScouts/status/1400498006047211531/photo/1",
+                        "start": 132,
+                        "url": "https://t.co/ytxsMccp95"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ytxsMccp95",
+                        "end": 155,
+                        "expanded_url": "https://twitter.com/SneakerScouts/status/1400498006047211531/photo/1",
+                        "start": 132,
+                        "url": "https://t.co/ytxsMccp95"
+                    }
+                ]
+            },
+            "id": "1400498006047211531",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "source": "Hootsuite Inc.",
+            "text": "#ad The New Balance 327 'Natural Indigo' is now available via @footlocker! |$90| #SneakerScouts @NewBalance https://t.co/lYI05CAXD5 https://t.co/ytxsMccp95"
+        },
+        {
+            "author_id": "1347298785853059078",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Board Games",
+                        "id": "872578743771963392",
+                        "name": "Tabletop gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "id": "1148209292060741632",
+                        "name": "Trading card games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "id": "1148209341138235392",
+                        "name": "Pok\u00e9mon Trading Card Game"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+                        "id": "130",
+                        "name": "Multimedia Franchise"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+                        "id": "10045599546",
+                        "name": "Pok\u00e9mon"
+                    }
+                }
+            ],
+            "conversation_id": "1400497988804517888",
+            "created_at": "2021-06-03T17:01:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "Mimikyu Sidekick Collection Box Source",
+                        "probability": 0.429,
+                        "start": 14,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 93,
+                        "normalized_text": "Amazon",
+                        "probability": 0.6124,
+                        "start": 88,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 8,
+                        "start": 0,
+                        "tag": "Pokemon"
+                    },
+                    {
+                        "end": 139,
+                        "start": 136,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/3eURVLf",
+                        "end": 122,
+                        "expanded_url": "https://amzn.to/3eURVLf",
+                        "start": 99,
+                        "url": "https://t.co/kEryuYwdBd"
+                    }
+                ]
+            },
+            "id": "1400497988804517888",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Zapier.com",
+            "text": "#Pokemon TCG: Mimikyu Sidekick Collection Box\nSource: RestockBotV1\nReason: Available on Amazon\n\n\ud83d\uded2: https://t.co/kEryuYwdBd\n\n12:01:53 PM #Ad"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400497984484352009"
+                ]
+            },
+            "author_id": "34963182",
+            "conversation_id": "1400497985788727296",
+            "created_at": "2021-06-03T17:01:54.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 66,
+                        "start": 63,
+                        "tag": "AD"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "And printing \u2013 as a tool that is relevant to both of these categories \u2013 is no exception. The constant push towards digitization and smart technologies challenges the whole printing industry to come up with",
+                        "display_url": "ow.ly/FZMf30rJy63",
+                        "end": 62,
+                        "expanded_url": "http://ow.ly/FZMf30rJy63",
+                        "images": [
+                            {
+                                "height": 330,
+                                "url": "https://pbs.twimg.com/news_img/1400498007708246025/F8UAYbPm?format=png&name=orig",
+                                "width": 492
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400498007708246025/F8UAYbPm?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 39,
+                        "status": 200,
+                        "title": "Print Management for the Remote Worker",
+                        "unwound_url": "https://www.industryanalysts.com/060121_myq/",
+                        "url": "https://t.co/bwrpNqr6Cd"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/lAnvTxWsvt",
+                        "end": 90,
+                        "expanded_url": "https://twitter.com/aslawetsky/status/1400497985788727296/photo/1",
+                        "start": 67,
+                        "url": "https://t.co/lAnvTxWsvt"
+                    }
+                ]
+            },
+            "id": "1400497985788727296",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Hootsuite Inc.",
+            "text": "Print Management for the Remote Worker https://t.co/bwrpNqr6Cd #AD https://t.co/lAnvTxWsvt"
+        },
+        {
+            "author_id": "2669887052",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1400497977450500096",
+            "created_at": "2021-06-03T17:01:52.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 102,
+                        "normalized_text": "London",
+                        "probability": 0.9836,
+                        "start": 97,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 140,
+                        "start": 137,
+                        "tag": "AD"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 136,
+                        "start": 129,
+                        "username": "Zoopla"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "theguardian.com/see-if-its-tim\u2026",
+                        "end": 164,
+                        "expanded_url": "https://www.theguardian.com/see-if-its-time-to-sell/2021/jun/02/for-the-first-time-i-can-see-my-future-why-im-tempted-to-sell-up-and-leave-london?CMP=GLabs&utm_medium=Social&utm_source=Twitter#Echobox=1622739712-1",
+                        "start": 141,
+                        "url": "https://t.co/W2WaGoIBxW"
+                    }
+                ]
+            },
+            "id": "1400497977450500096",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Echobox",
+            "text": "Now that lockdown has lifted, my family and I are preparing to make good on our promise to leave London for more space and quiet @Zoopla #AD https://t.co/W2WaGoIBxW"
+        },
+        {
+            "author_id": "883436749044809728",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597570732032",
+                        "name": "Multi-Purpose Department"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026347212",
+                        "name": "Walmart"
+                    }
+                }
+            ],
+            "conversation_id": "1400497970861076484",
+            "created_at": "2021-06-03T17:01:50.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Walmart",
+                        "probability": 0.467,
+                        "start": 4,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 65,
+                        "normalized_text": "Walnew Zero Gravity Chair Camp Reclining Lounge Chairs",
+                        "probability": 0.6172,
+                        "start": 12,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dealingindeals.com/ad-walmartwaln\u2026",
+                        "end": 101,
+                        "expanded_url": "https://dealingindeals.com/ad-walmartwalnew-zero-gravity-chair-camp-reclining-lounge-chairs-for-84-99/",
+                        "start": 78,
+                        "unwound_url": "https://dealingindeals.com/ad-walmartwalnew-zero-gravity-chair-camp-reclining-lounge-chairs-for-84-99/",
+                        "url": "https://t.co/bJsxY8SMwe"
+                    }
+                ]
+            },
+            "id": "1400497970861076484",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "WordPress.com",
+            "text": "#Ad Walmart:Walnew Zero Gravity Chair Camp Reclining Lounge Chairs for\u00a0$84.99 https://t.co/bJsxY8SMwe"
+        },
+        {
+            "author_id": "1366607455115902979",
+            "conversation_id": "1400497966868099072",
+            "created_at": "2021-06-03T17:01:49.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Achipara",
+                        "probability": 0.8263,
+                        "start": 27,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 251,
+                        "start": 244,
+                        "tag": "PitMad"
+                    },
+                    {
+                        "end": 255,
+                        "start": 252,
+                        "tag": "NA"
+                    },
+                    {
+                        "end": 258,
+                        "start": 256,
+                        "tag": "A"
+                    },
+                    {
+                        "end": 261,
+                        "start": 259,
+                        "tag": "F"
+                    },
+                    {
+                        "end": 265,
+                        "start": 262,
+                        "tag": "AD"
+                    },
+                    {
+                        "end": 269,
+                        "start": 266,
+                        "tag": "AC"
+                    }
+                ]
+            },
+            "id": "1400497966868099072",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "source": "Twitter Web App",
+            "text": "As a newbie bounty hunter, Achipara wants nothing more than to prove herself. But when she finds out her client is a group of evil wizards planning to bring back an ancient demon, she decides some things are more important than fame and money. #PitMad #NA #A #F #AD #AC"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "media_key": "3_1400498148557078534",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400483417549062145",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400483417746255874",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498004910563331",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498004914753541",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498005028085768",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498004747075588",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400497984484352009",
+                "type": "photo"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2020-04-14T15:58:28.000Z",
+                "description": "F L A W S   AND   S I N S",
+                "id": "1250090987311030277",
+                "name": "T U M I E \ud83e\uddda\ud83c\udffd\u200d\u2640\ufe0f",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1397300752989790211/lZkdaLZ3_normal.jpg",
+                "username": "TumieWrld",
+                "verified": false
+            },
+            {
+                "created_at": "2010-01-27T18:49:18.000Z",
+                "description": "Macaroni Kid Conejo Valley - Malibu #FindYourFamilyFun in Malibu, Conejo Valley, Thousand Oaks, Newbury Park, Oak Park, Agoura Hills, Westlake Village",
+                "id": "109024088",
+                "name": "MacKid Conejo Valley - Malibu",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1362888578867494912/ukQIX9ab_normal.png",
+                "username": "MacKidConejo",
+                "verified": false
+            },
+            {
+                "created_at": "2012-04-24T11:42:56.000Z",
+                "description": "The website for people who love horse racing. Cards & Results | Blogs | Alerts | (Followers must be 18+) Responsible Gambling: https://t.co/BsOADKQx4N",
+                "id": "561950741",
+                "name": "GG",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/907923995282075649/8B1qgkXS_normal.jpg",
+                "username": "ggcouk",
+                "verified": false
+            },
+            {
+                "created_at": "2016-10-29T01:54:19.000Z",
+                "description": "The #1 source for sneaker news, release dates, sales, and general information! https://t.co/e7NIe3zx6H #SneakerScouts",
+                "id": "792182745942233089",
+                "name": "#SneakerScouts",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/971422898886868992/K3R78VcP_normal.jpg",
+                "username": "SneakerScouts",
+                "verified": false
+            },
+            {
+                "created_at": "2021-01-07T21:48:41.000Z",
+                "description": "FASTEST BOT for tracking #PS5, #Xbox, #NintendoSwitch, #GPU, #Pokemon drops! As an Amazon Associate I earn from qualifying purchases. A @KingRestocks Brand.",
+                "id": "1347298785853059078",
+                "name": "RestockBot (PS5, Xbox, Nintendo Switch, GPU, Toys)",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1375080917266538498/wqZtYiU0_normal.jpg",
+                "username": "TheRestockBot",
+                "verified": false
+            },
+            {
+                "created_at": "2009-04-24T16:06:14.000Z",
+                "description": "Print analyst, tech & social media enthusiast, music, motorcycles, foodie",
+                "id": "34963182",
+                "name": "Industry Analysts",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/723491192583782400/JuyC1NhC_normal.jpg",
+                "username": "aslawetsky",
+                "verified": false
+            },
+            {
+                "created_at": "2014-07-22T16:26:39.000Z",
+                "description": "Highlights of commercial work from the branded content team @guardian",
+                "id": "2669887052",
+                "name": "Guardian Labs",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/952869497362317313/eUttKRz0_normal.jpg",
+                "username": "GuardianLabs",
+                "verified": true
+            },
+            {
+                "created_at": "2017-07-07T21:25:09.000Z",
+                "description": "",
+                "id": "883436749044809728",
+                "name": "DealinginDeals",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/903156167878127620/TYN0g7co_normal.jpg",
+                "username": "dealingindeals",
+                "verified": false
+            },
+            {
+                "created_at": "2021-03-02T04:36:13.000Z",
+                "description": "Aspiring Author and Part Time Substitute Teacher.  (also defiantly NOT an alien tentacle-troll monster: the pic just makes me smile).",
+                "id": "1366607455115902979",
+                "name": "JKratzer",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1366609062280892417/TKhiFsXT_normal.jpg",
+                "username": "JKratzer27",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1400498162318647299",
+        "next_token": "b26v89c19zqg8o3fpdg6x2bzb19tl29oeou8tcl2pi3ct",
+        "oldest_id": "1400497966868099072",
+        "result_count": 10
+    }
+}

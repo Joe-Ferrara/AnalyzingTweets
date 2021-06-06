@@ -1,0 +1,956 @@
+{
+    "data": [
+        {
+            "author_id": "1339578098896035840",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597428125696",
+                        "name": "Sports/Outdoor"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026773952",
+                        "name": "Adidas"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10045036246",
+                        "name": "Adidas US"
+                    }
+                }
+            ],
+            "conversation_id": "1400498529664122885",
+            "created_at": "2021-06-03T17:04:04.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "AD"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amazon.com/dp/B07YPBF7XX?\u2026",
+                        "end": 64,
+                        "expanded_url": "https://www.amazon.com/dp/B07YPBF7XX?&tag=mobile_tg-20",
+                        "start": 41,
+                        "url": "https://t.co/ufhKJu7t2V"
+                    }
+                ]
+            },
+            "id": "1400498529664122885",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "#AD Price Drop 38% off - No code needed.\nhttps://t.co/ufhKJu7t2V\nAdidas Unisex Santiago Insulated Lunch Bag, Signal Pink/ Pink Tint, ONE SIZE"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498522286444545"
+                ]
+            },
+            "author_id": "1314139907154227200",
+            "conversation_id": "1400498525675327488",
+            "created_at": "2021-06-03T17:04:03.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 96,
+                        "tag": "adaffiliate"
+                    },
+                    {
+                        "end": 112,
+                        "start": 109,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 126,
+                        "start": 113,
+                        "tag": "glossiercode"
+                    },
+                    {
+                        "end": 136,
+                        "start": 127,
+                        "tag": "glossier"
+                    },
+                    {
+                        "end": 151,
+                        "start": 137,
+                        "tag": "glossierrefer"
+                    },
+                    {
+                        "end": 162,
+                        "start": 152,
+                        "tag": "promocode"
+                    },
+                    {
+                        "end": 176,
+                        "start": 163,
+                        "tag": "discountcode"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "buff.ly/2Bt3ebC",
+                        "end": 95,
+                        "expanded_url": "https://buff.ly/2Bt3ebC",
+                        "start": 72,
+                        "url": "https://t.co/SfMMoS4CB7"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/LA7ffqK06u",
+                        "end": 200,
+                        "expanded_url": "https://twitter.com/motherhoodcombi/status/1400498525675327488/photo/1",
+                        "start": 177,
+                        "url": "https://t.co/LA7ffqK06u"
+                    }
+                ]
+            },
+            "id": "1400498525675327488",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Buffer",
+            "text": "Fancy 10% off your first Glossier order? Use my discount code here ...  https://t.co/SfMMoS4CB7 #adaffiliate #ad #glossiercode #glossier #glossierrefer #promocode #discountcode https://t.co/LA7ffqK06u"
+        },
+        {
+            "author_id": "705402063728017408",
+            "conversation_id": "1400498508713574404",
+            "created_at": "2021-06-03T17:03:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 88,
+                        "start": 80,
+                        "tag": "reading"
+                    },
+                    {
+                        "end": 92,
+                        "start": 89,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 99,
+                        "start": 93,
+                        "tag": "books"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "awin1.com/pclick.php?p=3\u2026",
+                        "end": 125,
+                        "expanded_url": "https://www.awin1.com/pclick.php?p=3637736849&a=96426&m=2957",
+                        "start": 102,
+                        "url": "https://t.co/bhBuxCsKTt"
+                    }
+                ]
+            },
+            "id": "1400498508713574404",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "Best Sellers. Books to read.  A reader lives a thousand lives before he dies!   #reading #ad #books   https://t.co/bhBuxCsKTt"
+        },
+        {
+            "author_id": "725183741140865024",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597570732032",
+                        "name": "Multi-Purpose Department"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026347212",
+                        "name": "Walmart"
+                    }
+                }
+            ],
+            "conversation_id": "1400498488979374092",
+            "created_at": "2021-06-03T17:03:54.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 81,
+                        "normalized_text": "Walmart",
+                        "probability": 0.9011,
+                        "start": 75,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 138,
+                        "start": 115,
+                        "tag": "allfreeclearconnection"
+                    },
+                    {
+                        "end": 192,
+                        "start": 179,
+                        "tag": "allfreeclear"
+                    },
+                    {
+                        "end": 214,
+                        "start": 202,
+                        "tag": "sweepstakes"
+                    },
+                    {
+                        "end": 218,
+                        "start": 215,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "h3.sml360.com/-/46bbj",
+                        "end": 23,
+                        "expanded_url": "http://h3.sml360.com/-/46bbj",
+                        "start": 0,
+                        "url": "https://t.co/ag0wBxasnv"
+                    },
+                    {
+                        "display_url": "h3.sml360.com/-/46bbr",
+                        "end": 242,
+                        "expanded_url": "http://h3.sml360.com/-/46bbr",
+                        "start": 219,
+                        "url": "https://t.co/kIiUhocSO9"
+                    }
+                ]
+            },
+            "id": "1400498488979374092",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Single Click Sharing\u2120",
+            "text": "https://t.co/ag0wBxasnv I'm on a scavenger hunt to find all\u00ae free clear at Walmart! Join me on this Mission in the #allfreeclearconnection for a chance to win a 6-month supply of #allfreeclear product. #sweepstakes #ad https://t.co/kIiUhocSO9"
+        },
+        {
+            "author_id": "1342919737358110720",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597226799105",
+                        "name": "B2B"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597172203520",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "ROG (Republic of Gamers, ASUS)",
+                        "id": "1163538731195744258",
+                        "name": "ROG (Republic of Gamers, ASUS)"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1174432578503204864",
+                        "name": "PC gaming"
+                    }
+                }
+            ],
+            "conversation_id": "1400498445874565121",
+            "created_at": "2021-06-03T17:03:44.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "ASUS ROG Strix G17 (2021) Gaming Laptop",
+                        "probability": 0.2932,
+                        "start": 10,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 171,
+                        "start": 168,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "click.linksynergy.com/deeplink?id=QL\u2026",
+                        "end": 145,
+                        "expanded_url": "https://click.linksynergy.com/deeplink?id=QL631ke*Df8&mid=44583&murl=https%3A%2F%2Fsecure.newegg.com%2FShopping%2FAddtoCart.aspx%3FSubmit%3DAdd%26ItemList%3DN82E16834235619R%26RemoveItemList%3D",
+                        "start": 122,
+                        "url": "https://t.co/xDDBXDPxNm"
+                    },
+                    {
+                        "display_url": "click.linksynergy.com/deeplink?id=QL\u2026",
+                        "end": 196,
+                        "expanded_url": "https://click.linksynergy.com/deeplink?id=QL631ke*Df8&mid=44583&murl=https%3A%2F%2Fwww.newegg.com%2Feclipse-gray-asus-rog-strix-g17-g713qr-es96-gaming-entertainment%2Fp%2FN82E16834235619R%3FItem%3DN82E16834235619R%26Description%3Drtx%203070%20bundle%26cm_re%3Drtx_3070%20bundle-_-34-235-619R-_-Product",
+                        "start": 173,
+                        "url": "https://t.co/nyXhtJJ0D5"
+                    }
+                ]
+            },
+            "id": "1400498445874565121",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "Open Box: ASUS ROG Strix G17 (2021) Gaming Laptop, 17.3&amp;quot\nSource: Newegg Search Results\nReason: Instock = true\n\n\ud83d\uded2: https://t.co/xDDBXDPxNm\n\n01:03:43.7000 PM EDT #Ad\n\nhttps://t.co/nyXhtJJ0D5"
+        },
+        {
+            "author_id": "705402063728017408",
+            "conversation_id": "1400498395006046210",
+            "created_at": "2021-06-03T17:03:32.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 111,
+                        "start": 105,
+                        "tag": "books"
+                    },
+                    {
+                        "end": 115,
+                        "start": 112,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 122,
+                        "start": 116,
+                        "tag": "eBook"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "If you dream of being published, this book will teach you the nuts and bolts of what it means to be an author. In a friendly, informative and practical way, Georgia Richter and Deborah Hunn share all you need to know about inspiration and research, preparing to submit to a publisher, creating an author brand, legal, ethical and moral considerations, pitching, effective social media and much more. Practical advice and top tips from Liz Byrski, Alan Carter, Nandi Chinna, Tim Coronel, Amanda Curtin, Daniel de Lorne, Deb Fitzpatrick, James Foley, Alecia Hancock, Stephen Kinnane, Ambelin Kwaymullina, Natasha Lester, Brigid Lowry, Caitlin Maling, Meg McKinlay, Claire Miller, Brendan Ritchie, Rachel Robertson, Holden Sheppard, Sasha Wasley, David Whish-Wilson and Anne-Louise Willoughby.",
+                        "display_url": "anrdoezrs.net/click-3313546-\u2026",
+                        "end": 148,
+                        "expanded_url": "https://www.anrdoezrs.net/click-3313546-13679533?url=https%3A%2F%2Fwww.ebooks.com%2Fcj.asp%3FIID%3D210160492%26fc%3DGB",
+                        "images": [
+                            {
+                                "height": 2447,
+                                "url": "https://pbs.twimg.com/news_img/1400498404673863686/joV3lgWJ?format=jpg&name=orig",
+                                "width": 1600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400498404673863686/joV3lgWJ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 125,
+                        "status": 200,
+                        "title": "How to Be an Author",
+                        "unwound_url": "https://www.ebooks.com/en-us/book/detail/210160492/",
+                        "url": "https://t.co/vJMOrOQfC4"
+                    }
+                ]
+            },
+            "id": "1400498395006046210",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "Best Sellers eBooks A book should leave you with many experiences You live several lives while reading.  #books #ad #eBook   https://t.co/vJMOrOQfC4"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498337246158853"
+                ]
+            },
+            "author_id": "28955739",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+                        "id": "1005930552363384833",
+                        "name": "Dying Light"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                }
+            ],
+            "conversation_id": "1400498374772617221",
+            "created_at": "2021-06-03T17:03:27.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "Dying Light 2 Stay Human Collector's Edition (PS4)",
+                        "probability": 0.3457,
+                        "start": 0,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 78,
+                        "normalized_text": "Amazon",
+                        "probability": 0.4841,
+                        "start": 73,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 117,
+                        "start": 114,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/3vP6HZy",
+                        "end": 113,
+                        "expanded_url": "http://amzn.to/3vP6HZy",
+                        "start": 90,
+                        "url": "https://t.co/hn9rCAh3N0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/4uCOSOyg9T",
+                        "end": 141,
+                        "expanded_url": "https://twitter.com/Wario64/status/1400498374772617221/photo/1",
+                        "start": 118,
+                        "url": "https://t.co/4uCOSOyg9T"
+                    }
+                ]
+            },
+            "id": "1400498374772617221",
+            "public_metrics": {
+                "like_count": 75,
+                "quote_count": 2,
+                "reply_count": 11,
+                "retweet_count": 11
+            },
+            "source": "TweetDeck",
+            "text": "Dying Light 2 Stay Human Collector's Edition (PS4) is up for preorder on Amazon ($229.99) https://t.co/hn9rCAh3N0 #ad https://t.co/4uCOSOyg9T"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498306137133060"
+                ]
+            },
+            "author_id": "1350711674748203008",
+            "conversation_id": "1400498371866005512",
+            "created_at": "2021-06-03T17:03:26.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 110,
+                        "start": 107,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/SfpWpaSJTg",
+                        "end": 155,
+                        "expanded_url": "https://twitter.com/FortLtmToday/status/1400498371866005512/photo/1",
+                        "start": 132,
+                        "url": "https://t.co/SfpWpaSJTg"
+                    }
+                ]
+            },
+            "id": "1400498371866005512",
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "Today's LTM. (2nd post) If you appreciate these posts, please consider using code STACHE in the item shop. #ad Have a good morning. https://t.co/SfpWpaSJTg"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1399818835952377856"
+                ]
+            },
+            "author_id": "815750087192219648",
+            "conversation_id": "1400498262256332803",
+            "created_at": "2021-06-03T17:03:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 41,
+                        "normalized_text": "Captain William Tennant",
+                        "probability": 0.556,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 70,
+                        "normalized_text": "Admiral Bertram Ramsay",
+                        "probability": 0.9262,
+                        "start": 49,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 126,
+                        "normalized_text": "Dover",
+                        "probability": 0.7312,
+                        "start": 122,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 173,
+                        "normalized_text": "Dunkirk",
+                        "probability": 0.6461,
+                        "start": 167,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 13,
+                        "tag": "Navy"
+                    },
+                    {
+                        "end": 186,
+                        "start": 176,
+                        "tag": "Churchill"
+                    },
+                    {
+                        "end": 256,
+                        "start": 253,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/2BjJV4u",
+                        "end": 280,
+                        "expanded_url": "https://amzn.to/2BjJV4u",
+                        "start": 257,
+                        "url": "https://t.co/5ISURKfTNZ"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/c208rF2AO7",
+                        "end": 304,
+                        "expanded_url": "https://twitter.com/URDailyHistory/status/1400498262256332803/photo/1",
+                        "start": 281,
+                        "url": "https://t.co/c208rF2AO7"
+                    }
+                ]
+            },
+            "id": "1400498262256332803",
+            "public_metrics": {
+                "like_count": 51,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "source": "TweetDeck",
+            "text": "3 June 1940: #Navy Captain William Tennant tells Admiral Bertram Ramsay that \"Operation (Dynamo ) completed. Returning to Dover\", noting the evacuation of forces from Dunkirk. #Churchill insisted on coming back for French troops and they did on June 4. #ad https://t.co/5ISURKfTNZ https://t.co/c208rF2AO7"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498200537096193"
+                ]
+            },
+            "author_id": "990679752997564417",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041893684",
+                        "name": "Instagram"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1354885514906624003",
+                        "name": "GameStop"
+                    }
+                }
+            ],
+            "conversation_id": "1400498205750616072",
+            "created_at": "2021-06-03T17:02:46.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Pop! STAR WARS\u2122 - Bounty Hunter Collection GameStop",
+                        "probability": 0.3018,
+                        "start": 13,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 98,
+                        "start": 95,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "click.linksynergy.com/deeplink?id=6b\u2026",
+                        "end": 123,
+                        "expanded_url": "https://click.linksynergy.com/deeplink?id=6bv1a7ZZOYU&mid=24348&murl=https%3A%2F%2Fwww.gamestop.com%2Fcollection%2Fbounty-hunter-collection%3Fsf145041323%3D1",
+                        "start": 100,
+                        "unwound_url": "https://click.linksynergy.com/deeplink?id=6bv1a7ZZOYU&mid=24348&murl=https%3A%2F%2Fwww.gamestop.com%2Fcollection%2Fbounty-hunter-collection%3Fsf145041323%3D1",
+                        "url": "https://t.co/hdsRXBmuBR"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/cbzZyqHaL0",
+                        "end": 147,
+                        "expanded_url": "https://twitter.com/pop_holmes/status/1400498205750616072/photo/1",
+                        "start": 124,
+                        "url": "https://t.co/cbzZyqHaL0"
+                    }
+                ]
+            },
+            "id": "1400498205750616072",
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "Coming Soon: Pop! STAR WARS\u2122  - Bounty Hunter Collection GameStop exclusive.) Pre-order IG-88\n\n#ad \nhttps://t.co/hdsRXBmuBR https://t.co/cbzZyqHaL0"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "media_key": "3_1400498522286444545",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498337246158853",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498306137133060",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1399818835952377856",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498200537096193",
+                "type": "photo"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2020-12-17T14:28:19.000Z",
+                "description": "We are a coupon & deal site. Majority of our posts are Amazon Deals.",
+                "id": "1339578098896035840",
+                "name": "Deals Fab",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1339578604972351489/AyVRKEkO_normal.jpg",
+                "username": "DealsFabUS",
+                "verified": false
+            },
+            {
+                "created_at": "2020-10-08T09:45:53.000Z",
+                "description": "\ud83d\udc99 Jude \n\ud83d\udcbb Writing about mental health, motherhood & everything in between.\n\ud83c\udf08\u2600\ufe0fPositive & trauma birth after infertility.\ud83e\udd5bCombi Feeding\n\ud83c\udf0a Seaside adventures",
+                "id": "1314139907154227200",
+                "name": "Jess \u2600\ufe0f UK Motherhood Blogger",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1314141878753914881/iUcgPf1X_normal.jpg",
+                "username": "motherhoodcombi",
+                "verified": false
+            },
+            {
+                "created_at": "2016-03-03T14:38:52.000Z",
+                "description": "Books to Read. Bestsellers. Educational books. Children's books. Fiction. Non Fiction. Biography. Autobiography. Bookworm. Reading. Goodreads Life Changing #bot",
+                "id": "705402063728017408",
+                "name": "BestSellers Book Reading Good Reads",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/823544245160132608/Czg1qEzh_normal.jpg",
+                "username": "Best_Sellers_UK",
+                "verified": false
+            },
+            {
+                "created_at": "2016-04-27T04:44:11.000Z",
+                "description": "confused in this world. Passionate about Islam. Strong believer of justice. Brutally honest.",
+                "id": "725183741140865024",
+                "name": "OutofThisWorld",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/725191668425580544/QglpJqnr_normal.jpg",
+                "username": "OutDeHazaDuniya",
+                "verified": false
+            },
+            {
+                "created_at": "2020-12-26T19:47:08.000Z",
+                "description": "Notifications for in demand products. DM me if you're looking for something specific. This account covers everything. Affiliate links #ad",
+                "id": "1342919737358110720",
+                "name": "InventoryBot (PC parts, Ryzen, RTX, console, toys)",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1342920858868842497/gbEaeAiR_normal.png",
+                "username": "BotInventory",
+                "verified": false
+            },
+            {
+                "created_at": "2009-04-05T07:08:20.000Z",
+                "description": "I like video games. I tweet deals which may contain affiliate links. As an Amazon Associate I earn from qualifying purchases. Epic Creator Tag: Wario64",
+                "id": "28955739",
+                "name": "Wario64",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1353897137361178624/DBFSX6Mb_normal.jpg",
+                "username": "Wario64",
+                "verified": true
+            },
+            {
+                "created_at": "2021-01-17T07:49:11.000Z",
+                "description": "A profile that posts the Fortnite playlists 2 times every day when they normally change. Maybe other things. Consider using code STACHE in the item shop.\ud83d\ude4f #ad",
+                "id": "1350711674748203008",
+                "name": "Today's Fortnite LTM",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1350713147825549312/ZMY-QCgq_normal.jpg",
+                "username": "FortLtmToday",
+                "verified": false
+            },
+            {
+                "created_at": "2017-01-02T02:42:31.000Z",
+                "description": "Letting you know what happened today, in the past. Posts are made on East Coast US time. #history #OTD. As an Amazon Associate I earn from qualifying purchases.",
+                "id": "815750087192219648",
+                "name": "Today In History",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/820354113439485952/figeWEt7_normal.jpg",
+                "username": "URDailyHistory",
+                "verified": false
+            },
+            {
+                "created_at": "2018-04-29T19:50:33.000Z",
+                "description": "#Funko #FunkoPop \ud83d\udd75\n\ud83d\udd0a Pop Info, News  & Alerts\n\u25b6IG: https://t.co/7YJqOrbaSY\n\u25b6Become a Pop Holmie ! - join Discord https://t.co/AeDLVLyHjj",
+                "id": "990679752997564417",
+                "name": "PopHolmes\ud83d\udd75",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1384490573260857347/0iBp609z_normal.jpg",
+                "username": "pop_holmes",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1400498529664122885",
+        "next_token": "b26v89c19zqg8o3fpdg6x2bzciea8xflasb4l0khocl8d",
+        "oldest_id": "1400498205750616072",
+        "result_count": 10
+    }
+}

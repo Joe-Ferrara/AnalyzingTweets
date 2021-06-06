@@ -1,0 +1,1325 @@
+{
+    "data": [
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400495269964308483"
+                ]
+            },
+            "author_id": "263257931",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1349863060534513665",
+                        "name": "Party Poker"
+                    }
+                }
+            ],
+            "conversation_id": "1400499268369088513",
+            "created_at": "2021-06-03T17:07:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 241,
+                        "start": 238,
+                        "tag": "Ad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 164,
+                        "start": 152,
+                        "username": "TWEnclosure"
+                    },
+                    {
+                        "end": 222,
+                        "start": 211,
+                        "username": "partypoker"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "BeGambleAware.org",
+                        "end": 284,
+                        "expanded_url": "http://BeGambleAware.org",
+                        "start": 261,
+                        "url": "https://t.co/rGiIaLM32t"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/HxD1vPKiBQ",
+                        "end": 308,
+                        "expanded_url": "https://twitter.com/FootyAccums/status/1400499268369088513/photo/1",
+                        "start": 285,
+                        "url": "https://t.co/HxD1vPKiBQ"
+                    }
+                ]
+            },
+            "id": "1400499268369088513",
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "source": "TweetDeck",
+            "text": "\u2666\ufe0fOur 2nd Golden Chip Challenge tourney is TONIGHT at 7pm!\n\n\ud83d\udcb0\u00a31,000 Guaranteed\n\u2666\ufe0f\u00a35.50 buy-in\n\nGolden Chips for:\n\ud83d\udd1dTop 20\n\ud83d\udcc8 Last Longer &amp; High Hand\n\ud83c\udfaf@TWEnclosure KO\n\nEach Chip is a $5.50 entry to the $5K GTD @partypoker Community KO!\n\n#Ad 18+ T&amp;Cs Apply https://t.co/rGiIaLM32t https://t.co/HxD1vPKiBQ"
+        },
+        {
+            "author_id": "84047860",
+            "conversation_id": "1400499177105334275",
+            "created_at": "2021-06-03T17:06:38.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 165,
+                        "start": 152,
+                        "tag": "OMFinanceDay"
+                    },
+                    {
+                        "end": 169,
+                        "start": 166,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Get a personal loan for that emergency expense or that once-in-a-lifetime opportunity. Apply online, by phone, or in person for a personal loan today.",
+                        "display_url": "bit.ly/3vtP0hG",
+                        "end": 150,
+                        "expanded_url": "https://bit.ly/3vtP0hG",
+                        "images": [
+                            {
+                                "height": 369,
+                                "url": "https://pbs.twimg.com/news_img/1400499182222426116/wcxkGBII?format=png&name=orig",
+                                "width": 528
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400499182222426116/wcxkGBII?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 127,
+                        "status": 200,
+                        "title": "Personal Loans | Apply Online | Old Mutual",
+                        "unwound_url": "https://www.oldmutual.co.za/personal/solutions/bank-and-borrow/personal-loans/?utm_source=Loanlink%20&utm_medium=Organic%20&utm_campaign=Influencer%20activations",
+                        "url": "https://t.co/hHgUY4jbv4"
+                    }
+                ]
+            },
+            "id": "1400499177105334275",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter Web App",
+            "text": "Adulting is just a fancy word for bills \ud83e\udd23\ud83d\ude2d I read this the other day and was like, jaaa maaan \ud83e\udd15\ud83e\udd74 so true!\n\nFind out more here: https://t.co/hHgUY4jbv4\n #OMFinanceDay #Ad"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400499126861717513"
+                ]
+            },
+            "author_id": "14877019",
+            "conversation_id": "1400499129084747784",
+            "created_at": "2021-06-03T17:06:27.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Warhammer Skulls Sale",
+                        "probability": 0.59,
+                        "start": 0,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 56,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3caQpCv",
+                        "end": 55,
+                        "expanded_url": "https://bit.ly/3caQpCv",
+                        "start": 32,
+                        "url": "https://t.co/M5u2UBsNJD"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Xlw8gRcugh",
+                        "end": 83,
+                        "expanded_url": "https://twitter.com/Lbabinz/status/1400499129084747784/photo/1",
+                        "start": 60,
+                        "url": "https://t.co/Xlw8gRcugh"
+                    }
+                ]
+            },
+            "id": "1400499129084747784",
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Hootsuite Inc.",
+            "text": "Warhammer Skulls Sale at Humble https://t.co/M5u2UBsNJD #ad https://t.co/Xlw8gRcugh"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400499020469055492"
+                ]
+            },
+            "author_id": "2188714462",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+                        "id": "1005930552363384833",
+                        "name": "Dying Light"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                }
+            ],
+            "conversation_id": "1400499091491147778",
+            "created_at": "2021-06-03T17:06:18.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 47,
+                        "normalized_text": "Dying Light 2 Stay Human Collector\u2019s Edition PS4",
+                        "probability": 0.3343,
+                        "start": 0,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 67,
+                        "normalized_text": "Amazon",
+                        "probability": 0.4591,
+                        "start": 62,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 94,
+                        "start": 91,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4",
+                        "display_url": "amzn.to/3wW6aFm",
+                        "end": 90,
+                        "expanded_url": "http://amzn.to/3wW6aFm",
+                        "images": [
+                            {
+                                "height": 350,
+                                "url": "https://pbs.twimg.com/news_img/1400499099623960576/YXAia8c7?format=png&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400499099623960576/YXAia8c7?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 67,
+                        "status": 200,
+                        "title": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4",
+                        "unwound_url": "https://www.amazon.com/dp/B095R1ZP1C?ie=UTF8&smid=ATVPDKIKX0DER&th=1&linkCode=sl1&tag=ps5onlyus-20&linkId=2bc33f198a0e23c53999dd3be0c4325d&language=en_US&ref_=as_li_ss_tl",
+                        "url": "https://t.co/fGesRUiiVl"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/fX9LkhSaSb",
+                        "end": 118,
+                        "expanded_url": "https://twitter.com/PS5only/status/1400499091491147778/photo/1",
+                        "start": 95,
+                        "url": "https://t.co/fX9LkhSaSb"
+                    }
+                ]
+            },
+            "id": "1400499091491147778",
+            "public_metrics": {
+                "like_count": 18,
+                "quote_count": 2,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "source": "TweetDeck",
+            "text": "Dying Light 2 Stay Human Collector\u2019s Edition PS4 $229.99\n\ud83c\uddfa\ud83c\uddf8 Amazon https://t.co/fGesRUiiVl #ad https://t.co/fX9LkhSaSb"
+        },
+        {
+            "author_id": "15638352",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Science",
+                        "id": "854692455005921281",
+                        "name": "Science"
+                    }
+                }
+            ],
+            "conversation_id": "1400498929343418370",
+            "created_at": "2021-06-03T17:05:39.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 206,
+                        "start": 201,
+                        "tag": "STEM"
+                    },
+                    {
+                        "end": 268,
+                        "start": 261,
+                        "tag": "pitmad"
+                    },
+                    {
+                        "end": 272,
+                        "start": 269,
+                        "tag": "MG"
+                    },
+                    {
+                        "end": 276,
+                        "start": 273,
+                        "tag": "AD"
+                    },
+                    {
+                        "end": 279,
+                        "start": 277,
+                        "tag": "M"
+                    }
+                ]
+            },
+            "id": "1400498929343418370",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "source": "Twitter for iPhone",
+            "text": "WESTING GAMExNATIONAL TREASURE\n12yo Knox, a washed-up spelling champ, must find stolen gold to unlock the secrets of a cryptic puzzleball, stop a global crime spree, and rescue his family.\n\nToss in:\n4 #STEM-savvy friends\nForged photos w/ codes\nA solar eclipse\n\n#pitmad #MG #AD #M"
+        },
+        {
+            "author_id": "838109464809066498",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026713294",
+                        "name": "Nintendo"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A Video Game Publisher like 'Activision'",
+                        "id": "78",
+                        "name": "Video Game Publisher"
+                    },
+                    "entity": {
+                        "id": "10026713294",
+                        "name": "Nintendo"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "description": "Amazon - AI",
+                        "id": "10050907867",
+                        "name": "Amazon - AI"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "description": "Nintendo Switch",
+                        "id": "856739783577554949",
+                        "name": "Nintendo Switch"
+                    }
+                }
+            ],
+            "conversation_id": "1400498928429187074",
+            "created_at": "2021-06-03T17:05:39.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 65,
+                        "normalized_text": "YCCTEAM Switch Charger AC Adapter 15V",
+                        "probability": 0.5848,
+                        "start": 29,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 12,
+                        "tag": "NintendoSwitch"
+                    },
+                    {
+                        "end": 117,
+                        "start": 102,
+                        "tag": "NintendoSwitch"
+                    },
+                    {
+                        "end": 181,
+                        "start": 178,
+                        "tag": "Ad"
+                    },
+                    {
+                        "end": 189,
+                        "start": 182,
+                        "tag": "Amazon"
+                    },
+                    {
+                        "end": 203,
+                        "start": 190,
+                        "tag": "UnitedStates"
+                    },
+                    {
+                        "end": 213,
+                        "start": 204,
+                        "tag": "Nintendo"
+                    },
+                    {
+                        "end": 226,
+                        "start": 214,
+                        "tag": "Ninthusiast"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amazon.com/dp/B07RLZPYK1/\u2026",
+                        "end": 252,
+                        "expanded_url": "https://www.amazon.com/dp/B07RLZPYK1/?tag=tw-nintendo-20&linkCode=ogi&th=1&psc=1",
+                        "start": 229,
+                        "url": "https://t.co/a5wIika7nq"
+                    }
+                ]
+            },
+            "id": "1400498928429187074",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Racing Snail Post Service",
+            "text": "Charger for #NintendoSwitch, YCCTEAM Switch Charger AC Adapter 15V/2.6A Fast Charging Replacement for #NintendoSwitch/Switch Lite with 5FT Type C Cable, Support TV Mode and Dock #Ad #Amazon #UnitedStates #Nintendo #Ninthusiast\n\ud83d\udd17 https://t.co/a5wIika7nq"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498910578327556"
+                ]
+            },
+            "author_id": "1008832405124403200",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041893684",
+                        "name": "Instagram"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Business",
+                        "id": "847529762566230016",
+                        "name": "Business and finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Advertising",
+                        "id": "857878521472888832",
+                        "name": "Advertising"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Marketing",
+                        "id": "857879016971186177",
+                        "name": "Marketing"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Business",
+                        "id": "847529762566230016",
+                        "name": "Business and finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Technology",
+                        "id": "857879456773357569",
+                        "name": "Technology"
+                    }
+                }
+            ],
+            "conversation_id": "1400498911861686274",
+            "created_at": "2021-06-03T17:05:35.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 97,
+                        "normalized_text": "Seth Godin",
+                        "probability": 0.9941,
+                        "start": 88,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 119,
+                        "start": 107,
+                        "tag": "Advertising"
+                    },
+                    {
+                        "end": 127,
+                        "start": 120,
+                        "tag": "Online"
+                    },
+                    {
+                        "end": 146,
+                        "start": 128,
+                        "tag": "InternetMarketing"
+                    },
+                    {
+                        "end": 164,
+                        "start": 147,
+                        "tag": "DigitalMarketing"
+                    },
+                    {
+                        "end": 174,
+                        "start": 165,
+                        "tag": "Internet"
+                    },
+                    {
+                        "end": 187,
+                        "start": 175,
+                        "tag": "SocialMedia"
+                    },
+                    {
+                        "end": 191,
+                        "start": 188,
+                        "tag": "Ad"
+                    },
+                    {
+                        "end": 200,
+                        "start": 192,
+                        "tag": "Website"
+                    },
+                    {
+                        "end": 212,
+                        "start": 201,
+                        "tag": "Technology"
+                    },
+                    {
+                        "end": 222,
+                        "start": 213,
+                        "tag": "Business"
+                    },
+                    {
+                        "end": 238,
+                        "start": 223,
+                        "tag": "BusinessGrowth"
+                    },
+                    {
+                        "end": 248,
+                        "start": 239,
+                        "tag": "Facebook"
+                    },
+                    {
+                        "end": 259,
+                        "start": 249,
+                        "tag": "Instagram"
+                    },
+                    {
+                        "end": 268,
+                        "start": 260,
+                        "tag": "Twitter"
+                    },
+                    {
+                        "end": 276,
+                        "start": 269,
+                        "tag": "conten"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/zaYYZkNu43",
+                        "end": 303,
+                        "expanded_url": "https://twitter.com/digibrandstudio/status/1400498911861686274/photo/1",
+                        "start": 280,
+                        "url": "https://t.co/zaYYZkNu43"
+                    }
+                ]
+            },
+            "id": "1400498911861686274",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Cloud Campaign",
+            "text": "Marketing is no longer about the stuff that you make, but about the stories you tell.\u201d \u2013Seth Godin\n\n .\n.\n.\n#Advertising #Online #InternetMarketing #DigitalMarketing #Internet #SocialMedia #Ad #Website #Technology #Business #BusinessGrowth #Facebook #Instagram #Twitter #conten... https://t.co/zaYYZkNu43"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498895852027905"
+                ]
+            },
+            "author_id": "1284715483",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+                        "id": "1005930552363384833",
+                        "name": "Dying Light"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                }
+            ],
+            "conversation_id": "1400498897865281541",
+            "created_at": "2021-06-03T17:05:31.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 61,
+                        "start": 49,
+                        "tag": "PlayStation"
+                    },
+                    {
+                        "end": 69,
+                        "start": 66,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 75,
+                        "start": 70,
+                        "tag": "Deal"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4",
+                        "display_url": "amazon.com/dp/B095R1ZP1C?\u2026",
+                        "end": 101,
+                        "expanded_url": "https://www.amazon.com/dp/B095R1ZP1C?tag=judgment-20",
+                        "images": [
+                            {
+                                "height": 350,
+                                "url": "https://pbs.twimg.com/news_img/1400498903208824833/3ISsOOuE?format=png&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400498903208824833/3ISsOOuE?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 78,
+                        "status": 200,
+                        "title": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4",
+                        "unwound_url": "https://www.amazon.com/dp/B095R1ZP1C?tag=judgment-20",
+                        "url": "https://t.co/Me9ZjyUl2K"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/cJNXUSaiLx",
+                        "end": 125,
+                        "expanded_url": "https://twitter.com/CoolDealCA/status/1400498897865281541/photo/1",
+                        "start": 102,
+                        "url": "https://t.co/cJNXUSaiLx"
+                    }
+                ]
+            },
+            "id": "1400498897865281541",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "scal.club",
+            "text": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 #PlayStation 4 \n\n#ad #Deal\n\n https://t.co/Me9ZjyUl2K https://t.co/cJNXUSaiLx"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498675785244679"
+                ]
+            },
+            "author_id": "1087959850917740546",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+                        "id": "1005930552363384833",
+                        "name": "Dying Light"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                }
+            ],
+            "conversation_id": "1400498872695201794",
+            "created_at": "2021-06-03T17:05:25.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 61,
+                        "normalized_text": "PlayStation 4",
+                        "probability": 0.63,
+                        "start": 49,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 91,
+                        "start": 88,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4",
+                        "display_url": "amzn.to/3uIYOmV",
+                        "end": 86,
+                        "expanded_url": "https://amzn.to/3uIYOmV",
+                        "images": [
+                            {
+                                "height": 350,
+                                "url": "https://pbs.twimg.com/news_img/1400498879204761600/CTW1HHJ6?format=png&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400498879204761600/CTW1HHJ6?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 63,
+                        "status": 200,
+                        "title": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4",
+                        "unwound_url": "https://www.amazon.com/dp/B095R1ZP1C?ie=UTF8&smid=ATVPDKIKX0DER&th=1&linkCode=sl1&tag=spieltimes09-20&linkId=86180134b5962a87d62aecca3408942b&language=en_US&ref_=as_li_ss_tl",
+                        "url": "https://t.co/R05HEJILJ5"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/4PBd88X4LY",
+                        "end": 115,
+                        "expanded_url": "https://twitter.com/spieltimes/status/1400498872695201794/photo/1",
+                        "start": 92,
+                        "url": "https://t.co/4PBd88X4LY"
+                    }
+                ]
+            },
+            "id": "1400498872695201794",
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "source": "TweetDeck",
+            "text": "Dying Light 2 Stay Human (Collector\u2019s Edition) \u2013 PlayStation 4 https://t.co/R05HEJILJ5\n\n#ad https://t.co/4PBd88X4LY"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400498796119875584"
+                ]
+            },
+            "author_id": "268270621",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "@Vikkstar123",
+                        "id": "1126912968694779904",
+                        "name": "Vikkstar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Influencers who create content on digital platforms",
+                        "id": "120",
+                        "name": "Digital Creator"
+                    },
+                    "entity": {
+                        "description": "@Vikkstar123",
+                        "id": "1126912968694779904",
+                        "name": "Vikkstar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "136",
+                        "name": "Video Game Personality "
+                    },
+                    "entity": {
+                        "description": "@Vikkstar123",
+                        "id": "1126912968694779904",
+                        "name": "Vikkstar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026364234",
+                        "name": "Samsung "
+                    }
+                }
+            ],
+            "conversation_id": "1400498799370551299",
+            "created_at": "2021-06-03T17:05:08.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 107,
+                        "normalized_text": "Neo QLED QN900A TV \ud83d\udc4c Object Tracking Sound Pro",
+                        "probability": 0.5027,
+                        "start": 61,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 191,
+                        "normalized_text": "The Motion Xcelerator Turbo Plus",
+                        "probability": 0.5901,
+                        "start": 160,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 237,
+                        "start": 222,
+                        "tag": "SamsungNeoQLED"
+                    },
+                    {
+                        "end": 252,
+                        "start": 238,
+                        "tag": "TeamSamsungUK"
+                    },
+                    {
+                        "end": 256,
+                        "start": 253,
+                        "tag": "Ad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 60,
+                        "start": 50,
+                        "username": "SamsungUK"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/bdXuMMdYhr",
+                        "end": 280,
+                        "expanded_url": "https://twitter.com/Vikkstar123/status/1400498799370551299/photo/1",
+                        "start": 257,
+                        "url": "https://t.co/bdXuMMdYhr"
+                    }
+                ]
+            },
+            "id": "1400498799370551299",
+            "public_metrics": {
+                "like_count": 2845,
+                "quote_count": 5,
+                "reply_count": 33,
+                "retweet_count": 21
+            },
+            "source": "Twitter for iPhone",
+            "text": "AD | Long weekend spent chilling and gaming on my @SamsungUK Neo QLED QN900A TV \ud83d\udc4c Object Tracking Sound Pro is taking gaming to whole new immersive level, and The Motion Xcelerator Turbo Plus keeping things super smooth \ud83d\ude0e #SamsungNeoQLED #TeamSamsungUK #Ad https://t.co/bdXuMMdYhr"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "media_key": "3_1400495269964308483",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400499126861717513",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400499020469055492",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498910578327556",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498895852027905",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498675785244679",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400498796119875584",
+                "type": "photo"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2011-03-09T18:11:42.000Z",
+                "description": "#1 FREE football betting community bringing you news, previews, recommended bets & bookmakers! 18+ https://t.co/aNvyT221Pr | Please gamble responsibly.",
+                "id": "263257931",
+                "name": "Footy Accumulators",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1219926389249519617/56nK2B0y_normal.jpg",
+                "username": "FootyAccums",
+                "verified": true
+            },
+            {
+                "created_at": "2009-10-21T10:20:02.000Z",
+                "description": "Blogger at https://t.co/zFsjZiQt77; Contributor @GatewayNewsZA & @JStarMag; Worshiper at @WordofFaithSA; Wifey; Mama; Praising the One",
+                "id": "84047860",
+                "name": "Luchae",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/692824773747822592/Tq3n2N8q_normal.jpg",
+                "username": "luchaewilliams",
+                "verified": false
+            },
+            {
+                "created_at": "2008-05-23T03:39:43.000Z",
+                "description": "Video Game deals in Canada \ud83c\udde8\ud83c\udde6, pre-orders, news. Nintendo, PS5, Xbox, PC. Links may be affiliate links. As an Amazon Associate I earn from qualifying purchases.",
+                "id": "14877019",
+                "name": "Lbabinz \ud83c\udde8\ud83c\udde6",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1400171202631540736/bDoG3c7F_normal.png",
+                "username": "Lbabinz",
+                "verified": false
+            },
+            {
+                "created_at": "2013-11-20T11:17:15.000Z",
+                "description": "PS5 & PSVR2 \ud835\udcbd\ud835\udcce\ud835\udcc5\ud835\udc52. Shop PS5 Consoles, PS5 Games, PS5 Accessories & TVs for PS5. As an Amazon Associate I earn from qualifying purchases #PS5 #PlayHasNoLimits",
+                "id": "2188714462",
+                "name": "PS5 Only",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1337758112758034434/R8Q1tMaz_normal.jpg",
+                "username": "PS5only",
+                "verified": false
+            },
+            {
+                "created_at": "2008-07-28T22:03:02.000Z",
+                "description": "Book lover | hiker | art curator | mom | co-author of Path of the Thunderbird (https://t.co/uEwZXY72BJ)",
+                "id": "15638352",
+                "name": "Sara Toole Miller",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/2556975554/9p5467i89ymvqcwrcxhk_normal.jpeg",
+                "username": "samill1",
+                "verified": false
+            },
+            {
+                "created_at": "2017-03-04T19:30:42.000Z",
+                "description": "We love #Nintendo. You too? We help you finding Nintendo games and consoles, and accessories.\n\nNot affiliated with Nintendo. Contains affiliate links.",
+                "id": "838109464809066498",
+                "name": "We \u2764\ufe0f Nintendo",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1324990062904418306/9aqcmbGF_normal.jpg",
+                "username": "Ninthusiast",
+                "verified": false
+            },
+            {
+                "created_at": "2018-06-18T22:02:43.000Z",
+                "description": "We specialize in digital marketing strategies where small businesses can have an impact and where they need to spend their marketing dollars.",
+                "id": "1008832405124403200",
+                "name": "Digi Brand Studios",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1008832709483872256/0T9XVGFm_normal.jpg",
+                "username": "digibrandstudio",
+                "verified": false
+            },
+            {
+                "created_at": "2013-03-21T01:02:43.000Z",
+                "description": "List your product \ud83d\udc49 https://t.co/z7h7twRU42\nTag us in your deal request for an instant reply\nAffiliate links\nhttps://t.co/axQwURYqHi\nhttps://t.co/UOJzmr1u1j",
+                "id": "1284715483",
+                "name": "CoolDeal",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1346208614009032704/l84fywv8_normal.jpg",
+                "username": "CoolDealCA",
+                "verified": false
+            },
+            {
+                "created_at": "2019-01-23T06:26:56.000Z",
+                "description": "Helping people secure the PS5, Xbox, GPUs, and more! As an Amazon Associate, I earn from qualifying purchases.\n\nShop https://t.co/OdkayFECaZ",
+                "id": "1087959850917740546",
+                "name": "Spiel Times (PS5 Restocks, Xbox, GPUs, and More)",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1346374095911358467/RWOgL3Xg_normal.jpg",
+                "username": "spieltimes",
+                "verified": false
+            },
+            {
+                "created_at": "2011-03-18T12:55:19.000Z",
+                "description": "YouTube Content Creator \u2022 Business Contact: vikbarn@gmail.com \u2022 https://t.co/1TPj2dbzod \u2022 @Sidemen @RoyalRavens @Rogue @BoostGaming",
+                "id": "268270621",
+                "name": "Vikkstar \u2605",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1375566549461909507/kaHAlSRZ_normal.jpg",
+                "username": "Vikkstar123",
+                "verified": true
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1400499268369088513",
+        "next_token": "b26v89c19zqg8o3fpdg6x2bzcjgymbhfrwd26aherrou5",
+        "oldest_id": "1400498799370551299",
+        "result_count": 10
+    }
+}

@@ -1,0 +1,1275 @@
+{
+    "data": [
+        {
+            "author_id": "2682046003",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597302226944",
+                        "name": "Transportation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Car culture",
+                        "id": "847528391163092993",
+                        "name": "Automotive"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Car culture",
+                        "id": "847528391163092993",
+                        "name": "Automotive"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Vintage cars",
+                        "id": "847529349058150400",
+                        "name": "Vintage cars"
+                    }
+                }
+            ],
+            "conversation_id": "1400497707446378498",
+            "created_at": "2021-06-03T17:00:48.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Mercedes 450se",
+                        "probability": 0.3931,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 56,
+                        "start": 45,
+                        "tag": "classiccar"
+                    },
+                    {
+                        "end": 60,
+                        "start": 57,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 65,
+                        "start": 61,
+                        "tag": "car"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "February 1980. i have to many projects on the go at present and need the room. underside is very good.",
+                        "display_url": "ebay.co.uk/itm/1440630686\u2026",
+                        "end": 89,
+                        "expanded_url": "https://www.ebay.co.uk/itm/144063068621?hash=item218ad3f9cd:g:bhMAAOSwTBBguIPy&mkcid=1&mkrid=710-53481-19255-0&siteid=3&campid=5337535757&customid=twitbarnandin&toolid=10001&mkevt=1",
+                        "images": [
+                            {
+                                "height": 300,
+                                "url": "https://pbs.twimg.com/news_img/1400497710940176386/yPbGlRdw?format=jpg&name=orig",
+                                "width": 400
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1400497710940176386/yPbGlRdw?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 66,
+                        "status": 200,
+                        "title": "Mercedes 450se w116 1980 restoration project",
+                        "unwound_url": "https://www.ebay.co.uk/itm/144063068621?hash=item218ad3f9cd:g:bhMAAOSwTBBguIPy&mkcid=1&mkrid=710-53481-19255-0&siteid=3&campid=5337535757&customid=twitbarnandin&toolid=10001&mkevt=1",
+                        "url": "https://t.co/2CxNoPXbbW"
+                    }
+                ]
+            },
+            "id": "1400497707446378498",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Barnfinduk",
+            "text": "Mercedes 450se w116 1980 restoration project #classiccar #ad #car https://t.co/2CxNoPXbbW"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400497696780267520",
+                    "3_1400497696771919873"
+                ]
+            },
+            "author_id": "486039063",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Cuisines",
+                        "id": "860133563332648963",
+                        "name": "Cuisines"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Fast food",
+                        "id": "847865239886417922",
+                        "name": "Fast food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596161376261",
+                        "name": "Dining"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597017083904",
+                        "name": "QSR"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026319212",
+                        "name": "McDonald's"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                }
+            ],
+            "conversation_id": "1400497704673947650",
+            "created_at": "2021-06-03T17:00:47.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 52,
+                        "normalized_text": "McDonald",
+                        "probability": 0.7025,
+                        "start": 45,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 123,
+                        "tag": "ad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 26,
+                        "start": 16,
+                        "username": "McDonalds"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/RsDtrUA4oI",
+                        "end": 150,
+                        "expanded_url": "https://twitter.com/iamBrandonTV/status/1400497704673947650/photo/1",
+                        "start": 127,
+                        "url": "https://t.co/RsDtrUA4oI"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/RsDtrUA4oI",
+                        "end": 150,
+                        "expanded_url": "https://twitter.com/iamBrandonTV/status/1400497704673947650/photo/1",
+                        "start": 127,
+                        "url": "https://t.co/RsDtrUA4oI"
+                    }
+                ]
+            },
+            "id": "1400497704673947650",
+            "public_metrics": {
+                "like_count": 266,
+                "quote_count": 1,
+                "reply_count": 15,
+                "retweet_count": 6
+            },
+            "source": "Twitter for iPhone",
+            "text": "Hi-C is back at @McDonalds! In honor of that McDonald\u2019s sent me a summer time package of my favorite DRINK \ud83d\ude0d WE BACK BABY! #ad https://t.co/RsDtrUA4oI"
+        },
+        {
+            "author_id": "2682046003",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597302226944",
+                        "name": "Transportation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Car culture",
+                        "id": "847528391163092993",
+                        "name": "Automotive"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Car culture",
+                        "id": "847528391163092993",
+                        "name": "Automotive"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Vintage cars",
+                        "id": "847529349058150400",
+                        "name": "Vintage cars"
+                    }
+                }
+            ],
+            "conversation_id": "1400497701528248323",
+            "created_at": "2021-06-03T17:00:46.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Ford Anglia",
+                        "probability": 0.5116,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 23,
+                        "start": 12,
+                        "tag": "classiccar"
+                    },
+                    {
+                        "end": 27,
+                        "start": 24,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 32,
+                        "start": 28,
+                        "tag": "car"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ebay.co.uk/itm/1648966630\u2026",
+                        "end": 56,
+                        "expanded_url": "https://www.ebay.co.uk/itm/164896663057?hash=item26649b6611:g:xzEAAOSwOfRguQMN&mkcid=1&mkrid=710-53481-19255-0&siteid=3&campid=5337535757&customid=twitbarnandin&toolid=10001&mkevt=1",
+                        "start": 33,
+                        "url": "https://t.co/n9r4tpB8xg"
+                    }
+                ]
+            },
+            "id": "1400497701528248323",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Barnfinduk",
+            "text": "Ford Anglia #classiccar #ad #car https://t.co/n9r4tpB8xg"
+        },
+        {
+            "author_id": "336556251",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027232467",
+                        "name": "Microsoft"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10026414931",
+                        "name": "Microsoft - Surface"
+                    }
+                }
+            ],
+            "conversation_id": "1400497698244075524",
+            "created_at": "2021-06-03T17:00:45.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Microsoft Surface Book 2",
+                        "probability": 0.8171,
+                        "start": 0,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 64,
+                        "normalized_text": "Microsoft Surface Pen",
+                        "probability": 0.8309,
+                        "start": 44,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 88,
+                        "start": 76,
+                        "tag": "electronics"
+                    },
+                    {
+                        "end": 92,
+                        "start": 89,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 100,
+                        "start": 93,
+                        "tag": "laptop"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ebay.co.uk/itm/4028964046\u2026",
+                        "end": 124,
+                        "expanded_url": "https://www.ebay.co.uk/itm/402896404698?hash=item5dce7f40da:g:kQcAAOSw8d9guQf2&mkcid=1&mkrid=710-53481-19255-0&siteid=3&campid=5337535757&customid=conEle&toolid=10001&mkevt=1",
+                        "start": 101,
+                        "url": "https://t.co/Wh8CBcUnQ6"
+                    }
+                ]
+            },
+            "id": "1400497698244075524",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter",
+            "text": "Microsoft Surface Book 2 - i5, 256GB - With Microsoft Surface Pen (2nd Gen) #electronics #ad #laptop https://t.co/Wh8CBcUnQ6"
+        },
+        {
+            "author_id": "2682046003",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597302226944",
+                        "name": "Transportation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Car culture",
+                        "id": "847528391163092993",
+                        "name": "Automotive"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Car culture",
+                        "id": "847528391163092993",
+                        "name": "Automotive"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Vintage cars",
+                        "id": "847529349058150400",
+                        "name": "Vintage cars"
+                    }
+                }
+            ],
+            "conversation_id": "1400497691117957125",
+            "created_at": "2021-06-03T17:00:44.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Classic mini 1985 1275 GT ERA turbo bodykit",
+                        "probability": 0.3506,
+                        "start": 0,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 55,
+                        "start": 44,
+                        "tag": "classiccar"
+                    },
+                    {
+                        "end": 59,
+                        "start": 56,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 64,
+                        "start": 60,
+                        "tag": "car"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ebay.co.uk/itm/2550042886\u2026",
+                        "end": 88,
+                        "expanded_url": "https://www.ebay.co.uk/itm/255004288693?hash=item3b5f70a6b5:g:eicAAOSwRtNguQK3&mkcid=1&mkrid=710-53481-19255-0&siteid=3&campid=5337535757&customid=twitbarnandin&toolid=10001&mkevt=1",
+                        "start": 65,
+                        "url": "https://t.co/XK9acOdDni"
+                    }
+                ]
+            },
+            "id": "1400497691117957125",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Barnfinduk",
+            "text": "Classic mini 1985 1275 GT ERA turbo bodykit #classiccar #ad #car https://t.co/XK9acOdDni"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400497666337955849"
+                ]
+            },
+            "author_id": "293142083",
+            "conversation_id": "1400497667734708226",
+            "created_at": "2021-06-03T17:00:38.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 140,
+                        "start": 137,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/GYTOValueTip",
+                        "end": 135,
+                        "expanded_url": "http://bit.ly/GYTOValueTip",
+                        "start": 112,
+                        "url": "https://t.co/quK4OMw0Pc"
+                    },
+                    {
+                        "display_url": "begambleaware.org",
+                        "end": 164,
+                        "expanded_url": "http://begambleaware.org",
+                        "start": 141,
+                        "url": "https://t.co/GisfAMgBYD"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Nrp6P7a9m3",
+                        "end": 192,
+                        "expanded_url": "https://twitter.com/GetYourTipsOut/status/1400497667734708226/photo/1",
+                        "start": 169,
+                        "url": "https://t.co/Nrp6P7a9m3"
+                    }
+                ]
+            },
+            "id": "1400497667734708226",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Hootsuite Inc.",
+            "text": "FRIDAY'S VALUE TIP \ud83e\udd11\n\n\ud83d\udcaa\ud83c\udffb One of our best bets tomorrow\n\n\ud83d\udcb0 Grab the early odds on this\n\n\u26d4\ufe0f ONLY on the OC app \ud83d\udc47\ud83c\udffb\nhttps://t.co/quK4OMw0Pc\n\n#ad https://t.co/GisfAMgBYD 18+ https://t.co/Nrp6P7a9m3"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "7_1400497606384668679"
+                ]
+            },
+            "author_id": "1221457836066164736",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10027830539",
+                        "name": "The Originals"
+                    }
+                }
+            ],
+            "conversation_id": "1400497666900086788",
+            "created_at": "2021-06-03T17:00:38.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Pride Called Worth",
+                        "probability": 0.9486,
+                        "start": 23,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 95,
+                        "start": 86,
+                        "tag": "freelitv"
+                    },
+                    {
+                        "end": 114,
+                        "start": 96,
+                        "tag": "originalcharacter"
+                    },
+                    {
+                        "end": 121,
+                        "start": 115,
+                        "tag": "money"
+                    },
+                    {
+                        "end": 125,
+                        "start": 122,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 135,
+                        "start": 126,
+                        "tag": "Trending"
+                    },
+                    {
+                        "end": 150,
+                        "start": 136,
+                        "tag": "thursdayvibes"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/l3iH98sDJ6",
+                        "end": 174,
+                        "expanded_url": "https://twitter.com/FreeliTv/status/1400497666900086788/video/1",
+                        "start": 151,
+                        "url": "https://t.co/l3iH98sDJ6"
+                    }
+                ]
+            },
+            "id": "1400497666900086788",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twitter for Android",
+            "text": "FOUR MORE EPISODES OF \"Pride Called Worth\" TONIGHT at 9pm, ONLY on FREELI ORIGINALS\u203c\ufe0f\n#freelitv #originalcharacter\n#money #ad #Trending #thursdayvibes https://t.co/l3iH98sDJ6"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400497592061075458"
+                ]
+            },
+            "author_id": "728590254140211200",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics",
+                        "id": "12",
+                        "name": "Sports Team"
+                    },
+                    "entity": {
+                        "id": "731226163788402688",
+                        "name": "England"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics",
+                        "id": "12",
+                        "name": "Sports Team"
+                    },
+                    "entity": {
+                        "id": "731226180259446784",
+                        "name": "Spain"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics",
+                        "id": "12",
+                        "name": "Sports Team"
+                    },
+                    "entity": {
+                        "id": "731226231832633344",
+                        "name": "France"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "1384518599562301449",
+                        "name": "UEFA European Championship"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "1384518599562301449",
+                        "name": "UEFA European Championship"
+                    }
+                }
+            ],
+            "conversation_id": "1400497595718377473",
+            "created_at": "2021-06-03T17:00:21.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 101,
+                        "normalized_text": "England",
+                        "probability": 0.6481,
+                        "start": 95,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Italy",
+                        "probability": 0.8722,
+                        "start": 104,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 116,
+                        "normalized_text": "France",
+                        "probability": 0.881,
+                        "start": 111,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 125,
+                        "normalized_text": "Belgium",
+                        "probability": 0.9396,
+                        "start": 119,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 135,
+                        "normalized_text": "Spain",
+                        "probability": 0.8447,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 262,
+                        "start": 253,
+                        "tag": "Euro2020"
+                    },
+                    {
+                        "end": 272,
+                        "start": 263,
+                        "tag": "Football"
+                    },
+                    {
+                        "end": 276,
+                        "start": 273,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ic.aff-handler.com/C/46719?sr=123\u2026",
+                        "end": 221,
+                        "expanded_url": "https://ic.aff-handler.com/C/46719?sr=1235309",
+                        "start": 198,
+                        "url": "https://t.co/nwvaGtnjUG"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/fPb0XTtPQA",
+                        "end": 302,
+                        "expanded_url": "https://twitter.com/BookieOffers728/status/1400497595718377473/photo/1",
+                        "start": 279,
+                        "url": "https://t.co/fPb0XTtPQA"
+                    }
+                ]
+            },
+            "id": "1400497595718377473",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twittimer",
+            "text": "888 Every Time your Team Plays Get \u00a310\nEuro 2020\n\n1\u20e3You Promo Code is your selected team\n2\u20e3Use England, Italy, France, Belgium, Or Spain\n3\u20e3Get \u00a310 For Every Game They Play in Euro 2020\nOffer below\n\ud83d\udd38https://t.co/nwvaGtnjUG\n\n18+T&amp;Cs GambleResponsibly\n#Euro2020 #Football #Ad:9 https://t.co/fPb0XTtPQA"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "16_1400497575107629061"
+                ]
+            },
+            "author_id": "1024187202081828864",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "847869481888096256",
+                        "name": "Gambling"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Sports Betting",
+                        "id": "1158813612409929728",
+                        "name": "Sports betting"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "847869481888096256",
+                        "name": "Gambling"
+                    }
+                }
+            ],
+            "conversation_id": "1400497576252743680",
+            "created_at": "2021-06-03T17:00:16.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 134,
+                        "normalized_text": "UK",
+                        "probability": 0.6875,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 253,
+                        "start": 250,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/befred30",
+                        "end": 249,
+                        "expanded_url": "http://bit.ly/befred30",
+                        "start": 226,
+                        "url": "https://t.co/sTrgTt1I4d"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/qb0Jf9vGqO",
+                        "end": 277,
+                        "expanded_url": "https://twitter.com/soccertal/status/1400497576252743680/photo/1",
+                        "start": 254,
+                        "url": "https://t.co/qb0Jf9vGqO"
+                    }
+                ]
+            },
+            "id": "1400497576252743680",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "SocialOomph",
+            "text": "Football Fans - Enjoy betting on Football? Get \u00a330 in free bets + 60 free spins when you stake just \u00a310\nHuge Range of Sports Markets\nUK&amp; N Ire New Customers\nTerms &amp; Conditions Apply,18+\nGamble Responsibly\nSIGN UP HERE https://t.co/sTrgTt1I4d #ad https://t.co/qb0Jf9vGqO"
+        },
+        {
+            "author_id": "1280414079065247744",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "Pro wrestling action featuring Cody Rhodes, The Young Bucks, Kenny Omega and Chris Jericho.\n\nPhoto via @AEW",
+                        "id": "10057407931",
+                        "name": "All Elite Wrestling: Dynamite"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1192846777918967809",
+                        "name": "Adam Page"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Types of sports, like soccer and basketball",
+                        "id": "11",
+                        "name": "Sport"
+                    },
+                    "entity": {
+                        "id": "839544341584474112",
+                        "name": "Wrestling"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "description": "All Elite Wrestling",
+                        "id": "1093980140185411584",
+                        "name": "All Elite Wrestling"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+                        "id": "60",
+                        "name": "Athlete"
+                    },
+                    "entity": {
+                        "id": "1192846777918967809",
+                        "name": "Adam Page"
+                    }
+                }
+            ],
+            "conversation_id": "1400497538235514880",
+            "created_at": "2021-06-03T17:00:07.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 158,
+                        "start": 146,
+                        "tag": "AEWDynamite"
+                    },
+                    {
+                        "end": 256,
+                        "start": 239,
+                        "tag": "JoinTheDarkOrder"
+                    },
+                    {
+                        "end": 260,
+                        "start": 257,
+                        "tag": "ad"
+                    },
+                    {
+                        "end": 280,
+                        "start": 261,
+                        "tag": "WRESTLINGCOMMUNITY"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 50,
+                        "start": 38,
+                        "username": "theAdamPage"
+                    },
+                    {
+                        "end": 120,
+                        "start": 106,
+                        "username": "JoinDarkOrder"
+                    },
+                    {
+                        "end": 129,
+                        "start": 121,
+                        "username": "EvilUno"
+                    },
+                    {
+                        "end": 145,
+                        "start": 131,
+                        "username": "SilverNumber1"
+                    },
+                    {
+                        "end": 163,
+                        "start": 159,
+                        "username": "AEW"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/SilverNumber1/\u2026",
+                        "end": 304,
+                        "expanded_url": "https://twitter.com/SilverNumber1/status/1400474067988275208",
+                        "start": 281,
+                        "url": "https://t.co/8A4CzqVhyo"
+                    }
+                ]
+            },
+            "id": "1400497538235514880",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1400474067988275208",
+                    "type": "quoted"
+                }
+            ],
+            "source": "Twitter for Android",
+            "text": "WRESTLING Fan:\nI'm still confused..is @theAdamPage part of  the  dark order now? Hes always with you guys @JoinDarkOrder @EvilUno  @SilverNumber1 #AEWDynamite @AEW  minus well make him a OFFICIAL member already..It's a Perfect match! \ud83d\udd90\ud83c\udffc\ud83d\udd90\ud83c\udffc #JoinTheDarkOrder #ad #WRESTLINGCOMMUNITY https://t.co/8A4CzqVhyo"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "media_key": "3_1400497696780267520",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400497696771919873",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400497666337955849",
+                "type": "photo"
+            },
+            {
+                "duration_ms": 45000,
+                "media_key": "7_1400497606384668679",
+                "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1400497606384668679/pu/img/1xkC8Do2tkTyvYWP.jpg",
+                "public_metrics": {
+                    "view_count": 3
+                },
+                "type": "video"
+            },
+            {
+                "media_key": "3_1400497592061075458",
+                "type": "photo"
+            },
+            {
+                "media_key": "16_1400497575107629061",
+                "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/E2-RH9kWEAU0ICi.jpg",
+                "type": "animated_gif"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2014-07-26T10:29:28.000Z",
+                "description": "Classic Cars for sale on eBay.\nClassic Cars https://t.co/KEyv2DI1mX\nMini https://t.co/ZBkt7I8XaR\nLand Rover https://t.co/LSAEo5XbV9\nMG https://t.co/vSJSgvZIVy\n#bot #ad",
+                "id": "2682046003",
+                "name": "Barnfinduk",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1306249078100111360/qb52EnQS_normal.jpg",
+                "username": "BarnfindUKdiy",
+                "verified": false
+            },
+            {
+                "created_at": "2012-02-07T21:15:24.000Z",
+                "description": "Influencer Talent Recruiter @Softgiving | Award Winning @Twitch Partner | Email: iambrandon@tyrus.tv | Powered by @Elgato @Corsair https://t.co/wr01QHBStj",
+                "id": "486039063",
+                "name": "iamBrandon\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1399778052578627589/eSaXbS26_normal.jpg",
+                "username": "iamBrandonTV",
+                "verified": true
+            },
+            {
+                "created_at": "2011-07-16T14:06:00.000Z",
+                "description": "Electronics Computers a bot",
+                "id": "336556251",
+                "name": "ConsumerElectronics",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1504761403/electronics-consumer_normal.gif",
+                "username": "Electronics2Buy",
+                "verified": false
+            },
+            {
+                "created_at": "2011-05-04T20:45:36.000Z",
+                "description": "GYTO has grown organically from humble beginnings into a FREE daily tipping service. Horse racing enthusiasts. Followers must be 18+ https://t.co/2RyHF1JlEt",
+                "id": "293142083",
+                "name": "GetYourTipsOut",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/951074538363768832/0HBeoJD3_normal.jpg",
+                "username": "GetYourTipsOut",
+                "verified": false
+            },
+            {
+                "created_at": "2020-01-26T15:40:26.000Z",
+                "description": "Freeli TV is a free TV offering the best in Black Entertainment. With over 50 channels, download today on Amazon Fire TV and all mobile devices.",
+                "id": "1221457836066164736",
+                "name": "Freeli TV",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1365686451036450816/gUszKz4o_normal.png",
+                "username": "FreeliTv",
+                "verified": false
+            },
+            {
+                "created_at": "2016-05-06T14:20:27.000Z",
+                "description": "We Find & Share Sign Up Offers From Some Of The Top Bookmakers & casino Sites. We Offer Reviews & Exclusive Offers at https://t.co/rcimElGRQm 18+",
+                "id": "728590254140211200",
+                "name": "Slots+Casino+Sports",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1168275830876835845/plRsS5LO_normal.jpg",
+                "username": "BookieOffers728",
+                "verified": false
+            },
+            {
+                "created_at": "2018-07-31T06:57:12.000Z",
+                "description": "All the latest football news from all the major football leagues,keep up to date with what's going on. Over18s https://t.co/QtF0VcPzM7",
+                "id": "1024187202081828864",
+                "name": "Soccer Talk",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1024189183118721025/vnHAJaqt_normal.jpg",
+                "username": "soccertal",
+                "verified": false
+            },
+            {
+                "created_at": "2020-07-07T08:11:32.000Z",
+                "description": "gaming youtuber | BackUp Twitter- @RandomTweetsLLC \n #BlackLivesMatter #StopRacism\nsharp tk went & looted every fast food and looted cheeseburgers!   #BLM #AD",
+                "id": "1280414079065247744",
+                "name": ".",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1396509046086139906/mFtIJXCd_normal.jpg",
+                "username": "DownloadedLink",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1400497707446378498",
+        "next_token": "b26v89c19zqg8o3fpdg6x2bzb0f08uwz12kwp2z1bkznh",
+        "oldest_id": "1400497538235514880",
+        "result_count": 10
+    }
+}

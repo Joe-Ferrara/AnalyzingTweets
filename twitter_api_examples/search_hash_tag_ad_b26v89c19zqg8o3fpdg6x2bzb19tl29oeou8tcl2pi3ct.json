@@ -1,0 +1,1071 @@
+{
+    "data": [
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400497963437367296"
+                ]
+            },
+            "author_id": "138338122",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597302296576",
+                        "name": "Specialty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1137010313503551488",
+                        "name": "Funko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1354885514906624003",
+                        "name": "GameStop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1206704182717104128",
+                        "name": "Model figures"
+                    }
+                }
+            ],
+            "conversation_id": "1400497966448787458",
+            "created_at": "2021-06-03T17:01:49.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 102,
+                        "normalized_text": "GameStop exclusive Bounty Hunter",
+                        "probability": 0.588,
+                        "start": 71,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 145,
+                        "start": 142,
+                        "tag": "Ad"
+                    },
+                    {
+                        "end": 150,
+                        "start": 146,
+                        "tag": "FPN"
+                    },
+                    {
+                        "end": 164,
+                        "start": 151,
+                        "tag": "FunkoPOPNews"
+                    },
+                    {
+                        "end": 171,
+                        "start": 165,
+                        "tag": "Funko"
+                    },
+                    {
+                        "end": 176,
+                        "start": 172,
+                        "tag": "POP"
+                    },
+                    {
+                        "end": 184,
+                        "start": 177,
+                        "tag": "Funkos"
+                    },
+                    {
+                        "end": 194,
+                        "start": 185,
+                        "tag": "POPVinyl"
+                    },
+                    {
+                        "end": 204,
+                        "start": 195,
+                        "tag": "FunkoPOP"
+                    },
+                    {
+                        "end": 215,
+                        "start": 205,
+                        "tag": "FunkoPOPs"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3pjAirB",
+                        "end": 141,
+                        "expanded_url": "https://bit.ly/3pjAirB",
+                        "start": 118,
+                        "url": "https://t.co/OWsdZ8eHtw"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/GqIs97FMCt",
+                        "end": 239,
+                        "expanded_url": "https://twitter.com/FunkoPOPsNews/status/1400497966448787458/photo/1",
+                        "start": 216,
+                        "url": "https://t.co/GqIs97FMCt"
+                    }
+                ]
+            },
+            "id": "1400497966448787458",
+            "public_metrics": {
+                "like_count": 74,
+                "quote_count": 0,
+                "reply_count": 7,
+                "retweet_count": 7
+            },
+            "source": "Twitter for iPhone",
+            "text": "Available for pre order soon at the link below, the third piece in the GameStop exclusive Bounty Hunter set ~\nLinky ~ https://t.co/OWsdZ8eHtw\n#Ad #FPN #FunkoPOPNews #Funko #POP #Funkos #POPVinyl #FunkoPOP #FunkoPOPs https://t.co/GqIs97FMCt"
+        },
+        {
+            "author_id": "930931544692350976",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1400497840212828164",
+            "created_at": "2021-06-03T17:01:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 19,
+                        "start": 16,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/status/13943\u2026",
+                        "end": 43,
+                        "expanded_url": "https://twitter.com/i/status/1394354389998002183#1622739667",
+                        "start": 20,
+                        "url": "https://t.co/876vQmINOy"
+                    }
+                ]
+            },
+            "id": "1400497840212828164",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1394354389998002183",
+                    "type": "quoted"
+                }
+            ],
+            "source": "Glasgow Watch",
+            "text": "Check this out! #ad\nhttps://t.co/876vQmINOy"
+        },
+        {
+            "author_id": "745014260087070720",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1400497838442827784",
+            "created_at": "2021-06-03T17:01:19.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 19,
+                        "start": 16,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/status/13943\u2026",
+                        "end": 43,
+                        "expanded_url": "https://twitter.com/i/status/1394354389998002183#1622739666",
+                        "start": 20,
+                        "url": "https://t.co/4hgLaHZutx"
+                    }
+                ]
+            },
+            "id": "1400497838442827784",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1394354389998002183",
+                    "type": "quoted"
+                }
+            ],
+            "source": "Edinburgh Watch",
+            "text": "Check this out! #ad\nhttps://t.co/4hgLaHZutx"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400497804997320708"
+                ]
+            },
+            "author_id": "28955739",
+            "conversation_id": "1400497822458212363",
+            "created_at": "2021-06-03T17:01:15.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "Warhammer Skulls",
+                        "probability": 0.6921,
+                        "start": 0,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 56,
+                        "tag": "ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3fKnhUG",
+                        "end": 55,
+                        "expanded_url": "https://bit.ly/3fKnhUG",
+                        "start": 32,
+                        "url": "https://t.co/ijoPS49dNt"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/a6dVjpH2UR",
+                        "end": 83,
+                        "expanded_url": "https://twitter.com/Wario64/status/1400497822458212363/photo/1",
+                        "start": 60,
+                        "url": "https://t.co/a6dVjpH2UR"
+                    }
+                ]
+            },
+            "id": "1400497822458212363",
+            "public_metrics": {
+                "like_count": 37,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "source": "TweetDeck",
+            "text": "Warhammer Skulls sale on Humble https://t.co/ijoPS49dNt #ad https://t.co/a6dVjpH2UR"
+        },
+        {
+            "author_id": "883436749044809728",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1400497818003906563",
+            "created_at": "2021-06-03T17:01:14.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 5,
+                        "normalized_text": "Amazon",
+                        "probability": 0.5733,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Piece Dry Food Container with Lids Airtight",
+                        "probability": 0.2709,
+                        "start": 15,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 7,
+                        "tag": "AD"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dealingindeals.com/amazon-ad-12-p\u2026",
+                        "end": 122,
+                        "expanded_url": "https://dealingindeals.com/amazon-ad-12-piece-dry-food-container-with-lids-airtight-for-25-29-was-45-98-free-shipping/",
+                        "start": 99,
+                        "url": "https://t.co/YuXm72kl2E"
+                    }
+                ]
+            },
+            "id": "1400497818003906563",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "WordPress.com",
+            "text": "Amazon #AD: 12-Piece Dry Food Container with Lids Airtight for $25.29 (Was $45.98) + Free\u00a0Shipping https://t.co/YuXm72kl2E"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400497784026013698"
+                ]
+            },
+            "author_id": "45598227",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "Coverage of the latest tennis action.",
+                        "id": "10029940559",
+                        "name": "Live: The French Open Tennis"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10049609722",
+                        "name": "2017 French Open Tennis"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television show episodes",
+                        "id": "4",
+                        "name": "TV Episodes"
+                    },
+                    "entity": {
+                        "description": "Coverage of the second round of Roland-Garros, as the world's top tennis players meet in Paris. John Inverdale presents the action, with match analysis from two-time men's champion Jim Courier, former French players Fabrice Santoro and Marion Bartoli, Andy Murray's former coach, Mark Petchey, and former British number ones Anne Keothavong and Sam Smith. Commentary from Nick Mullins and Jonathan Overend, with Celina Hinchcliffe reporting.",
+                        "id": "1395880747605520384",
+                        "name": "Day 5"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "6",
+                        "name": "Sports Event"
+                    },
+                    "entity": {
+                        "id": "1275806388367720450",
+                        "name": "2022 FIFA World Cup"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Types of sports, like soccer and basketball",
+                        "id": "11",
+                        "name": "Sport"
+                    },
+                    "entity": {
+                        "id": "733756536430809088",
+                        "name": "Soccer"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "1384518599562301449",
+                        "name": "UEFA European Championship"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "1275806388367720450",
+                        "name": "2022 FIFA World Cup"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "1304474187961044993",
+                        "name": "FIFA Men's World Cup"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "1384518599562301449",
+                        "name": "UEFA European Championship"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+                        "id": "40",
+                        "name": "Sports Series"
+                    },
+                    "entity": {
+                        "id": "1275806388367720450",
+                        "name": "2022 FIFA World Cup"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "847869481888096256",
+                        "name": "Gambling"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Sports Betting",
+                        "id": "1158813612409929728",
+                        "name": "Sports betting"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Types of sports, like soccer and basketball",
+                        "id": "11",
+                        "name": "Sport"
+                    },
+                    "entity": {
+                        "description": "Horse racing",
+                        "id": "847901716024446977",
+                        "name": "Horse racing & equestrian"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                        "id": "46",
+                        "name": "Brand Category"
+                    },
+                    "entity": {
+                        "id": "781974597222535168",
+                        "name": "Online Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10040539166",
+                        "name": "BetVictor"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Hobbies and interests",
+                        "id": "847868745150119936",
+                        "name": "Home & family"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "847869481888096256",
+                        "name": "Gambling"
+                    }
+                }
+            ],
+            "conversation_id": "1400497787054264323",
+            "created_at": "2021-06-03T17:01:07.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 155,
+                        "normalized_text": "Canada",
+                        "probability": 0.5855,
+                        "start": 150,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 247,
+                        "start": 239,
+                        "tag": "WCQ2022"
+                    },
+                    {
+                        "end": 260,
+                        "start": 248,
+                        "tag": "Bettingtips"
+                    },
+                    {
+                        "end": 272,
+                        "start": 261,
+                        "tag": "FrenchOpen"
+                    },
+                    {
+                        "end": 282,
+                        "start": 273,
+                        "tag": "EURO2020"
+                    },
+                    {
+                        "end": 286,
+                        "start": 283,
+                        "tag": "Ad"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "service.bv-aff-trx.com/C.ashx?btag=a_\u2026",
+                        "end": 128,
+                        "expanded_url": "http://service.bv-aff-trx.com/C.ashx?btag=a_43346b_11325c_&affid=23064&siteid=43346&adid=11325&c=",
+                        "start": 105,
+                        "url": "https://t.co/CGWPQhIRVs"
+                    },
+                    {
+                        "display_url": "bit.ly/BetvictorSign-\u2026",
+                        "end": 207,
+                        "expanded_url": "http://bit.ly/BetvictorSign-Ups",
+                        "start": 184,
+                        "url": "https://t.co/FJ7UUnUhzN"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/vyOfilX99T",
+                        "end": 312,
+                        "expanded_url": "https://twitter.com/BettingOffers7/status/1400497787054264323/photo/1",
+                        "start": 289,
+                        "url": "https://t.co/vyOfilX99T"
+                    }
+                ]
+            },
+            "id": "1400497787054264323",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "Twittimer",
+            "text": "Betting Online With Betvictor\nNew Customers Offers\n\nBet just \u20ac\u00a35 &amp; Get \u20ac\u00a330 In Free Bets\nLink below\n\ud83d\udd38https://t.co/CGWPQhIRVs\n\nHorse Racing Get \u00a340 &amp; Canada &amp; Casino Offer\n\ud83d\udd38https://t.co/FJ7UUnUhzN\n\n18+T&amp;Cs GambleResponsibly #WCQ2022\n#Bettingtips #FrenchOpen #EURO2020 #Ad'9 https://t.co/vyOfilX99T"
+        },
+        {
+            "author_id": "1141338474",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10045675573",
+                        "name": "Stranger Things (Netflix)"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10051425401",
+                        "name": "Stranger Things"
+                    }
+                }
+            ],
+            "conversation_id": "1400497758671454211",
+            "created_at": "2021-06-03T17:01:00.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Mitchell Bay",
+                        "probability": 0.9666,
+                        "start": 11,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 206,
+                        "normalized_text": "Stranger Things",
+                        "probability": 0.5666,
+                        "start": 192,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 216,
+                        "start": 209,
+                        "tag": "PitMad"
+                    },
+                    {
+                        "end": 220,
+                        "start": 217,
+                        "tag": "MG"
+                    },
+                    {
+                        "end": 225,
+                        "start": 221,
+                        "tag": "CON"
+                    },
+                    {
+                        "end": 229,
+                        "start": 226,
+                        "tag": "AD"
+                    },
+                    {
+                        "end": 232,
+                        "start": 230,
+                        "tag": "M"
+                    }
+                ]
+            },
+            "id": "1400497758671454211",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "source": "TweetDeck",
+            "text": "The Boy in Mitchell Bay - Before summer's end, a diverse group of five friends aim to solve the fifty-year-old mystery of an unidentified boy who drowned during a hurricane. Stand By Me meets Stranger Things. #PitMad #MG #CON #AD #M"
+        },
+        {
+            "attachments": {
+                "media_keys": [
+                    "3_1400296644806127617"
+                ]
+            },
+            "author_id": "2838296544",
+            "conversation_id": "1400497758671228930",
+            "created_at": "2021-06-03T17:01:00.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 171,
+                        "start": 168,
+                        "tag": "AD"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Bet online on all your favourite sports. Get competitive odds and bet online with SportNation, the sports betting site for soccer, horse racing, tennis, golf and more",
+                        "display_url": "bit.ly/3csVM0S",
+                        "end": 98,
+                        "expanded_url": "http://bit.ly/3csVM0S",
+                        "start": 75,
+                        "status": 200,
+                        "title": "Online Sports Betting - Sports Betting Sites UK | SportNation",
+                        "unwound_url": "https://www.sportnation.bet/sports/?",
+                        "url": "https://t.co/f6qMouhGcF"
+                    },
+                    {
+                        "display_url": "BeGambleAware.org",
+                        "end": 165,
+                        "expanded_url": "http://BeGambleAware.org",
+                        "start": 142,
+                        "url": "https://t.co/ajiA03HTal"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/5dsrU2Ziyz",
+                        "end": 195,
+                        "expanded_url": "https://twitter.com/BigBoomTips/status/1400497758671228930/photo/1",
+                        "start": 172,
+                        "url": "https://t.co/5dsrU2Ziyz"
+                    }
+                ]
+            },
+            "id": "1400497758671228930",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "source": "TweetDeck",
+            "text": "WHO WANTS A \u00a310 FREE BET?\n\n\ud83d\udc47 JOIN SPORTNATION AND BET \u00a310 TO GET YOURS!\n\n\ud83d\udd17 https://t.co/f6qMouhGcF\n\n\ud83d\udd1e | New customer offer | T&amp;Cs apply | https://t.co/ajiA03HTal | #AD https://t.co/5dsrU2Ziyz"
+        },
+        {
+            "author_id": "272052716",
+            "conversation_id": "1400497756322635779",
+            "created_at": "2021-06-03T17:00:59.000Z",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 264,
+                        "start": 257,
+                        "tag": "pitmad"
+                    },
+                    {
+                        "end": 268,
+                        "start": 265,
+                        "tag": "YA"
+                    },
+                    {
+                        "end": 272,
+                        "start": 269,
+                        "tag": "AC"
+                    },
+                    {
+                        "end": 276,
+                        "start": 273,
+                        "tag": "AD"
+                    },
+                    {
+                        "end": 279,
+                        "start": 277,
+                        "tag": "F"
+                    }
+                ]
+            },
+            "id": "1400497756322635779",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "source": "Twitter Web App",
+            "text": "DANCE OF CLOAKS X THE EYE OF THE WORLD\nFive unlikely heroes are thrown into the past at the peak of Atlantis' history. There they find that magic, the lost history of the creators and the brutal ways of the past aren't the only secrets kept from the world.\n#pitmad #YA #AC #AD #F"
+        },
+        {
+            "author_id": "863812773939204097",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+                        "id": "1005930552363384833",
+                        "name": "Dying Light"
+                    }
+                }
+            ],
+            "conversation_id": "1400497737490210819",
+            "created_at": "2021-06-03T17:00:55.000Z",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 109,
+                        "normalized_text": "Techland",
+                        "probability": 0.2349,
+                        "start": 102,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 179,
+                        "start": 176,
+                        "tag": "AD"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 175,
+                        "start": 160,
+                        "username": "DyingLightGame"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/bZgaF8UQIhE",
+                        "end": 159,
+                        "expanded_url": "https://youtu.be/bZgaF8UQIhE",
+                        "start": 136,
+                        "url": "https://t.co/3C5JOGRaqa"
+                    }
+                ]
+            },
+            "id": "1400497737490210819",
+            "public_metrics": {
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "source": "Hootsuite Inc.",
+            "text": "Be sure to check out our latest Dying Light Funny Moments video where we have some exciting news from Techland about Dying Light 2! :D \nhttps://t.co/3C5JOGRaqa\n@DyingLightGame #AD"
+        }
+    ],
+    "includes": {
+        "media": [
+            {
+                "media_key": "3_1400497963437367296",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400497804997320708",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400497784026013698",
+                "type": "photo"
+            },
+            {
+                "media_key": "3_1400296644806127617",
+                "type": "photo"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2010-04-29T08:01:17.000Z",
+                "description": "The latest from the collecting world. #FPN #FunkoPOPNews #Funko #FunkoPOP #POP #POPVinyl #Funkos #SDCC #NYCC #ECCC #BlackFriday https://t.co/7RBfO1RjFM",
+                "id": "138338122",
+                "name": "Funko POP News !",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/773378482273415168/pItkwztg_normal.jpg",
+                "username": "FunkoPOPsNews",
+                "verified": false
+            },
+            {
+                "created_at": "2017-11-15T22:52:30.000Z",
+                "description": "I randomly RT content from in and around Glasgow to present a slice of Clydeside life. Sister account to @EdinburghWatch. Created by actual human @ardavey.",
+                "id": "930931544692350976",
+                "name": "Glasgow Watch",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1164654077596307459/GF6F1bgd_normal.jpg",
+                "username": "Glasgow_Watch",
+                "verified": false
+            },
+            {
+                "created_at": "2016-06-20T22:03:36.000Z",
+                "description": "I randomly RT content from around Edinburgh to present a slice of Lothian life. Sister account to @Glasgow_Watch. Created by actual human @ardavey.",
+                "id": "745014260087070720",
+                "name": "Edinburgh Watch",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/774056027444707328/lDLQftWS_normal.jpg",
+                "username": "EdinburghWatch",
+                "verified": false
+            },
+            {
+                "created_at": "2009-04-05T07:08:20.000Z",
+                "description": "I like video games. I tweet deals which may contain affiliate links. As an Amazon Associate I earn from qualifying purchases. Epic Creator Tag: Wario64",
+                "id": "28955739",
+                "name": "Wario64",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1353897137361178624/DBFSX6Mb_normal.jpg",
+                "username": "Wario64",
+                "verified": true
+            },
+            {
+                "created_at": "2017-07-07T21:25:09.000Z",
+                "description": "",
+                "id": "883436749044809728",
+                "name": "DealinginDeals",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/903156167878127620/TYN0g7co_normal.jpg",
+                "username": "dealingindeals",
+                "verified": false
+            },
+            {
+                "created_at": "2009-06-08T16:05:05.000Z",
+                "description": "We Find & Share Sign Up Offers From Some Of The Top Bookmakers & casino Sites. We Offer Reviews & Exclusive Offers at https://t.co/gIC4QnOm91 #bettingtip",
+                "id": "45598227",
+                "name": "Your Betting Offers 2021",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1371941033584513027/lyxgRCnV_normal.jpg",
+                "username": "BettingOffers7",
+                "verified": false
+            },
+            {
+                "created_at": "2013-02-02T03:15:59.000Z",
+                "description": "Novelist. \ud83d\udcda Screenwriter. \ud83c\udfac Tennis player. \ud83c\udfbe Canadian. \ud83c\udde8\ud83c\udde6\n\n\"He was a gentil harlot and a kinde;\nA bettre felawe sholde men nought finde\"",
+                "id": "1141338474",
+                "name": "Trevor C. Scott",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1322893562598490115/5_BFyh64_normal.jpg",
+                "username": "IAmTrevorScott",
+                "verified": false
+            },
+            {
+                "created_at": "2014-10-02T19:32:31.000Z",
+                "description": "18+ https://t.co/H0vygPeuPj - All odds are correct when bets are posted unless stated otherwise. Let's find some winners!",
+                "id": "2838296544",
+                "name": "Big Boom Tips",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/865218584833736708/tff-sf0F_normal.jpg",
+                "username": "BigBoomTips",
+                "verified": false
+            },
+            {
+                "created_at": "2011-03-25T18:32:11.000Z",
+                "description": "#Writer currently querying for my first novel. #Gamer and best friends with caffeine. \ud83c\udff3\ufe0f\u200d\ud83c\udf08 #writingcommunity #amwritingfantasy #amquerying",
+                "id": "272052716",
+                "name": "Richard Patt",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1272652276553920512/iP93uVHH_normal.jpg",
+                "username": "TiddlyVirus",
+                "verified": false
+            },
+            {
+                "created_at": "2017-05-14T17:46:28.000Z",
+                "description": "4 misfits who suck at games. Join us on YouTube & https://t.co/9vScj6qZNY",
+                "id": "863812773939204097",
+                "name": "WorstPremadeEver",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1207988988298051584/jVi-SzM7_normal.jpg",
+                "username": "WPEGaming",
+                "verified": false
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1400497966448787458",
+        "next_token": "b26v89c19zqg8o3fpdg6x2bzb0udamp302ulx234uwghp",
+        "oldest_id": "1400497737490210819",
+        "result_count": 10
+    }
+}
