@@ -1,3 +1,6 @@
 # configuration stuff
 _config/
 experimenting/
+
+# ignore data
+explore_ad_tweets/data/*
